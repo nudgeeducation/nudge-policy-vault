@@ -15,8 +15,6 @@ This site is built from an Obsidian vault published with [Quartz](https://quartz
 - **Nudge Education Ltd** (Company Number 10192753) — the parent company, operating face-to-face interventions across the UK
 - **Nudge Education Online (NEO)** — the fully online alternative provision, launching September 2026
 
-Haven, a separate hyflex provision, maintains its own [policy site](https://thenovacene.github.io/haven-policy-site/) and is not covered by this vault.
-
 ## Architecture
 
 Where Nudge Education already holds a canonical policy and NEO requires online-specific provisions, those provisions appear as an **NEO Online Addendum** block at the end of the canonical policy — not as a duplicate document. This means:

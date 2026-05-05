@@ -38,6 +38,10 @@ If you're commissioning a place — whether for a face-to-face intervention or a
 
 Where a Nudge Education policy already covers the topic, the **NEO Online Addendum** appears as a section at the end of that policy — one canonical policy, one version for LA verification. Genuinely online-specific policies (Online Safety, AI, Teaching & Learning, Behaviour & Regulation, Home-School Agreement) live in [[neo-only/index|NEO Online — Standalone]].
 
+## Sister repos
+
+- [NEO Curriculum Vault](https://nudgeeducation.github.io/neo-curriculum-vault/) — the canonical curriculum library for Nudge Education Online
+
 ---
 
 **Last updated:** 29 April 2026 · **Operated by:** Nudge Education Ltd (Company Number 10192753)
