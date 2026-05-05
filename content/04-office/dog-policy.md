@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 4. Office Staff/Dog Policy - Dec 2025.pdf
 ---
-
-# Dog Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 Dogs in the office Policy

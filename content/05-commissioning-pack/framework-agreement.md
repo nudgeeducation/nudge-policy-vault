@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Nudge Education - Framework Agreement - for all Interventions from 1st September 2025.pdf
 ---
-
-# Nudge Education Framework Agreement
-
 > **Operated by:** Nudge Education Ltd · **Version:** Sept 2025+ · **Owner:** Director of Operations
 
 Nudge Education Limited

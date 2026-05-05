@@ -10,9 +10,6 @@ owner_role: Data Protection Officer
 neo_addendum: false
 source_file: 1. All Company/Privacy Policy Web Users - Dec 2025.pdf
 ---
-
-# Privacy Policy — Web Users
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Data Protection Officer
 
 Privacy Policy: Web users Last Updated: 6/12/2025

@@ -10,9 +10,6 @@ owner_role: Director NEO & Head of School + DSL
 neo_addendum: false
 source_file: NEO Policies/NEO - Behaviour and Regulation Policy v04.26.docx
 ---
-
-# NEO — Behaviour and Regulation Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** v04.26 · **Owner:** Director NEO & Head of School + DSL
 
 NEO BY NUDGE EDUCATION

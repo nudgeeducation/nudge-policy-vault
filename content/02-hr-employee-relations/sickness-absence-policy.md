@@ -10,9 +10,6 @@ owner_role: HR / People
 neo_addendum: false
 source_file: 2. HR and Employee Relations/Sickness Absence Policy - Nov 2025.pdf
 ---
-
-# Sickness Absence Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Nov 2025 · **Owner:** HR / People
 
 Sickness Absence Policy

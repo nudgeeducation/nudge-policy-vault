@@ -10,9 +10,6 @@ owner_role: Director NEO & Head of School + DSL
 neo_addendum: false
 source_file: NEO Policies/NEO - Artificial Intelligence Policy (Diamond Standard — NEO Implementation) v04.26.docx
 ---
-
-# NEO — Artificial Intelligence Policy (Diamond Standard)
-
 > **Operated by:** Nudge Education Ltd · **Version:** v04.26 · **Owner:** Director NEO & Head of School + DSL
 
 NEO BY NUDGE EDUCATION

@@ -10,9 +10,6 @@ owner_role: DSL
 neo_addendum: true
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Nudge Education Child Protection and Safeguarding Policy December 25 (3).pdf
 ---
-
-# Child Protection and Safeguarding Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 (NEO addendum DRAFT) · **Owner:** DSL
 
 Child Protection & Safeguarding Policy

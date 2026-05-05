@@ -7,9 +7,6 @@ type: meta
 status: live
 review_frequency: annual
 ---
-
-# SLT & Directors Pack
-
 Policy and reference set for the Senior Leadership Team, Directors, and Head of School.
 
 ## Leadership and governance

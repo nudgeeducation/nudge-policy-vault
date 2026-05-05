@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# Tag Taxonomy
-
 Every policy in this vault carries the following YAML frontmatter. Tags drive the audience views, the commissioner pack, and the Nudge platform sign-off integration.
 
 ```yaml

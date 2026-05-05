@@ -10,9 +10,6 @@ owner_role: HR / People
 neo_addendum: true
 source_file: 2. HR and Employee Relations/Grievance and Dispute Policy - Dec 2025.pdf
 ---
-
-# Grievance and Dispute Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** HR / People
 
 Grievance and Dispute Policy

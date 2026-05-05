@@ -10,9 +10,6 @@ owner_role: HR / People
 neo_addendum: false
 source_file: 2. HR and Employee Relations/Hybrid and Remote Working Policy - Sep 2025.pdf
 ---
-
-# Hybrid and Remote Working Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Sep 2025 · **Owner:** HR / People
 
 Hybrid & Remote Working

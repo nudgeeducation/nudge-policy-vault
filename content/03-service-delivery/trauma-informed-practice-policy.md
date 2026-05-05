@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: true
 source_file: 3. Service Delivery/Trauma-Informed Practice Policy -  Dec 2025.pdf
 ---
-
-# Trauma-Informed Practice Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 TRAUMA-INFORMED PRACTICE POLICY

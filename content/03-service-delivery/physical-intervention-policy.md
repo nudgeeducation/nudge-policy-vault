@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 3. Service Delivery/Physical Intervention Policy - Dec 2025.pdf
 ---
-
-# Physical Intervention Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 PHYSICAL INTERVENTION POLICY

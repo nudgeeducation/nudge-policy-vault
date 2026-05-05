@@ -10,9 +10,6 @@ owner_role: Director of Operations
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Insurances/
 neo_addendum: false
 ---
-
-# Evidence of Insurance
-
 > **Operated by:** Nudge Education Ltd · **Owner:** Director of Operations
 
 ## About this pack

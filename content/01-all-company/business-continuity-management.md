@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 1. All Company/Business Continuity Management - Dec 2025.pdf
 ---
-
-# Business Continuity Management
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 BUSINESS CONTINUITY

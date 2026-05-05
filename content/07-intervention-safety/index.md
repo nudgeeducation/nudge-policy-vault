@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# Intervention Safety, Safeguarding & Complex Needs
-
 Policies relating to the safe delivery of interventions, including for learners with complex behaviours and complex needs. Several of these policies are **inactive for NEO** because online provision doesn't involve physical contact or in-person crisis intervention.
 
 ## Policies in this category

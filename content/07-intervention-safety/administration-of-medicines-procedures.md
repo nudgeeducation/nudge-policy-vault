@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 7. Intervention Safety - Safeguarding, Complex behaviours and Complex needs/Nudge Education Administration of Medicines Procedures February 2025.docx.pdf
 ---
-
-# Administration of Medicines Procedures (Feb 2025)
-
 > **Operated by:** Nudge Education Ltd · **Version:** Feb 2025 · **Owner:** Director of Operations
 
 ADMINISTRATION OF

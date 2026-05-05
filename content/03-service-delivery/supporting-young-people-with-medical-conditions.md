@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: true
 source_file: 3. Service Delivery/Supporting Young People with Medical Conditions Policy - Dec 2025.pdf
 ---
-
-# Supporting Young People with Medical Conditions
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 Supporting Young People with Medical Conditions

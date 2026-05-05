@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: true
 source_file: 1. All Company/Equality, Diversity and Inclusion Policy - Dec 2025.pdf
 ---
-
-# Equality, Diversity and Inclusion Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 Equality, Diversity & Inclusion Policy

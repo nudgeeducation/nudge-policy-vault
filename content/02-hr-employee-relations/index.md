@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# HR & Employee Relations Policies
-
 Employment, conduct, leave, and disciplinary policies — applies to all Nudge Education staff regardless of provision.
 
 ## Policies in this category

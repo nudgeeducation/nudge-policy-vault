@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Fair Assessment Policy - Dec 2025 - Nudge Education.pdf
 ---
-
-# Fair Assessment Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 FAIR ASSESSMENT POLICY

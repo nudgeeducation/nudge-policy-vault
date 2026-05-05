@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: true
 source_file: 3. Service Delivery/Nudge Education Risk Assessment Policy Jan 2026 (2).pdf
 ---
-
-# Risk Assessment Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Jan 2026 · **Owner:** Director of Operations
 
 RISK ASSESSMENT POLICY

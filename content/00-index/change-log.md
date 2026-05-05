@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# Vault Change Log
-
 A running log of structural changes, policy additions, and version uplifts.
 
 ## 2026-04-29 — Vault initialised

@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: true
 source_file: 3. Service Delivery/Administration of Medication Policy - Dec 2025.pdf
 ---
-
-# Administration of Medication Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 ADMINISTRATION OF MEDICATION POLICY

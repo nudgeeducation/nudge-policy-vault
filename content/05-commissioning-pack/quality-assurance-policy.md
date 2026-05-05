@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Quality Assurance Policy - Dec 2025 - Nudge Education.pdf
 ---
-
-# Quality Assurance Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 QUALITY ASSURANCE POLICY

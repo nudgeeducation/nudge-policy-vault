@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: true
 source_file: 1. All Company/Complaints Policy - Dec 25.docx (2).pdf
 ---
-
-# Complaints Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 COMPLAINTS POLICY & PROCEDURE

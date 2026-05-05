@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# Management & Executive Policies
-
 Policies primarily relevant to the senior leadership team and directors.
 
 ## Policies in this category

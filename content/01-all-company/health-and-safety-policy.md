@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: true
 source_file: 1. All Company/Health and Safety Policy - Dec 2025.pdf
 ---
-
-# Health and Safety Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 Health and Safety Policy (Incorporating; Risk Assessment Policy, Accident &

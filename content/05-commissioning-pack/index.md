@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# Commissioning Pack
-
 The curated documentation Local Authority commissioners and school-based DSLs need when procuring a place at Nudge Education — for face-to-face interventions or NEO online placements. **All documents in this pack are external-facing**.
 
 ## What's in this pack

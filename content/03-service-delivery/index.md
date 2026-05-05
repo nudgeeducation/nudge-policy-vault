@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# Service Delivery Policies
-
 Policies governing how Nudge Education delivers provision to learners — face-to-face interventions and NEO online learning. Most policies in this category include an **NEO Online Addendum** because online provision changes the operational detail.
 
 ## Policies in this category

@@ -8,9 +8,6 @@ status: live
 sign_off_required: true
 review_frequency: annual
 ---
-
-# DSL & Safeguarding Team Pack
-
 The policy and reference set for the **Designated Safeguarding Lead, Deputy DSLs, and the wider safeguarding team**.
 
 ## Safeguarding core

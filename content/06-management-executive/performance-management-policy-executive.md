@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 6. Management and Executive/Performance Management Policy - Nudge Oct 2024.pdf
 ---
-
-# Performance Management Policy (Executive view)
-
 > **Operated by:** Nudge Education Ltd · **Version:** Oct 2024 · **Owner:** Director of Operations
 
 Nudge Education Performance Management Policy

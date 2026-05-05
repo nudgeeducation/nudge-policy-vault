@@ -7,9 +7,6 @@ type: meta
 status: live
 review_frequency: annual
 ---
-
-# Office Staff Pack
-
 For office-based staff (finance, admin, HR, operational support).
 
 ## Office-specific

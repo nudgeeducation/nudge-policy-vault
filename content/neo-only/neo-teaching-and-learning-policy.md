@@ -10,9 +10,6 @@ owner_role: Director NEO & Head of School
 neo_addendum: false
 source_file: NEO Policies/NEO - Teaching and Learning Policy v04.26.docx
 ---
-
-# NEO — Teaching and Learning Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** v04.26 · **Owner:** Director NEO & Head of School
 
 NEO BY NUDGE EDUCATION

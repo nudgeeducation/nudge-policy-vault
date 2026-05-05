@@ -10,9 +10,6 @@ owner_role: Finance
 neo_addendum: false
 source_file: 1. All Company/Expenses Policy - Dec 2025.pdf
 ---
-
-# Expenses Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Finance
 
 Expenses Policy

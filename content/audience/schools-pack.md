@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# For Schools
-
 The policy set most useful to school-based commissioners, school DSLs, and AP coordinators when referring a learner to Nudge Education or NEO.
 
 ## Safeguarding and information sharing

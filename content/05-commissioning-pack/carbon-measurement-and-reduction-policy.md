@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Carbon Measurement and Reduction Policy - Jan 2025 - Nudge Education.pdf
 ---
-
-# Carbon Measurement and Reduction Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Jan 2025 · **Owner:** Director of Operations
 
 Nudge Education Carbon Measurement and Reduction Policy

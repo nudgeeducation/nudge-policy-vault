@@ -10,9 +10,6 @@ owner_role: Data Protection Officer
 neo_addendum: false
 source_file: 1. All Company/SAR Request Policy - Dec 2025.pdf
 ---
-
-# SAR Request Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Data Protection Officer
 
 Nudge Education Subject Access Request Policy

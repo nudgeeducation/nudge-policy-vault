@@ -6,9 +6,6 @@ provision: neo
 type: meta
 status: live
 ---
-
-# NEO Online — Standalone Policies
-
 Policies that are genuinely specific to **Nudge Education Online (NEO)** — they cover ground that the parent Nudge Education policies don't address, because the online provision context is different.
 
 ## Policies in this category

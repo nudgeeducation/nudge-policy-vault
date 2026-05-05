@@ -10,9 +10,6 @@ owner_role: HR / People
 neo_addendum: false
 source_file: 2. HR and Employee Relations/Parental Leave Policy - Dec 2025.pdf
 ---
-
-# Parental Leave Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** HR / People
 
 Parental Leave Policy (Maternity, Paternity,

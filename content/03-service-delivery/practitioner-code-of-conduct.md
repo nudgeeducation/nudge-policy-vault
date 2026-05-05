@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: true
 source_file: 3. Service Delivery/Practitioner Code of Conduct - Dec 2025.pdf
 ---
-
-# Practitioner / Staff Code of Conduct
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 Practitioner Code of Conduct

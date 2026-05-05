@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# For Parents & Carers
-
 The policies that matter most when your child or young person joins Nudge Education — whether for a face-to-face intervention or an NEO online place.
 
 ## NEO online specifics

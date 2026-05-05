@@ -10,9 +10,6 @@ owner_role: HR / People
 neo_addendum: true
 source_file: 2. HR and Employee Relations/Disciplinary and Investigation Policy - Dec 2025.pdf
 ---
-
-# Disciplinary and Investigation Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** HR / People
 
 Disciplinary and Investigation Policy

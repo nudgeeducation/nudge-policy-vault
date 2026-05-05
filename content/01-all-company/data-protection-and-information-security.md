@@ -10,9 +10,6 @@ owner_role: Data Protection Officer
 neo_addendum: true
 source_file: 1. All Company/Data Protection and Information Security Policy - Dec 2025.pdf
 ---
-
-# Data Protection and Information Security Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Data Protection Officer
 
 Nudge Education Data Protection & Information Security

@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# Commissioner Pack
-
 The complete set of documents Local Authority commissioners need when procuring a place at Nudge Education — face-to-face or NEO online.
 
 ## Operating entity

@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 7. Intervention Safety - Safeguarding, Complex behaviours and Complex needs/Anaphylaxis and Adrenaline Auto-Injector (EpiPen) Policy Nov 2024 V1.docx (1).pdf
 ---
-
-# Anaphylaxis and Adrenaline Auto-Injector (EpiPen) Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Nov 2024 · **Owner:** Director of Operations
 
 Anaphylaxis and Adrenaline Auto-Injector (EpiPen) Policy

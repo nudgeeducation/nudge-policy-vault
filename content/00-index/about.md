@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# About the Nudge Education Policy Vault
-
 The single source of truth for all policies operated by **Nudge Education Ltd**, including the online provision **Nudge Education Online (NEO)**.
 
 This site is built from an Obsidian vault published with [Quartz](https://quartz.jzhao.xyz/). Every policy is authored in markdown with structured frontmatter, then rendered as a connected, searchable website.

@@ -12,9 +12,6 @@ neo_addendum: false
 last_reviewed: 2026-04
 source_file: NEO Policies/NEO - Online Safety and Acceptable Use Policy v04.26.docx
 ---
-
-# Online Safety and Acceptable Use Policy
-
 > **NEO by Nudge Education** · Version v04.26 · Approved April 2026 · Review April 2027
 
 This policy applies to all learners, staff, practitioners, contractors, volunteers and visitors of Nudge Education Online (NEO). NEO is a fully online alternative provision for learners aged 11–18, operated by **Nudge Education Ltd** (Company Number 10192753). NEO is not a DfE-registered independent school and is not subject to Independent Schools Inspectorate (ISI) inspection. NEO is pursuing **OEAS accreditation** only.

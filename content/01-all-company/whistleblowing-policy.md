@@ -12,9 +12,6 @@ neo_addendum: false
 last_reviewed: 2025-12-05
 source_file: 1. All Company/Whistleblowing Policy - Dec 2025.pdf
 ---
-
-# Nudge Education Whistleblowing Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** 1.1 (December 2025) · **Review:** December 2026
 
 ## 1. Introduction

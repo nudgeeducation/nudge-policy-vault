@@ -10,9 +10,6 @@ owner_role: Data Protection Officer
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Data Protection/F - Data Protection Impact Assessment (DPIA) Form - 1.docx
 neo_addendum: false
 ---
-
-# DPIA Form (template)
-
 > **Operated by:** Nudge Education Ltd · **Owner:** Data Protection Officer
 
 ## About this template

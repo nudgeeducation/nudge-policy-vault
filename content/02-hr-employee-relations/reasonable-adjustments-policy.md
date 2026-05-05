@@ -10,9 +10,6 @@ owner_role: HR / People
 neo_addendum: false
 source_file: 2. HR and Employee Relations/Reasonable Adjustments Policy - Mar 2025.pdf
 ---
-
-# Reasonable Adjustments Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Mar 2025 · **Owner:** HR / People
 
 Reasonable Adjustments Policy

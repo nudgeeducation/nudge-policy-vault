@@ -10,9 +10,6 @@ owner_role: Data Protection Officer
 neo_addendum: false
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Privacy Policy Parents and Students - Dec 2025.pdf
 ---
-
-# Privacy Policy — Parents & Students
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Data Protection Officer
 
 Privacy Policy: Parents and Students Last Updated: 6/12/2025

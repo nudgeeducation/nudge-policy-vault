@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 4. Office Staff/CCTV Policy - Dec 2025.pdf
 ---
-
-# CCTV Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 CCTV Usage and Data Management Policy

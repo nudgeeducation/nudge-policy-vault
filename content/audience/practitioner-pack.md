@@ -8,9 +8,6 @@ status: live
 sign_off_required: true
 review_frequency: annual
 ---
-
-# Practitioner Pack
-
 The role-specific policy set for **practitioners** — the named mentor and point of contact for each learner. Includes everything in the [[all-staff-induction|All Staff Induction Pack]] plus the practitioner-specific items below.
 
 > **Reminder:** practitioners co-ordinate with qualified teachers and provide pastoral support. Practitioners do not deliver live lessons — qualified, subject-specialist teachers do that.

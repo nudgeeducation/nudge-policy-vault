@@ -1,9 +1,6 @@
 ---
 title: Nudge Education Policy Library
 ---
-
-# Nudge Education Policy Library
-
 The complete policy framework operated by **Nudge Education Ltd**, covering both face-to-face interventions and the online provision **Nudge Education Online (NEO)**.
 
 ## For commissioners and schools

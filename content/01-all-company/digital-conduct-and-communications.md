@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 1. All Company/Digital Conduct and Communications Policy - Dec 2025.pdf
 ---
-
-# Digital Conduct and Communications Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 Digital Conduct and Communications Policy

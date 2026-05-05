@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 2. HR and Employee Relations/Slack User Policy - Dec 2025.pdf
 ---
-
-# Slack User Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 Slack Usage Policy

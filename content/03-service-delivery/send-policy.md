@@ -10,9 +10,6 @@ owner_role: SENDCo
 neo_addendum: true
 source_file: 3. Service Delivery/SEND Policy - Dec 2025.pdf
 ---
-
-# SEND Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** SENDCo
 
 SPECIAL EDUCATIONAL NEEDS AND DISABILITIES

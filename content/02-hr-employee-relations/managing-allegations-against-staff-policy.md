@@ -10,9 +10,6 @@ owner_role: DSL
 neo_addendum: true
 source_file: 2. HR and Employee Relations/Managing Allegations Against Staff Policy - Jan 2026_.pdf
 ---
-
-# Managing Allegations Against Staff Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Jan 2026 · **Owner:** DSL
 
 MANAGING ALLEGATIONS AGAINST STAFF POLICY

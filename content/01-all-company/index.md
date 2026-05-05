@@ -6,9 +6,6 @@ provision: all
 type: meta
 status: live
 ---
-
-# All Company Policies
-
 Whole-company policies that apply across every part of Nudge Education Ltd, including NEO online provision.
 
 ## Policies in this category

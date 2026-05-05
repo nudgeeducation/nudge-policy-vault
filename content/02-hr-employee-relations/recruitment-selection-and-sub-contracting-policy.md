@@ -10,9 +10,6 @@ owner_role: HR / People
 neo_addendum: true
 source_file: 2. HR and Employee Relations/Recruitment, Selection and Sub Contracting Policy - Dec 2025.pdf
 ---
-
-# Recruitment, Selection and Sub Contracting Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** HR / People
 
 Recruitment, Selection & Sub-contracting

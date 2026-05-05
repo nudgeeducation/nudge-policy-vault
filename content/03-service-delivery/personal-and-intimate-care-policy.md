@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 3. Service Delivery/Personal & Intimate Care Policy - Dec 2025.pdf
 ---
-
-# Personal & Intimate Care Policy
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 PERSONAL & INTIMATE CARE POLICY

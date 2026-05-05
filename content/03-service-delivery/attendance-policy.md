@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: true
 source_file: 3. Service Delivery/Attendance Policy & Procedures - Dec 2025.pdf
 ---
-
-# Attendance Policy & Procedures
-
 > **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
 
 ATTENDANCE POLICY & PROCEDURES

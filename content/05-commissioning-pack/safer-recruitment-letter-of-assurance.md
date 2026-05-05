@@ -10,9 +10,6 @@ owner_role: Director of Operations
 neo_addendum: false
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Safer Recruitment Letter of Assurance - Oct 2024.pdf
 ---
-
-# Safer Recruitment Letter of Assurance
-
 > **Operated by:** Nudge Education Ltd · **Version:** Oct 2024 · **Owner:** Director of Operations
 
 Nudge Education,
