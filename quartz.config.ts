@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-GB",
-    baseUrl: "nudgeeducation.github.io/nudge-policy-vault",
+    baseUrl: "policies.nudgeeducation.online",
     ignorePatterns: ["private", "templates", ".obsidian", "archive"],
     defaultDateType: "modified",
     generateSocialImages: false,

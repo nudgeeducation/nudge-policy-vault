@@ -2,7 +2,7 @@
 
 The unified policy library operated by **Nudge Education Ltd** (Company Number 10192753), covering both face-to-face interventions and the online provision **Nudge Education Online (NEO)**.
 
-🔗 **Live site:** https://nudgeeducation.github.io/policy-vault/
+🔗 **Live site:** https://policies.nudgeeducation.online/
 
 ## Architecture
 

@@ -40,7 +40,7 @@ Where a Nudge Education policy already covers the topic, the **NEO Online Addend
 
 ## Sister repos
 
-- [NEO Curriculum Vault](https://nudgeeducation.github.io/neo-curriculum-vault/) — the canonical curriculum library for Nudge Education Online
+- [NEO Curriculum Vault](https://curriculum.nudgeeducation.online/) — the canonical curriculum library for Nudge Education Online
 
 ---
 
