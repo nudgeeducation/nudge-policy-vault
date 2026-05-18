@@ -24,7 +24,7 @@ The curated documentation Local Authority commissioners and school-based DSLs ne
 - [[../03-service-delivery/supporting-young-people-with-medical-conditions|Supporting Young People with Medical Conditions]]
 - [[../03-service-delivery/trauma-informed-practice-policy|Trauma-Informed Practice Policy]]
 - [[../01-all-company/complaints-policy|Complaints Policy]]
-- [[../02-hr-employee-relations/recruitment-selection-and-sub-contracting-policy|Recruitment, Selection and Sub Contracting Policy]]
+- [[../03-service-delivery/recruitment-selection-and-sub-contracting-policy|Recruitment, Selection and Sub Contracting Policy]]
 
 ### Quality and assurance documents
 

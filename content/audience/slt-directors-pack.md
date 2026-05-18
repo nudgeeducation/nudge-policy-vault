@@ -6,6 +6,7 @@ provision: all
 type: meta
 status: live
 review_frequency: annual
+draft: true
 ---
 Policy and reference set for the Senior Leadership Team, Directors, and Head of School.
 

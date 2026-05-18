@@ -7,6 +7,7 @@ type: meta
 status: live
 sign_off_required: true
 review_frequency: annual
+draft: true
 ---
 The policies every Nudge Education staff member must read, understand, and sign off during induction — and re-confirm annually as part of the audit cycle.
 

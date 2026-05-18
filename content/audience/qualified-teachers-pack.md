@@ -7,6 +7,7 @@ type: meta
 status: live
 sign_off_required: true
 review_frequency: annual
+draft: true
 ---
 The role-specific policy set for **qualified, subject-specialist teachers** delivering NEO live lessons. Includes the [[all-staff-induction|All Staff Induction Pack]] plus the items below.
 

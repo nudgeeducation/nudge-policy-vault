@@ -14,23 +14,11 @@ If you're commissioning a place — whether for a face-to-face intervention or a
 
 - [[audience/parents-carers-pack|Parents & Carers Pack]] — the policies that matter most to families, including the NEO Home-School Agreement
 
-## For Nudge Education staff
-
-- [[audience/all-staff-induction|All Staff Induction]]
-- [[audience/practitioner-pack|Practitioner Pack]]
-- [[audience/qualified-teachers-pack|Qualified Teachers Pack]] (NEO)
-- [[audience/dsl-safeguarding-pack|DSL & Safeguarding Team Pack]]
-- [[audience/slt-directors-pack|SLT & Directors Pack]]
-- [[audience/office-staff-pack|Office Staff Pack]]
-
 ## Browse by category
 
 - [[01-all-company/index|All Company]]
-- [[02-hr-employee-relations/index|HR & Employee Relations]]
 - [[03-service-delivery/index|Service Delivery]]
-- [[04-office/index|Office]]
 - [[05-commissioning-pack/index|Commissioning Pack]]
-- [[06-management-executive/index|Management & Executive]]
 - [[07-intervention-safety/index|Intervention Safety, Safeguarding & Complex Needs]]
 - [[neo-only/index|NEO Online — Standalone Policies]]
 
@@ -44,4 +32,4 @@ Where a Nudge Education policy already covers the topic, the **NEO Online Addend
 
 ---
 
-**Last updated:** 29 April 2026 · **Operated by:** Nudge Education Ltd (Company Number 10192753)
+**Last updated:** 18 May 2026 · **Operated by:** Nudge Education Ltd (Company Number 10192753)
