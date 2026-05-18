@@ -7,6 +7,7 @@ type: meta
 status: live
 sign_off_required: true
 review_frequency: annual
+draft: true
 ---
 The role-specific policy set for **practitioners** — the named mentor and point of contact for each learner. Includes everything in the [[all-staff-induction|All Staff Induction Pack]] plus the practitioner-specific items below.
 

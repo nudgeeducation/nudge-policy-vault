@@ -7,6 +7,7 @@ type: meta
 status: live
 sign_off_required: true
 review_frequency: annual
+draft: true
 ---
 The policy and reference set for the **Designated Safeguarding Lead, Deputy DSLs, and the wider safeguarding team**.
 

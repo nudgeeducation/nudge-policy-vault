@@ -17,7 +17,7 @@ The complete set of documents Local Authority commissioners need when procuring 
 
 | Provision | Mode | Audience | Status |
 |---|---|---|---|
-| Nudge Education face-to-face interventions | 1:1 / small-group, in-person | Learners across UK | Live |
+| Nudge Education face-to-face interventions | 1:1, in-person | Learners across UK | Live |
 | Nudge Education Online (NEO) | Fully online | Learners 11–18 | Launching September 2026 |
 
 ## Core compliance set
@@ -25,8 +25,8 @@ The complete set of documents Local Authority commissioners need when procuring 
 ### Safeguarding
 - [[../03-service-delivery/child-protection-and-safeguarding-policy|Child Protection and Safeguarding Policy]] (NEO addendum included)
 - [[../03-service-delivery/practitioner-lone-working-policy|Practitioner Lone Working Policy]] (NEO addendum included)
-- [[../02-hr-employee-relations/managing-allegations-against-staff-policy|Managing Allegations Against Staff Policy]]
-- [[../02-hr-employee-relations/recruitment-selection-and-sub-contracting-policy|Safer Recruitment Policy]]
+- [[../03-service-delivery/managing-allegations-against-staff-policy|Managing Allegations Against Staff Policy]]
+- [[../03-service-delivery/recruitment-selection-and-sub-contracting-policy|Safer Recruitment Policy]]
 - [[../05-commissioning-pack/safer-recruitment-letter-of-assurance|Safer Recruitment Letter of Assurance]]
 
 ### Provision

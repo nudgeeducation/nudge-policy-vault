@@ -20,7 +20,16 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-GB",
     baseUrl: "policies.nudgeeducation.online",
-    ignorePatterns: ["private", "templates", ".obsidian", "archive"],
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "archive",
+      // Internal-only categories — not for public publication
+      "02-hr-employee-relations",
+      "04-office",
+      "06-management-executive",
+    ],
     defaultDateType: "modified",
     generateSocialImages: false,
     theme: {
