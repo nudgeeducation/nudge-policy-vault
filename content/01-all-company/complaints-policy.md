@@ -5,12 +5,12 @@ groups: [all-staff, commissioners, parents-carers]
 provision: all
 type: core
 status: live
-version: Dec 2025
+version: Jul 2026
 owner_role: Director of Operations
 neo_addendum: true
 source_file: 1. All Company/Complaints Policy - Dec 25.docx (2).pdf
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Director of Operations
+> **Operated by:** Nudge Education Ltd · **Version:** Jul 2026 · **Owner:** Director of Operations
 
 COMPLAINTS POLICY & PROCEDURE
 DEC 2025
@@ -165,6 +165,18 @@ of a staff member towards a child or young person.
 regarding data protection, privacy, or the handling of your personal
 information
 
+COMPLAINTS ABOUT HOW WE USE PERSONAL INFORMATION
+
+If your complaint is about how we have used your or your child's personal
+information, you can raise it electronically at any time by emailing
+privacy@nudgeeducation.co.uk or talktonudge@nudgeeducation.co.uk (or by any
+route in this policy). In line with the Data (Use and Access) Act 2025, we will
+acknowledge a data protection complaint within 30 days and respond without
+undue delay — in practice we follow the faster response times set out in this
+policy. You do not have to complain to us first, but we would welcome the chance
+to put things right: you can contact the Information Commissioner's Office at
+ico.org.uk or on 0303 123 1113 at any time.
+
 ACCESSIBILITY OF POLICY
 
 This policy is openly available via our website to young people, parents (including
@@ -184,7 +196,6 @@ STAGE 3
 STAGE 4
 
 This policy has been signed off by the Nudge Education Directorate.
-Charlotte Noutch
 Director of Partnerships & Services
 5 Dec 2025
 
@@ -205,7 +216,7 @@ Nudge Education Online
 | Review Date | April 2027 |
 | Version | 04.26 |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
-| Proprietor | Diego Melo |
+| Proprietor | Proprietor, Nudge Education Ltd |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
 
 This policy applies to all learners, staff, practitioners, contractors, volunteers and visitors of Nudge Education Online (NEO). NEO is a fully online alternative provision for learners aged 11–18, operated by Nudge Education Ltd.
@@ -292,10 +303,10 @@ Any recommendations or actions NEO should take.
 The panel's decision is the final stage of NEO's internal complaints procedure.
 ## 7. Further Escalation
 If the complainant remains dissatisfied after the panel hearing, they may escalate their complaint to the appropriate external body. Depending on the nature of the complaint, this may include:
-OEAS (Online Education Accreditation Scheme) — for complaints about NEO's compliance with OEAS accreditation criteria, once NEO is an accredited member.
+OEAS (Online Education Accreditation Scheme) — for complaints about NEO's compliance with OEAS accreditation criteria once NEO is accredited. Until accreditation is confirmed, unresolved complaints of this kind may be raised with the Proprietor and, where relevant, the Department for Education (see below).
 The Department for Education (DfE) — for complaints relating to statutory duties applicable to alternative provision.
 The relevant local authority — for complaints relating to a commissioned placement or EHCP provision.
-The Information Commissioner's Office (ICO) — for complaints about data protection, privacy, or children's data rights under the ICO Children's Code.
+The Information Commissioner's Office (ICO) — for complaints about data protection, privacy, or children's data rights under the ICO Children's Code. Data protection complaints can also be made to NEO electronically at any time (privacy@nudgeeducation.co.uk); in line with the Data (Use and Access) Act 2025 NEO acknowledges these within 30 days — in practice within the faster timescales in Section 3 — and responds without undue delay.
 The First-tier Tribunal (SEND) — for appeals relating to EHCP decisions.
 Ofcom — for complaints relating to online safety obligations under the Online Safety Act 2023.
 The Disclosure and Barring Service (DBS) — for concerns about the suitability of adults working with children.
@@ -310,7 +321,7 @@ Restricting the method of communication (for example, written only).
 Declining to engage with further correspondence on the same matter.
 Any decision to restrict contact is communicated in writing with a clear explanation of the reasons and a route for review.
 ## 10. Confidentiality
-All complaints are handled with discretion. Information about a complaint is shared only with those who need to know in order to investigate and resolve it. NEO complies with UK GDPR, the Data Protection Act 2018, and the ICO Children's Code in all handling of complaint-related data.
+All complaints are handled with discretion. Information about a complaint is shared only with those who need to know in order to investigate and resolve it. NEO complies with data protection laws (the UK GDPR, the Data Protection Act 2018 and the Data (Use and Access) Act 2025) and the ICO Children's Code in all handling of complaint-related data.
 Complainants should be aware that where a complaint involves allegations about a specific member of staff, NEO has a duty of care to that individual as well as to the complainant. Information about the investigation and its outcome may be shared with the staff member concerned.
 ## 11. Record Keeping
 All formal complaints (Stage 1 and above) are logged in the NEO complaints register.
@@ -349,7 +360,7 @@ NEO Terms and Conditions
 | Approved | April 2026 |
 | Next Review | April 2027 |
 | Owner | Director, Nudge Education Online & Head of School |
-| Approver | Proprietor (Diego Melo) |
+| Approver | Proprietor |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 
 ---
@@ -358,7 +369,7 @@ NEO Terms and Conditions
 
 | Field | Value |
 |---|---|
-| Version | Dec 2025 |
+| Version | Jul 2026 |
 | Owner | Director of Operations |
 | Status | live |
 | Source file | `1. All Company/Complaints Policy - Dec 25.docx (2).pdf` |

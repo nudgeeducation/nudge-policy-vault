@@ -5,12 +5,12 @@ groups: [all-staff, dsl-safeguarding, slt-directors, commissioners, parents-care
 provision: all
 type: core
 status: live
-version: Dec 2025 (NEO addendum DRAFT)
+version: Dec 2025 (NEO addendum v07.26)
 owner_role: DSL
 neo_addendum: true
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Nudge Education Child Protection and Safeguarding Policy December 25 (3).pdf
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 (NEO addendum DRAFT) · **Owner:** DSL
+> **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 (NEO addendum v07.26, KCSIE 2026) · **Owner:** DSL
 
 Child Protection & Safeguarding Policy
 DEC 2025
@@ -18,35 +18,35 @@ Review Date: DEC 2026
 
 This policy has been reviewed and Approved by:
 
-Diego Melo: Chief Executive Officer
+Chief Executive Officer
 
-Brian Mair: Director of Operations - Nudge Education
+Director of Operations - Nudge Education
 
 National contacts for Safeguarding:
 
 National Designated Safeguarding Lead
-Emily Baty
 
 emily.baty@nudgeeducation.co.uk
 
 Regional Designated Safeguarding Leads
 
-Michelle Driskel
-
 michelle.driskel@nudgeeducation.co.uk
 
-Tracy Harrison
-
-tracy.harrison@nudgeeducation.co.uk
-
-07931 506193
+tracy.harrison@nudgeeducation.co.uk · 07931 506193 (business mobile)
 
 Nudge Education Child Protection and Safeguarding Policy Dec 25
 Change History Record
 
 Version     Date                       Details of Change(s)             Approved By
-2.0         5/12/2025                  Implementation of V2 policy      Brian Mair
-2.1         27/4/2026                  Update to National DSL details   Brian Mair
+2.0         5/12/2025                  Implementation of V2 policy      Director of Operations
+2.1         27/4/2026                  Update to National DSL details   Director of Operations
+
+Interim note (July 2026): Keeping Children Safe in Education 2026 comes into force on
+1 September 2026. The NEO Online Addendum below is aligned to KCSIE 2026; this
+canonical policy will be fully updated to KCSIE 2026 at its December 2026 review. Where
+this policy cites KCSIE 2025 and the 2026 edition differs, the statutory version in force
+prevails, and staff induction from September 2026 requires all staff to read KCSIE 2026
+Part One in full (the condensed Annex A version has been withdrawn).
 
 Scope
 Nudge Education exists to eradicate chronic disengagement from Education and as such, we
@@ -1466,35 +1466,31 @@ Nudge Education Child Protection and Safeguarding Policy Dec 25
 
 ---
 
-## NEO Online Addendum  — DRAFT
+## NEO Online Addendum
 
-> **Status:** This NEO online addendum is in DRAFT pending Designated Safeguarding Lead sign-off. Until sign-off, it must not be cited externally, provided to commissioners, or relied on for operational decisions.
-
-_This addendum applies the canonical Nudge Education policy above to the online provision context of Nudge Education Online (NEO). It is sourced from `NEO - Child Protection and Safeguarding Policy v04.26 DRAFT.docx`._
+_This addendum applies the canonical Nudge Education policy above to the online provision context of Nudge Education Online (NEO). Updated to Keeping Children Safe in Education 2026 and approved by the Director, NEO & Head of School on 16 July 2026; to be reviewed and countersigned by the Designated Safeguarding Lead on appointment (September 2026)._
 
 NEO BY NUDGE EDUCATION
 
 Child Protection and Safeguarding Policy
-DRAFT — pending Designated Safeguarding Lead sign-off
 Nudge Education Online
 
-| Policy Owner | Designated Safeguarding Lead (DSL) |
+| Policy Owner | Designated Safeguarding Lead (DSL) — held by the Director, NEO & Head of School pending DSL appointment (September 2026) |
 |---|---|
-| Approved | DRAFT — April 2026 (pending DSL sign-off) |
-| Review Date | April 2027 (from date of DSL approval) |
-| Version | 04.26 DRAFT |
+| Approved | 16 July 2026 — Director, NEO & Head of School |
+| Review Date | On DSL appointment (September 2026), then July 2027 |
+| Version | 07.26 |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
-| Proprietor | Diego Melo |
+| Proprietor | Proprietor, Nudge Education Ltd |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
 
 This policy applies to all learners, staff, practitioners, contractors, volunteers and visitors of Nudge Education Online (NEO). NEO is a fully online alternative provision for learners aged 11–18, operated by Nudge Education Ltd.
 NEO is not a DfE-registered independent school and is not subject to Independent Schools Inspectorate (ISI) inspection. NEO is pursuing OEAS accreditation only.
-DRAFT — this policy is not in force until the Designated Safeguarding Lead (DSL) has signed it off. Until then, it must not be cited externally, provided to commissioners, or relied on for operational decisions. Retain this status header until DSL sign-off is recorded in the Document Control table.
 ## 1. Statement of Intent
 Nudge Education Online (NEO) is committed to safeguarding and promoting the physical, mental, and emotional wellbeing of every learner. As a fully online alternative provision serving learners aged 11–18 (Key Stage 3, 4, and 5), NEO recognises that safeguarding responsibilities apply across all digital spaces, including live lessons, asynchronous learning, messaging, and communication platforms.
 NEO adopts a whole-organisation preventative approach to safeguarding and child protection, underpinned by a relational, trauma-informed, and neurodivergent-affirming pedagogy built on six Cornerstones: Connection, Movement, Creativity, Reflection, Rest, and Nutrition.
 This policy ensures that:
-All staff, practitioners, contractors, volunteers, and Proprietor understand their safeguarding responsibilities under current UK legislation, KCSIE 2025, and OEAS accreditation criteria.
+All staff, practitioners, contractors, volunteers, and Proprietor understand their safeguarding responsibilities under current UK legislation, Keeping Children Safe in Education 2026 (KCSIE 2026, in force 1 September 2026), and OEAS accreditation criteria.
 Learners are taught to recognise and report unacceptable behaviour in online spaces, including behaviour they may experience, witness, or be asked to participate in.
 Staff are trained to identify learners at risk of abuse, neglect, or exploitation, including risks that may present differently in digital environments.
 Safer recruitment practices are embedded across all roles, on-site and remote.
@@ -1520,13 +1516,13 @@ Safeguarding Vulnerable Groups Act 2006
 Equality Act 2010
 Anti-social Behaviour, Crime and Policing Act 2014
 Counter-Terrorism and Security Act 2015
-UK General Data Protection Regulation (UK GDPR) and Data Protection Act 2018
+UK General Data Protection Regulation (UK GDPR), Data Protection Act 2018 and Data (Use and Access) Act 2025 (together, "data protection laws")
 Voyeurism (Offences) Act 2019
 Domestic Abuse Act 2021
 Marriage and Civil Partnership (Minimum Age) Act 2022
 Online Safety Act 2023
 ### 3.2 Statutory Guidance
-Keeping Children Safe in Education 2025 (KCSIE) — the authoritative statutory guidance
+Keeping Children Safe in Education 2026 (KCSIE) — the authoritative statutory guidance (in force 1 September 2026)
 Working Together to Safeguard Children (DfE, 2023; last updated May 2025)
 Prevent Duty Guidance (Home Office, 2023)
 Channel Duty Guidance (HM Government, 2023; updated August 2025)
@@ -1543,7 +1539,8 @@ OEAS accreditation criteria (applied as the primary accreditation framework)
 Local safeguarding partner arrangements (by location of learner)
 ## 4. Key Definitions
 Online learning environment: The digital spaces through which NEO delivers teaching, learning, and pastoral support. Safeguarding duties apply continuously across all platforms and modes of delivery.
-Child-on-child abuse: Abuse by children towards other children, including bullying, sexual harassment or violence, upskirting, harmful sexual behaviour, initiation or hazing, and online abuse via group chats, direct messages, or file sharing.
+Child-on-child abuse (including harassment and violence): Abuse by children towards other children, including bullying (including cyberbullying, prejudice-based and discriminatory bullying), sexual harassment or violence, upskirting, harmful sexual behaviour, physical assault or the threat of harm with a weapon, initiation or hazing, and online abuse via group chats, direct messages, or file sharing. It is preventable, and it is a safeguarding issue for both the child harmed and the child responsible.
+Making or sharing of nudes and semi-nudes: The creation, sending or posting of nude or semi-nude images, videos or livestreams by or of young people under 18, whether consensual or non-consensual, including images digitally altered or wholly generated using artificial intelligence ("deepfakes" or "deep nudes"). Every incident requires a safeguarding response. The terms "sexting" and "youth-produced sexual imagery" are no longer used.
 EBSNA: Emotionally based school non-attendance. A safeguarding concern is triggered where disengagement patterns suggest a child is at risk of becoming missing from education.
 Anonymous reporting: Routes that allow concerns to be raised without disclosing identity.
 LADO: Local Authority Designated Officer for allegations about adults who work with children.
@@ -1555,10 +1552,10 @@ Physical abuse: Hitting, shaking, throwing, poisoning, burning, scalding, drowni
 Emotional abuse: The persistent emotional maltreatment of a child, including conveying to a child that they are worthless, unloved, or inadequate.
 Sexual abuse: Contact and non-contact acts, grooming, or coercion, including digital exploitation and child sexual exploitation (CSE).
 Neglect: The persistent failure to meet a child's basic physical or psychological needs, likely to result in serious impairment of the child's health or development.
-Child-on-child abuse: Abuse committed by one learner against another, including online or sexual harassment, consensual or non-consensual sharing of sexual content, and activities involving harassment, abuse, or humiliation.
+Child-on-child abuse (including harassment and violence): Abuse committed by one learner against another, including online or sexual harassment, the consensual or non-consensual making or sharing of nudes and semi-nudes (including AI-generated imagery), and activities involving harassment, abuse, or humiliation. NEO takes a zero-tolerance approach: such behaviour is never dismissed as "banter", "just having a laugh" or "part of growing up".
 Domestic abuse: Any incident or pattern of controlling, coercive, threatening, degrading, or violent behaviour between family members or partners, witnessed or experienced by the child.
 Female Genital Mutilation (FGM): Mutilation of genital organs for non-medical reasons. Staff have a mandatory duty to report known cases of FGM in under-18s to the police.
-Criminal Child Exploitation (CCE): Including county lines involvement, where children are exploited to move or store drugs, money, or weapons.
+Criminal Child Exploitation (CCE): Including county lines involvement, where children are exploited to move or store drugs, money, or weapons. This can be committed or facilitated by an organised network or gang, may constitute modern slavery, and victims may be criminalised for actions taken under coercion.
 Child Sexual Exploitation (CSE): Including online grooming or coercion, where a child is given something in exchange for performing sexual activities.
 Online abuse: Grooming, exposure to harmful content, cyberbullying, online exclusion, sextortion, or creation of AI-generated or digitally manipulated imagery. Also includes harms arising from generative AI misuse and deepfake imagery.
 ## 6. Contextual Safeguarding
@@ -1568,8 +1565,8 @@ Staff are trained to consider each learner's broader digital context, recognisin
 Trauma, loneliness, and digital disinhibition can heighten risk and require sensitive, relational safeguarding responses.
 Contextual safeguarding underpins NEO's proactive approach: professional curiosity, thorough documentation, and consistency of response across the entire digital ecosystem.
 ## 7. Digital Safety and RSHE
-Filtering and monitoring systems meet DfE digital and technology standards for schools and are reviewed termly against OEAS criteria.
-The DSL maintains oversight of technical safeguarding measures, working with IT support and the Director / Head of School to ensure compliance with current government guidance on AI and digital safeguarding.
+Filtering and monitoring systems meet DfE digital and technology standards for schools and are reviewed termly against OEAS criteria. In line with KCSIE 2026, a review of their effectiveness is carried out at least once every academic year, led by the senior leader responsible for filtering and monitoring with the support of the DSL and IT support; the review includes checks that filtering is working appropriately on all relevant learner accounts and devices, and a record is kept of these checks.
+The DSL maintains oversight of technical safeguarding measures, working with IT support and the Director / Head of School to ensure compliance with current government guidance on AI and digital safeguarding, including the DfE's Generative AI in Education guidance and Generative AI: Product Safety Expectations.
 The NEO curriculum includes explicit RSHE content on online safety, addressing the four areas of online risk: content, contact, conduct, and commerce. Learners are supported to navigate misinformation, AI-generated content risks, sextortion, and digital misogyny.
 Age-appropriate education on consent, healthy relationships, and respectful online behaviour is embedded across the curriculum.
 NEO's Digital Consent and AI Safety Parent Guide is shared with every family at induction and updated annually.
@@ -1600,6 +1597,7 @@ Record within one working hour using the NEO safeguarding log.
 Anyone may report a safeguarding concern using the following routes. Contact details are kept current in the Document Control appendix and displayed within the NEO online environment:
 DSL (core hours): details maintained in Document Control appendix and published on induction.
 Deputy DSL: details maintained in Document Control appendix.
+Confidential safeguarding mailbox: safeguarding@nudgeeducation.online — a shared mailbox restricted to the DSL and Deputy DSLs, providing continuous cover when any individual is unavailable (KCSIE 2026 robust DSL cover arrangements).
 Anonymous reporting form: link maintained by the DSL; displayed in every NEO online classroom.
 Out of hours or emergency: call 999 (immediate risk) and notify the on-call safeguarding lead.
 ## 10. Recording Safeguarding Concerns
@@ -1624,7 +1622,7 @@ Maintain a log of all referrals and their outcomes.
 Where a learner is also on the roll of a referring school or local authority, inform the relevant contact of all safeguarding concerns in a timely manner.
 Ensure contact details for relevant LADOs are maintained in Appendix A.
 ## 13. Early Help and Multi-Agency Working
-The DSL coordinates Early Help to ensure learners receive support at the right time. NEO works in partnership with local safeguarding partners including Family Hubs, CAMHS, school nursing, education welfare, SEND services, youth justice, police public protection, and voluntary or community organisations.
+The DSL coordinates Early Help to ensure learners receive support at the right time, distinguishing between universal and community-based early help and targeted early help delivered through Family Help, and making referrals to Family Help where the threshold is met (KCSIE 2026). NEO works in partnership with local safeguarding partners including Family Hubs, CAMHS, school nursing, education welfare, SEND services, youth justice, police public protection, and voluntary or community organisations.
 The DSL will:
 Undertake or contribute to Early Help assessments and plans.
 Share information lawfully and proportionately in line with UK GDPR, the Data Protection Act 2018, and the seven Caldicott principles.
@@ -1634,10 +1632,11 @@ Coordinate with referring schools and virtual schools where learners are placed 
 NEO applies safer recruitment practices to all roles, whether staff work on-site or remotely. This includes:
 Safeguarding-signalled job advertisements
 Structured shortlisting and interview processes
-Online footprint checks where appropriate
-Enhanced DBS checks with barred-list checks
+Online searches as part of shortlisting, in line with KCSIE 2026
+Enhanced DBS checks with barred-list checks, obtained before appointment or within 30 calendar days of the certificate's issue date
+Volunteers who teach, train, instruct or supervise children more than 3 days in a 30-day period (or overnight) are in regulated activity following the Crime and Policing Act 2026 removal of the supervision exemption, and are checked accordingly
 Identity, right-to-work, and qualification verification
-Prohibition checks and, where relevant, overseas checks
+Prohibition and section 128 checks via the DfE's Check a Teacher's Record service and, where relevant, overseas checks
 Two references verified before the start date
 A Single Central Record maintained and audited
 Associated policy: NEO Safer Recruitment and Use of Volunteers Policy (in development — DSL is the policy lead).
@@ -1648,8 +1647,8 @@ Staff must comply with the NEO Lone Working Guidance, including agreed check-ins
 NEO maintains proportionate, age-appropriate filtering and monitoring systems with leadership oversight. The DSL, in coordination with IT support, is responsible for reviewing risks termly. Actions taken are logged to improve safeguarding practice. All monitoring is compliant with UK GDPR, the Data Protection Act 2018, and the ICO Children's Code, and is conducted in the learners' best interests.
 ## 17. Training
 ### 17.1 Staff and Practitioner Training
-All staff, practitioners, contractors, and volunteers receive safeguarding training at induction and at least annually thereafter. Training covers:
-This policy and KCSIE 2025
+All staff, practitioners, contractors, and volunteers receive safeguarding training at induction and at least annually thereafter. All staff read KCSIE Part One in full (the condensed Annex A version was withdrawn in KCSIE 2026). Training covers:
+This policy and KCSIE 2026
 Introduction to the DSL, reporting routes, and NEO's safeguarding culture
 Recognising safeguarding concerns in both online and offline contexts
 Understanding safeguarding in an online environment, including recognising signs of abuse, neglect, or distress that may be less visible online
@@ -1682,6 +1681,7 @@ This appendix is maintained by the DSL and updated as NEO's geographic reach dev
 ### Related Policies
 This policy should be read alongside:
 NEO Online Safety and Acceptable Use Policy
+NEO Online Anti-Bullying Strategy
 NEO Behaviour and Regulation Policy
 NEO Data Protection, Confidentiality and Privacy Policy
 NEO SEND Policy
@@ -1689,19 +1689,19 @@ NEO Equal Opportunities, Equality and Diversity Policy
 NEO Admissions Policy
 NEO Complaints Procedure
 NEO Teaching and Learning Policy
-NEO Safer Recruitment and Use of Volunteers Policy (in development)
+Recruitment, Selection and Sub-Contracting Policy (canonical, with NEO addendum)
 
 ### Document Control
 
-| Version | 04.26 DRAFT |
+| Version | 07.26 |
 |---|---|
-| Approved | DRAFT — April 2026 (pending DSL sign-off) |
-| Next Review | April 2027 (from date of DSL approval) |
+| Approved | 16 July 2026 — Director, NEO & Head of School (Acting DSL pending DSL appointment) |
+| Next Review | On DSL appointment (September 2026), then July 2027 |
 | Owner | Director, Nudge Education Online & Head of School |
-| Approver | Proprietor (Diego Melo) |
+| Approver | Proprietor |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 
-This document is a DRAFT pending DSL sign-off. It must not be distributed externally, cited in commissioner due diligence, or used as an operational reference until the Document Control table records a DSL approval signature, date, and the final version number (expected v05.26).
+Updated to Keeping Children Safe in Education 2026 (in force 1 September 2026) on 16 July 2026. This addendum is in force. The incoming Designated Safeguarding Lead reviews and countersigns it on appointment in September 2026, and that countersignature is recorded here.
 
 ---
 
@@ -1709,7 +1709,7 @@ This document is a DRAFT pending DSL sign-off. It must not be distributed extern
 
 | Field | Value |
 |---|---|
-| Version | Dec 2025 (NEO addendum DRAFT) |
+| Version | Dec 2025 (NEO addendum v07.26) |
 | Owner | DSL |
 | Status | live |
 | Source file | `5. Nudge Education - Documentation for Commissioning Purposes/Nudge Education Child Protection and Safeguarding Policy December 25 (3).pdf` |

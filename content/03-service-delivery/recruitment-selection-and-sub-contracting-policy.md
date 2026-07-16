@@ -43,7 +43,7 @@ This policy is linked to several other key documents including:
 
 This policy is informed by:
 
-- Keeping Children Safe in Education 2025 (KCSIE 2025)
+- Keeping Children Safe in Education 2026 (KCSIE 2026, in force 1 September 2026)
 
 - Working Together to Safeguard Children 2023
 
@@ -73,7 +73,7 @@ record checks from the relevant jurisdiction.
 from the most recent employer/line manager.
 - Provided evidence of relevant training and qualifications (original
 certificates only).
-- Been checked via the Department for Education's Employer Access
+- Been checked via the DfE's Check a Teacher's Record service (formerly Employer Access)
 Service to confirm they are not subject to a prohibition, sanction,
 restriction or interim prohibition order. This is whether they disclose
 they are a qualified teacher or not to ensure that anyone providing us
@@ -85,7 +85,7 @@ In addition to the mandatory checks, Staff and associates will have to
 undergo a thorough interview and assessment process to be recruited or
 on boarded:
 
-- In line with KCSIE 2025, we will carry out online searches for
+- In line with KCSIE 2026, we will carry out online searches for
 shortlisting candidates to help identify any incidents or issues that
 might need to be discussed at interview.
 - Where appropriate, social media accounts and online presence may
@@ -233,7 +233,7 @@ Nudge Education Online
 | Review Date | April 2027 |
 | Version | 04.26 |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
-| Proprietor | Diego Melo |
+| Proprietor | Proprietor, Nudge Education Ltd |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
 
 This policy applies to all learners, staff, practitioners, contractors, volunteers and visitors of Nudge Education Online (NEO). NEO is a fully online alternative provision for learners aged 11–18, operated by Nudge Education Ltd.
@@ -276,7 +276,7 @@ Rejected candidates are informed clearly and respectfully, with appropriate sign
 | Role | Responsibility |
 |---|---|
 | Proprietor | Named accountable person under OEAS framework; final approver of senior and safeguarding-critical appointments; ensures NEO invests adequately in safer recruitment training; reviews the Single Central Record at least annually. |
-| Director, NEO & Head of School | Operational ownership of recruitment. Designs roles, chairs recruitment panels, ensures KCSIE 2025 Part Three is applied, maintains the Single Central Record during the initial period, and countersigns this policy with the DSL. |
+| Director, NEO & Head of School | Operational ownership of recruitment. Designs roles, chairs recruitment panels, ensures KCSIE 2026 Part Three is applied, maintains the Single Central Record during the initial period, and countersigns this policy with the DSL. |
 | Designated Safeguarding Lead (DSL) | Advises on safer recruitment decisions, especially where candidates disclose relevant information; reviews references for safeguarding signals; sits on panels for safeguarding-critical appointments; co-signs this policy. |
 | SENCo | Sits on panels for roles involving SEND-identified learners; advises on role-specific requirements. |
 | Recruitment panels | At least two people, with at least one Safer Recruitment–trained panel member present for every shortlisting and interview. Panels keep contemporaneous notes and preserve them for the retention period set in Section 11. |
@@ -284,7 +284,7 @@ Rejected candidates are informed clearly and respectfully, with appropriate sign
 
 ## 6. Job Design and Advertising
 ### 6.1 Designing the Role
-Every job description includes safeguarding responsibilities appropriate to the role, including a clear commitment to KCSIE 2025.
+Every job description includes safeguarding responsibilities appropriate to the role, including a clear commitment to KCSIE 2026.
 Person specifications distinguish essential from desirable criteria and are assessed only on evidence provided by the candidate.
 Where a role involves regulated activity with children, this is explicitly stated.
 Roles held by a single post-holder during the initial period (for example, dual-hat Director / Head of School) are documented with the intended future split criteria.
@@ -318,7 +318,7 @@ The following checks are completed before a candidate commences work. No candida
 | Right to work | All paid roles | Document checks per Home Office guidance; share code accepted for relevant statuses. |
 | Enhanced DBS with barred-list check | All regulated-activity roles, including teachers, practitioners, DSL, Deputy DSL, SENCo, any staff engaging directly with learners. | Enhanced check required; barred-list check in addition to the enhanced certificate. |
 | Enhanced DBS (without barred list) | Staff who do not engage in regulated activity but whose work brings them into contact with learners. | Proportionate to role risk. |
-| Section 128 / prohibition check | All teaching roles and any role involving management of teaching. | Via the DfE Employer Access Service. |
+| Section 128 / prohibition check | All teaching roles and any role involving management of teaching. | Via the DfE's Check a Teacher's Record service. |
 | Teacher prohibition check | All qualified teachers. | Confirms no prohibition order is in force. |
 | Childcare disqualification declaration | Roles involving learners under 8 (where applicable in future enrichment). | Not currently required given 11–18 age range but policy retains the check for future expansion. |
 | Overseas police check / equivalent | Anyone who has lived or worked outside the UK for three months or more in the last five years. | Includes certificate of good conduct where UK DBS cannot substitute. |
@@ -328,7 +328,8 @@ The following checks are completed before a candidate commences work. No candida
 
 References are sought directly from named employers using NEO's structured reference form. Open references and testimonials provided by the candidate are treated with caution and not accepted in place of direct references.
 ## 9. Single Central Record (SCR)
-NEO maintains a Single Central Record in line with KCSIE 2025. The SCR is held securely in Google Workspace with role-based access restricted to the Director / Head of School, the DSL, and any delegated administrator authorised by them.
+From September 2026, in line with KCSIE 2026 and the Crime and Policing Act 2026: the supervision exemption from regulated activity has been removed, so any volunteer who teaches, trains, instructs or supervises children more than 3 days in a 30-day period (or overnight) is in regulated activity and receives an enhanced DBS check with children's barred list check; and DBS certificates are obtained before appointment or within 30 calendar days of the certificate's issue date.
+NEO maintains a Single Central Record in line with KCSIE 2026. The SCR is held securely in Google Workspace with role-based access restricted to the Director / Head of School, the DSL, and any delegated administrator authorised by them.
 The SCR records, for each person working in regulated or learner-contact activity:
 Identity, right to work, and qualification checks, with date and verifier.
 Enhanced DBS check (number, date issued, whether barred list check applied, verifier).
@@ -358,7 +359,7 @@ DBS certificates are not retained on file; the certificate number and issue date
 All records are held in line with UK GDPR, the Data Protection Act 2018, the ICO Children's Code where records touch learners, and the NEO Data Protection, Confidentiality and Privacy Policy.
 ## 12. Induction, Probation, and Ongoing Duty
 ### 12.1 Induction
-Every new staff member, practitioner, contractor, or volunteer receives a structured safeguarding induction covering: KCSIE 2025 Part One, the NEO Child Protection and Safeguarding Policy, the NEO Staff Code of Conduct, the NEO Online Safety and Acceptable Use Policy, and the NEO Data Protection, Confidentiality and Privacy Policy.
+Every new staff member, practitioner, contractor, or volunteer receives a structured safeguarding induction covering: KCSIE 2026 Part One (read in full — the condensed Annex A version has been withdrawn), the NEO Child Protection and Safeguarding Policy, the NEO Staff Code of Conduct, the NEO Online Safety and Acceptable Use Policy, and the NEO Data Protection, Confidentiality and Privacy Policy.
 Induction includes a meeting with the DSL (or Deputy DSL) and introduction to the reporting routes.
 Induction completion is recorded and countersigned by the inductee.
 ### 12.2 Probation
@@ -375,7 +376,7 @@ Seek clarification from the candidate in writing.
 Consult the LADO for advice.
 Withdraw the offer or terminate the application in line with this policy and employment law.
 Make a referral to the DBS under its referral duty where the threshold is met.
-Allegations about serving staff are managed under the NEO Managing Allegations Against Staff Procedure (in development) and KCSIE 2025 Part Four.
+Allegations about serving staff are managed under the Managing Allegations Against Staff Policy and KCSIE 2026 Part Four (which now extends explicitly to trainee teachers and volunteers).
 ## 14. Training
 At least one member of every recruitment panel holds current (within three years) accredited Safer Recruitment training.
 The DSL and Director / Head of School are Safer Recruitment–trained at all times.
@@ -394,8 +395,8 @@ NEO Data Protection, Confidentiality and Privacy Policy
 NEO Equal Opportunities, Equality and Diversity Policy
 NEO Health and Safety Policy
 NEO Complaints Procedure
-NEO Managing Allegations Against Staff Procedure (in development)
-NEO Whistleblowing Policy (in development)
+Managing Allegations Against Staff Policy
+Whistleblowing Policy
 
 ### Document Control
 
@@ -404,7 +405,7 @@ NEO Whistleblowing Policy (in development)
 | Approved | April 2026 |
 | Next Review | April 2027 |
 | Owner | Director, Nudge Education Online & Head of School |
-| Approver | Proprietor (Diego Melo) |
+| Approver | Proprietor |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 
 ---

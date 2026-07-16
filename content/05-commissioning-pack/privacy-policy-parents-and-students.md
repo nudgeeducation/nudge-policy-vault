@@ -16,7 +16,7 @@ Privacy Policy: Parents and Students Last Updated: 6/12/2025
 
 Date of next review: 6/12/2026
 
-Version: v1.0 Classification: Public Author: Brian Mair
+Version: v1.1 Classification: Public Author: Data Protection Lead
 
 Who we are
 We're Nudge Education Limited. We help young people get back into learning. We are
@@ -25,7 +25,7 @@ address is Sirius House, Amethyst Road, Newcastle upon Tyne, NE4 7YL.
 
 How to contact us about privacy
 
-- Data Protection Lead (day-to-day help): Brian Mair –
+- Data Protection Lead (day-to-day help):
 privacy@nudgeeducation.co.uk / 07958 440 937.
 
 - Independent Data Protection Officer (DPO): Data Protection People – 0113 869

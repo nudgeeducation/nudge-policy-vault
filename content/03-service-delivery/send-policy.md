@@ -252,7 +252,6 @@ legislation, statutory guidance, or the DfE's standards for non-school alternati
 provision.
 
 This policy has been signed off by the Nudge Education Directorate.
-Charlotte Noutch
 Director of Partnerships & Services
 5 Dec 2025
 
@@ -267,7 +266,7 @@ SEND                  Special Educational Needs and/or Disabilities, when a youn
 person has difficulties with learning or a disability that
 makes it harder for them to engage in education. These
 needs can be in the following four areas categorised by the
-Special Educational Needs Code of Practice (2015) of
+Special Educational Needs and Disability Code of Practice: 0 to 25 years (2015, as updated September 2024) of
 cognition and learning, communication and interaction,
 sensory and physical, or social, emotional and mental health.
 
@@ -303,7 +302,7 @@ Nudge Education Online
 | Review Date | April 2027 |
 | Version | 04.26 |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
-| Proprietor | Diego Melo |
+| Proprietor | Proprietor, Nudge Education Ltd |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
 
 This policy applies to all learners, staff, practitioners, contractors, volunteers and visitors of Nudge Education Online (NEO). NEO is a fully online alternative provision for learners aged 11–18, operated by Nudge Education Ltd.
@@ -312,10 +311,10 @@ NEO is not a DfE-registered independent school and is not subject to Independent
 Nudge Education Online (NEO) is a trauma-informed, neurodivergent-affirming online alternative provision for learners aged 11–18 (Key Stage 3, 4, and 5). NEO is committed to inclusion and to ensuring that learners with Special Educational Needs and Disabilities (SEND) are supported to access education, make progress, and thrive in a learning environment that celebrates difference.
 Many learners join NEO after experiencing barriers in other settings, including emotionally based school non-attendance (EBSNA). Some arrive with established SEND profiles; others have unidentified needs that emerge over time. This policy outlines how NEO identifies, assesses, and meets SEND within its fully online provision, grounded in the six Cornerstones: Connection, Movement, Creativity, Reflection, Rest, and Nutrition.
 NEO's approach is strengths-based, not deficit-based. NEO asks not "what is wrong with this learner?" but "what does this learner need to feel safe, connected, and ready to learn?"
-NEO is not a DfE-registered independent school and is not subject to ISI inspection. NEO pursues OEAS accreditation only; this does not reduce NEO's obligations under the Equality Act 2010 or the SEND Code of Practice 2015.
+NEO is not a DfE-registered independent school and is not subject to ISI inspection. NEO pursues OEAS accreditation only; this does not reduce NEO's obligations under the Equality Act 2010 or the SEND Code of Practice: 0 to 25 years (2015, as updated September 2024).
 ## 2. Legal Framework
 Children and Families Act 2014
-SEND Code of Practice 2015 (0–25)
+SEND Code of Practice: 0 to 25 years (2015, as updated September 2024)
 Equality Act 2010
 Keeping Children Safe in Education 2025 (KCSIE)
 Mental Health and Wellbeing in Schools guidance (DfE)
@@ -450,7 +449,7 @@ NEO Admissions Policy
 | Approved | April 2026 |
 | Next Review | April 2027 |
 | Owner | Director, Nudge Education Online & Head of School |
-| Approver | Proprietor (Diego Melo) |
+| Approver | Proprietor |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 
 ---

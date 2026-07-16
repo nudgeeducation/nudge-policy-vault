@@ -19,6 +19,7 @@ Whole-company policies that apply across every part of Nudge Education Ltd, incl
 - [[finance-policy|Finance Policy]] — *internal*
 - [[health-and-safety-policy|Health and Safety Policy]] — *both* · NEO addendum included
 - [[performance-management-policy|Performance Management Policy]] — *internal*
+- [[privacy-policy-staff|Privacy Policy — Staff]] — *internal + applicants*
 - [[privacy-policy-web-users|Privacy Policy — Web Users]] — *external*
 - [[sar-request-policy|SAR Request Policy]] — *internal*
 - [[whistleblowing-policy|Whistleblowing Policy]] — *both*

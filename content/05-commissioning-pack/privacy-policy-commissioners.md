@@ -23,7 +23,7 @@ processing described in this notice.
 Company no. 10192753. Registered office: Sirius House, Amethyst Road, Newcastle upon
 Tyne, NE4 7YL.
 
-Data Protection Lead (day-to-day contact): Brian Mair · privacy@nudgeeducation.co.uk
+Data Protection Lead (day-to-day contact): privacy@nudgeeducation.co.uk
 07958 440 937.
 
 2) Who this notice is for

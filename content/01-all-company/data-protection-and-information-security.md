@@ -24,7 +24,7 @@ Scope of Document;
 This policy is drafted to ensure that all personal data relating to our students, staff,
 associates and clients is kept and processed in a manner that keeps Nudge
 Education compliant with The Data Protection Act 2018 (DPA) and the General
-Data Protection Regulation (GDPR) May 2018.
+Data Protection Regulation (UK GDPR), the Data Protection Act 2018 and the Data (Use and Access) Act 2025 (together, "data protection laws").
 
 This policy is linked to several other key documents such as our Safeguarding &
 Child Protection Policy, Conﬁdentiality Policy,Privacy Policy, Social Media Policy &
@@ -66,7 +66,7 @@ www.cyberessentials.ncsc.gov.uk/advice/
 Guide to the General Data Protection Regulation (ICO 2018)
 
 The Data Protection Officer for Nudge Education is:
-Brian Mair, Managing Director, 07958440937.
+The Data Protection Lead, 07958 440937 (business mobile).
 
 The Children's Commissioner at the time of this policy is: Dame Rachel de
 Souza and she; "speaks up for children and young people so that policymakers
@@ -145,7 +145,7 @@ The Head of Information Security will ensure that any information security incid
 appropriately managed and will support the Data Protection Officer with information
 security matters as required.
 
-Both roles, Data Protection Officer and Information Security Officer lie with: Brian Mair,
+Both roles, Data Protection Officer and Information Security Officer, lie with the Data Protection Lead,
 Director of Operations, 07958 440937.
 
 ### 1.3 Process owners
@@ -446,7 +446,7 @@ Signature:                                     Date:
 1.7Change History Record
 
 Version   Date                  Details of Change(s)                Approved By
-2.0       5/12/2025             Implementation of V2 policy         Brian Mair
+2.0       5/12/2025             Implementation of V2 policy         Director of Operations
 
 PAGE IS INTENTIONALLY BLANK
 
@@ -538,7 +538,7 @@ life. This includes the decommissioning of servers, network devices and any data
 storage devices. All such destruction is appropriately certified and logged against
 the IT Asset Register. System Architect is responsible for all IT Assets throughout
 its useful life and for complying with the decommissioning processes. The current
-System Architect at Nudge Education is Felipe Lyra :07961 226726
+System Architect at Nudge Education: 07961 226726 (business mobile)
 
 Physical Environment Security Policy
 
@@ -822,7 +822,7 @@ for conﬁdentiality relating to business matters.
 1.8Change History Record
 
 Version   Date                Details of Change(s)                 Approved By
-2.0       5/12/2025           Implementation of V2 policy          Brian Mair
+2.0       5/12/2025           Implementation of V2 policy          Director of Operations
 
 Nudge Education Data Protection and Information Security Policy Dec 25
 
@@ -843,7 +843,7 @@ Nudge Education Online
 | Review Date | April 2027 |
 | Version | 04.26 |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
-| Proprietor | Diego Melo |
+| Proprietor | Proprietor, Nudge Education Ltd |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
 
 This policy applies to all learners, staff, practitioners, contractors, volunteers and visitors of Nudge Education Online (NEO). NEO is a fully online alternative provision for learners aged 11–18, operated by Nudge Education Ltd.
@@ -1045,7 +1045,7 @@ NEO Digital Consent and AI Safety Parent Guide
 | Approved | April 2026 |
 | Next Review | April 2027 |
 | Owner | Director, Nudge Education Online & Head of School |
-| Approver | Proprietor (Diego Melo) |
+| Approver | Proprietor |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 
 ---

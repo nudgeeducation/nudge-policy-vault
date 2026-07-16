@@ -346,7 +346,6 @@ As reasons for non-engagement can evolve quickly, we will review and update our
 Attendance Policy & Procedures as necessary.
 
 This policy has been signed off by the Nudge Education Directorate.
-Charlotte Noutch
 Director of Partnerships & Services
 5 Dec 2025
 

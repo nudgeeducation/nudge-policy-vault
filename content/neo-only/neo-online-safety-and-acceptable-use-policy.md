@@ -27,7 +27,7 @@ This policy sets out how NEO:
 - Trains staff to identify, manage, and respond to online risks effectively.
 - Responds to online safety concerns, cyber incidents, or misuse.
 - Embeds responsible, transparent, and consent-gated use of artificial intelligence within its operations, aligned with NEO's agentic-AI design principles.
-- Complies with the **Online Safety Act 2023** and the **ICO Children's Code**.
+- Complies with the **Online Safety Act 2023** and the **ICO Children's Code**, and is delivered with regard to **Keeping Children Safe in Education 2026** (in force 1 September 2026), including its online safety and filtering and monitoring expectations.
 
 ## 2. Scope
 
@@ -243,6 +243,7 @@ A full Acceptable Use Agreement is issued and signed at induction by all staff a
 This policy should be read alongside:
 
 - [[../03-service-delivery/child-protection-and-safeguarding-policy|NEO Child Protection and Safeguarding Policy]]
+- [[neo-online-anti-bullying-strategy|NEO Online Anti-Bullying Strategy]]
 - [[neo-behaviour-and-regulation-policy|NEO Behaviour and Regulation Policy]]
 - [[../01-all-company/data-protection-and-information-security|Data Protection, Confidentiality and Privacy Policy]]
 - [[../03-service-delivery/send-policy|SEND Policy]]

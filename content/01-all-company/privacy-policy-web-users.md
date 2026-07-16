@@ -5,32 +5,40 @@ groups: [commissioners, parents-carers]
 provision: all
 type: core
 status: live
-version: Dec 2025
+version: Jul 2026
 owner_role: Data Protection Officer
 neo_addendum: false
 source_file: 1. All Company/Privacy Policy Web Users - Dec 2025.pdf
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Data Protection Officer
+> **Operated by:** Nudge Education Ltd · **Version:** Jul 2026 · **Owner:** Data Protection Officer
 
-Privacy Policy: Web users Last Updated: 6/12/2025
+Privacy Policy: Web users Last updated: 16 July 2026
 
-Date of next review: 6/12/2026
+Date of next review: 6 December 2026
 
-Version: v2.1 Classification: Public Author: Brian Mair
+Version: v2.2 Classification: Public Author: Data Protection Lead
 
 Who we are
 Nudge Education Limited ("Nudge", "we", "us", "our"), company no. 10192753, Sirius
 House, Amethyst Road, Newcastle upon Tyne, NE4 7YL. We are the controller for the
 processing described here.
 
-Data Protection Lead (operations): Brian Mair · 07958 440 937
+Data Protection Lead (operations): 07958 440 937 (business mobile) ·
 privacy@nudgeeducation.co.uk
+
+This notice is written under the UK GDPR, the Data Protection Act 2018 and the Data
+(Use and Access) Act 2025 (together, "data protection laws").
+
+Young people visiting our sites
+Some of our sites are read by young people aged 11–18. We design them in line with the
+ICO's Age Appropriate Design Code: we do not profile young visitors, we do not use their
+information for marketing, and non-essential cookies stay off unless accepted.
 
 What we collect
 - Contact details you submit (e.g., via forms): name, email, phone.
 - Technical/usage data: IP address, device identifiers, pages visited, time zone, basic
-analytics. (IP addresses are personal data.) Your current policy references Google
-Analytics and Squarespace analytics capturing IP.
+analytics. (IP addresses are personal data.) Our analytics tools (Google Analytics and
+Squarespace analytics) capture IP addresses; we minimise and mask these where possible.
 
 How we get it
 - Directly from you (forms, emails).
@@ -67,8 +75,11 @@ withdraw consent. Some limits may apply. Contact our DPO or Data Protection Lead
 aim to reply within one month.
 
 Complaints
-You can complain to the ICO (ico.org.uk; 0303 123 1113). We'd like the chance to resolve
-concerns first so contact us at: talk2nudge@nudgeeducation.co.uk
+You can complain to us electronically at any time at privacy@nudgeeducation.co.uk or
+talk2nudge@nudgeeducation.co.uk. In line with the Data (Use and Access) Act 2025 we
+will acknowledge a data protection complaint within 30 days and respond without undue
+delay. You can also complain to the ICO (ico.org.uk; 0303 123 1113) at any time — though
+we'd welcome the chance to resolve concerns first.
 
 Changes
 We update this notice as our processing changes and will post updates here (and notify
@@ -142,8 +153,8 @@ improvement; we regularly review retention settings.
 
 Updates to this policy
 We'll update this policy if our cookies or providers change, or if law/guidance changes.
-We'll post the new version here and update the "Last updated" date. Your current privacy
-materials already commit to posting updates and, where appropriate, notifying by email.
+We'll post the new version here, update the "Last updated" date and, where appropriate,
+notify you by email.
 
 Contact
 Email privacy@nudgeeducation.co.uk
@@ -154,7 +165,7 @@ Email privacy@nudgeeducation.co.uk
 
 | Field | Value |
 |---|---|
-| Version | Dec 2025 |
+| Version | Jul 2026 |
 | Owner | Data Protection Officer |
 | Status | live |
 | Source file | `1. All Company/Privacy Policy Web Users - Dec 2025.pdf` |
