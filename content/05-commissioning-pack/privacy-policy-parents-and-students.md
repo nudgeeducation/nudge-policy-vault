@@ -54,6 +54,12 @@ SENCo — we may receive information about you and your child before we have spo
 you. When that happens, we will contact you directly, normally at our first contact with
 you and always within a month, tell you what we have received and who from, and point
 you to this notice.
+
+Where a local authority or school commissions your child's place, the commissioner may
+act on your behalf for some parts of the process — for example completing referral forms
+or giving consents connected with the running of the placement. Some things can only
+ever come from you, such as consent for photos and publicity, and for those we will
+always ask you directly.
 2) Why we use your information
 Our job is to assess needs, plan the right support, deliver sessions, and keep people
 safe.
