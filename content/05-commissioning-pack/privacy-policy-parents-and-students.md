@@ -5,18 +5,18 @@ groups: [parents-carers, learners]
 provision: all
 type: core
 status: live
-version: Dec 2025
+version: Jul 2026
 owner_role: Data Protection Officer
 neo_addendum: false
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Privacy Policy Parents and Students - Dec 2025.pdf
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 · **Owner:** Data Protection Officer
+> **Operated by:** Nudge Education Ltd · **Version:** Jul 2026 · **Owner:** Data Protection Officer
 
-Privacy Policy: Parents and Students Last Updated: 6/12/2025
+Privacy Policy: Parents and Students Last Updated: 22/7/2026
 
 Date of next review: 6/12/2026
 
-Version: v1.1 Classification: Public Author: Data Protection Lead
+Version: v1.2 Classification: Public Author: Data Protection Lead
 
 Who we are
 We're Nudge Education Limited. We help young people get back into learning. We are
@@ -48,6 +48,12 @@ progress).
 
 Where we get it: from you, and from referrals made by the local authority, school or other
 services (they share information with us so we can help).
+
+If someone refers you to us — for example a local authority commissioner or a school
+SENCo — we may receive information about you and your child before we have spoken to
+you. When that happens, we will contact you directly, normally at our first contact with
+you and always within a month, tell you what we have received and who from, and point
+you to this notice.
 2) Why we use your information
 Our job is to assess needs, plan the right support, deliver sessions, and keep people
 safe.
@@ -128,7 +134,7 @@ appropriate.
 
 | Field | Value |
 |---|---|
-| Version | Dec 2025 |
+| Version | Jul 2026 (v1.2) |
 | Owner | Data Protection Officer |
 | Status | live |
 | Source file | `5. Nudge Education - Documentation for Commissioning Purposes/Privacy Policy Parents and Students - Dec 2025.pdf` |
