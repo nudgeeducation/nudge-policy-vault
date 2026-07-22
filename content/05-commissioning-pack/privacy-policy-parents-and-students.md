@@ -8,7 +8,6 @@ status: live
 version: Jul 2026
 owner_role: Data Protection Officer
 neo_addendum: false
-source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Privacy Policy Parents and Students - Dec 2025.pdf
 ---
 > **Operated by:** Nudge Education Ltd · **Version:** Jul 2026 · **Owner:** Data Protection Officer
 
@@ -131,8 +130,7 @@ increase the risk.
 
 8) Changes to this guide
 We update this guide if our services or the rules change, and we'll post the latest version
-on our website. Your current policy already promises to post updates and email where
-appropriate.
+on our website.
 
 ---
 
@@ -143,4 +141,3 @@ appropriate.
 | Version | Jul 2026 (v1.2) |
 | Owner | Data Protection Officer |
 | Status | live |
-| Source file | `5. Nudge Education - Documentation for Commissioning Purposes/Privacy Policy Parents and Students - Dec 2025.pdf` |
