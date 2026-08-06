@@ -151,6 +151,24 @@ How long we keep cookie data
 improvement; we regularly review retention settings.
 - Where possible, we aggregate or anonymise analytics to reduce personal data use.
 
+Cookies on the NEO site family (added August 2026 — DRAFT, pending Data Protection Officer sign-off)
+Our NEO sites (nudgeeducation.online and its subdomains, including curriculum, courses,
+next, support and policies.nudgeeducation.online) use a single optional analytics tool:
+Google Analytics 4, loaded through Google Tag Manager. Nothing is set until you choose
+"Accept analytics" on the cookie banner; if you choose "No thanks", no analytics load at all.
+
+- Cookies set (only after consent): `_ga` and `_ga_*` (Google Analytics; used to
+distinguish visitors; expire after up to 2 years).
+- Your choice itself is stored in your browser (local storage, key `neo-consent`) so we do
+not ask again on every visit. This is strictly necessary and contains no personal data.
+- No advertising, marketing or social-media cookies are used on the NEO sites, and we
+do not profile visitors. This reflects the Age Appropriate Design Code approach set out
+above: non-essential cookies stay off unless accepted.
+- Processor: Google LLC. Usage data may be processed outside the UK; the safeguards
+described under "International transfers" apply.
+- To change or withdraw your choice at any time, use the "Cookie choices" link in the
+site footer, or clear your browser’s site data for the site.
+
 Updates to this policy
 We'll update this policy if our cookies or providers change, or if law/guidance changes.
 We'll post the new version here, update the "Last updated" date and, where appropriate,
@@ -169,3 +187,4 @@ Email privacy@nudgeeducation.co.uk
 | Owner | Data Protection Officer |
 | Status | live |
 | Source file | `1. All Company/Privacy Policy Web Users - Dec 2025.pdf` |
+| Change note (Aug 2026) | DRAFT v2.3 addition: NEO site family analytics (consent-first GA4 via Tag Manager) and Cookie choices withdrawal link — pending DPO sign-off |
