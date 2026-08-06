@@ -5,18 +5,18 @@ groups: [commissioners, parents-carers]
 provision: all
 type: core
 status: live
-version: Jul 2026
+version: Aug 2026
 owner_role: Data Protection Officer
 neo_addendum: false
 source_file: 1. All Company/Privacy Policy Web Users - Dec 2025.pdf
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** Jul 2026 · **Owner:** Data Protection Officer
+> **Operated by:** Nudge Education Ltd · **Version:** Aug 2026 · **Owner:** Data Protection Officer
 
-Privacy Policy: Web users Last updated: 16 July 2026
+Privacy Policy: Web users Last updated: 6 August 2026
 
 Date of next review: 6 December 2026
 
-Version: v2.2 Classification: Public Author: Data Protection Lead
+Version: v2.3 Classification: Public Author: Data Protection Lead
 
 Who we are
 Nudge Education Limited ("Nudge", "we", "us", "our"), company no. 10192753, Sirius
@@ -151,7 +151,7 @@ How long we keep cookie data
 improvement; we regularly review retention settings.
 - Where possible, we aggregate or anonymise analytics to reduce personal data use.
 
-Cookies on the NEO site family (added August 2026 — DRAFT, pending Data Protection Officer sign-off)
+Cookies on the NEO site family (added August 2026)
 Our NEO sites (nudgeeducation.online and its subdomains, including curriculum, courses,
 next, support and policies.nudgeeducation.online) use a single optional analytics tool:
 Google Analytics 4, loaded through Google Tag Manager. Nothing is set until you choose
@@ -183,8 +183,8 @@ Email privacy@nudgeeducation.co.uk
 
 | Field | Value |
 |---|---|
-| Version | Jul 2026 |
+| Version | Aug 2026 |
 | Owner | Data Protection Officer |
 | Status | live |
 | Source file | `1. All Company/Privacy Policy Web Users - Dec 2025.pdf` |
-| Change note (Aug 2026) | DRAFT v2.3 addition: NEO site family analytics (consent-first GA4 via Tag Manager) and Cookie choices withdrawal link — pending DPO sign-off |
+| Change note (Aug 2026) | v2.3: NEO site family analytics (consent-first GA4 via Tag Manager) and Cookie choices withdrawal link — signed off August 2026 |
