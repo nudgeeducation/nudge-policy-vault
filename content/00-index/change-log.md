@@ -8,6 +8,13 @@ status: live
 ---
 A running log of structural changes, policy additions, and version uplifts.
 
+## 2026-08-10 — Examinations suite for the Pearson Virtual Edexcel Centre application
+
+- New: [[../neo-only/neo-examination-venues-policy|NEO — Examination Venues Policy]] (v08.26) — examination centre partnership with Tutors & Exams, per-candidate venue allocation process, venue checks, access arrangements at venues
+- New: [[../neo-only/neo-examination-contingency-plan|NEO — Examination Contingency Plan]] (v08.26) — JCQ-aligned contingency scenarios and responses, special consideration, communication cascade
+- New: [[../neo-only/neo-appeals-procedure|NEO — Appeals Procedure]] (v08.26) — examination and assessment appeals companion to the Complaints Policy: internal assessment reviews, entries/tiers/access arrangements, post-results services, awarding organisation and Ofqual EPRS routes
+- All three drafted to support Section 5 of the Pearson "Application to become a Virtual Edexcel Centre" (V7 July 2026); Word versions filed in NEO Policies
+
 ## 2026-07-16 — KCSIE 2026 uplift, sign-offs and new policies
 
 - NEO Child Protection and Safeguarding addendum updated to Keeping Children Safe in Education 2026 and signed off by the Director, NEO & Head of School (v07.26; DSL to review and countersign on appointment, September 2026) — DRAFT status removed
