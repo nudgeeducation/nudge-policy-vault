@@ -22,6 +22,10 @@ If you're commissioning a place — whether for a face-to-face intervention or a
 - [[07-intervention-safety/index|Intervention Safety, Safeguarding & Complex Needs]]
 - [[neo-only/index|NEO Online — Standalone Policies]]
 
+## The NEO Curriculum
+
+The NEO curriculum — key stage structure, qualification pathways, the Life and Work strand and the statutory RSHE strand — is published in full at [curriculum.nudgeeducation.online](https://curriculum.nudgeeducation.online). It is the written curriculum framework behind the [[neo-only/neo-teaching-and-learning-policy|Teaching and Learning Policy]].
+
 ## How NEO is covered
 
 Where a Nudge Education policy already covers the topic, the **NEO Online Addendum** appears as a section at the end of that policy — one canonical policy, one version for LA verification. Genuinely online-specific policies (Online Safety, AI, Teaching & Learning, Behaviour & Regulation, Home-School Agreement) live in [[neo-only/index|NEO Online — Standalone]].

@@ -25,6 +25,8 @@ Policies that are genuinely specific to **Nudge Education Online (NEO)** — the
 - [[neo-terms-of-business-commissioned|NEO — Terms of Business (Commissioned Placements)]]
 - [[neo-terms-and-conditions-parents-carers|NEO — Terms and Conditions for Parents and Carers]]
 
+The NEO curriculum itself — key stages, qualification pathways and schemes — is published at [curriculum.nudgeeducation.online](https://curriculum.nudgeeducation.online).
+
 ## Where NEO online specifics live elsewhere
 
 For policies where Nudge Education already has a canonical version, NEO online provisions appear as an **NEO Online Addendum** section at the end of the canonical policy — not as a separate document. This collapses 13 duplicate documents into 13 single canonical policies with online overlays. See for example:

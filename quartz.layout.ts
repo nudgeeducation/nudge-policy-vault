@@ -17,6 +17,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.DownloadPdf(),
     Component.TagList(),
   ],
   left: [

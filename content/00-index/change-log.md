@@ -8,6 +8,11 @@ status: live
 ---
 A running log of structural changes, policy additions, and version uplifts.
 
+## 2026-08-14 (evening, ii) — PDF downloads live; curriculum linked
+
+- Every policy page now carries a **Download as PDF** button; PDFs are regenerated automatically on every deploy, so they cannot go stale against the published page. Each PDF carries page numbers and a footer noting the website as the controlled version — suitable for attaching to procurement portals
+- The [NEO Curriculum](https://curriculum.nudgeeducation.online) linked from the library index and the NEO section, closing the OEAS standard 1.1 signposting gap
+
 ## 2026-08-14 (evening) — Notice-period consistency fix, and PDF downloads plumbing
 
 - Admissions Policy and Home-School Agreement corrected: withdrawal notice is **one calendar month** (was stated as a full term / ~12 weeks in three places, contradicting the Withdrawal Policy and both sets of Terms published earlier today)
