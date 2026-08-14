@@ -29,6 +29,12 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - name: Install Playwright Chromium for PDF generation
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+      - name: Generate policy PDFs
+        run: node scripts/generate-pdfs.mjs
       - name: Copy CNAME into build output
         run: cp CNAME public/CNAME
       - name: Upload artifact
