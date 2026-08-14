@@ -214,7 +214,8 @@ NEO Data Protection, Confidentiality and Privacy Policy
 NEO Admissions Policy
 NEO Complaints Procedure
 NEO Teaching and Learning Policy
-NEO Terms and Conditions
+[[neo-terms-of-business-commissioned|NEO Terms of Business (Commissioned Placements)]]
+[[neo-terms-and-conditions-parents-carers|NEO Terms and Conditions for Parents and Carers]]
 
 ### Document Control
 

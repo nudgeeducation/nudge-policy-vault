@@ -8,6 +8,12 @@ status: live
 ---
 A running log of structural changes, policy additions, and version uplifts.
 
+## 2026-08-14 (evening) — Notice-period consistency fix, and PDF downloads plumbing
+
+- Admissions Policy and Home-School Agreement corrected: withdrawal notice is **one calendar month** (was stated as a full term / ~12 weeks in three places, contradicting the Withdrawal Policy and both sets of Terms published earlier today)
+- Stale references to the former unified "NEO Terms and Conditions" repointed at the B2B and B2C documents that replaced it (Admissions, Home-School Agreement, Behaviour and Regulation)
+- Build tooling added for per-policy PDF downloads (generator script and page component; switched on in a follow-up commit once the deploy workflow is updated)
+
 ## 2026-08-14 (later) — Commercial terms published, and the examinations suite folded into the audience packs
 
 - New: [[../neo-only/neo-terms-of-business-commissioned|NEO — Terms of Business (Commissioned Placements)]] — the B2B terms for Local Authorities, schools and other commissioners

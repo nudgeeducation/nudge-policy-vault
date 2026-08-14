@@ -349,10 +349,10 @@ Decision: a written offer or outcome is provided within five working days of the
 ### 6.4 Offer and Enrolment
 Where an offer is made, the family receives:
 Confirmation of the proposed programme, including hours, subjects, and any additional support.
-The NEO Terms and Conditions, which must be signed before the placement begins.
+The applicable terms — the [[../neo-only/neo-terms-of-business-commissioned|NEO Terms of Business (Commissioned Placements)]] or the [[../neo-only/neo-terms-and-conditions-parents-carers|NEO Terms and Conditions for Parents and Carers]], as applicable — which must be accepted before the placement begins.
 Information about the induction process and the named practitioner who will act as the family's single point of contact.
 The NEO fee schedule, payment arrangements, and a clear statement that public examination entry fees are charged separately from tuition fees.
-Notice that the standard notice period for withdrawal is one full term (approximately 12 weeks), as set out in the NEO Terms and Conditions.
+Notice that the notice period for withdrawal is one calendar month, given in writing and billed through in full, as set out in the applicable terms and the [[../neo-only/neo-withdrawal-policy|NEO Withdrawal Policy]].
 ## 7. Route B: Commissioned Referral
 ### 7.1 Referral Process
 All commissioned referrals are managed centrally. Referrals may originate from local authorities, schools, social care teams, virtual schools, or other commissioning bodies. The process follows these stages:
@@ -425,11 +425,11 @@ Involvement in review meetings, co-designed agreements, and EHCP annual reviews.
 Access to parent information sessions on topics such as online safety, AI, and neurodivergent-affirming approaches.
 Signposting to external support services and parent networks.
 ## 13. Fees and Financial Arrangements
-Full fee schedules, invoice cycles, and cancellation terms are set out in the NEO Terms and Conditions. For admissions, the following principles apply:
+Full fee schedules, invoice cycles, and cancellation terms are set out in the [[../neo-only/neo-terms-of-business-commissioned|NEO Terms of Business (Commissioned Placements)]] or the [[../neo-only/neo-terms-and-conditions-parents-carers|NEO Terms and Conditions for Parents and Carers]], as applicable. For admissions, the following principles apply:
 Tuition fees cover live lessons, recorded learning, practitioner mentoring, safeguarding oversight, SEND support, and the standard curriculum.
 Public examination entry fees (for example, GCSE, IGCSE, Functional Skills) are not included in tuition fees and are invoiced separately to families or commissioners.
 Curriculum Access Only subscriptions (£250/year) provide online access to the NEO curriculum and do not constitute a school placement.
-The standard withdrawal notice period is one full term (approximately 12 weeks) from written notice, unless agreed otherwise in a commissioned SLA.
+The withdrawal notice period is one calendar month from written notice, billed through in full, unless a commissioning framework or contract provides otherwise. The [[../neo-only/neo-withdrawal-policy|NEO Withdrawal Policy]] sets out the process in full.
 ## 14. Data Protection and Confidentiality
 All admissions and referral information is processed and stored securely in compliance with the UK GDPR, Data Protection Act 2018, and the ICO Children's Code. Information about prospective learners who do not progress to a placement is retained only for as long as necessary, in line with NEO's retention schedule, and then securely deleted. Full details are set out in the NEO Data Protection, Confidentiality and Privacy Policy.
 ## 15. Roles and Responsibilities
@@ -460,7 +460,9 @@ NEO Online Safety and Acceptable Use Policy
 NEO Behaviour and Regulation Policy
 NEO Complaints Procedure
 NEO Teaching and Learning Policy
-NEO Terms and Conditions
+[[../neo-only/neo-terms-of-business-commissioned|NEO Terms of Business (Commissioned Placements)]]
+[[../neo-only/neo-terms-and-conditions-parents-carers|NEO Terms and Conditions for Parents and Carers]]
+[[../neo-only/neo-withdrawal-policy|NEO Withdrawal Policy]]
 
 ### Document Control
 

@@ -64,8 +64,8 @@ Provide, so far as possible, a safe, quiet space for my child to learn, with acc
 Keep NEO informed about anything affecting my child's wellbeing, safety, or learning — including SEND information, safeguarding concerns, health changes, and family circumstances where relevant.
 Read and respond to communications from NEO within a reasonable timeframe, including reports, review meeting invitations, and safeguarding information.
 Engage constructively with my child's named practitioner as the main point of contact, and attend review meetings where possible.
-Pay fees as set out in the NEO Terms and Conditions, understanding that public examination entry fees are charged separately from tuition fees.
-Give notice of withdrawal in line with the NEO Terms and Conditions (one full term, approximately 12 weeks).
+Pay fees as set out in the [[neo-terms-and-conditions-parents-carers|NEO Terms and Conditions for Parents and Carers]], understanding that public examination entry fees are charged separately from tuition fees.
+Give notice of withdrawal in line with the [[neo-terms-and-conditions-parents-carers|NEO Terms and Conditions for Parents and Carers]] and the [[neo-withdrawal-policy|NEO Withdrawal Policy]] (one calendar month, in writing).
 Support NEO's online safety and digital consent expectations, including the approach set out in the NEO Digital Consent and AI Safety Parent Guide.
 Uphold the values of respect, inclusion, and anti-racism in all communication with NEO staff and other families.
 Contact NEO's Designated Safeguarding Lead if I have any safeguarding concerns, and follow the NEO Complaints Procedure for any other concerns I cannot resolve informally.
@@ -123,7 +123,8 @@ One signed copy is retained securely by NEO on the learner's record. A countersi
 ### Related Policies
 This policy should be read alongside:
 NEO Admissions Policy
-NEO Terms and Conditions
+[[neo-terms-and-conditions-parents-carers|NEO Terms and Conditions for Parents and Carers]]
+[[neo-withdrawal-policy|NEO Withdrawal Policy]]
 NEO Child Protection and Safeguarding Policy
 NEO Behaviour and Regulation Policy
 NEO SEND Policy

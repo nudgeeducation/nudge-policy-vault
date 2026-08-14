@@ -18,6 +18,7 @@ import Search from "./Search"
 import Footer from "./Footer"
 import NEOSiteHeader from "./NEOSiteHeader"
 import NEOSiteFooter from "./NEOSiteFooter"
+import DownloadPdf from "./DownloadPdf"
 import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
@@ -46,6 +47,7 @@ export {
   Footer,
   NEOSiteHeader,
   NEOSiteFooter,
+  DownloadPdf,
   DesktopOnly,
   MobileOnly,
   RecentNotes,
