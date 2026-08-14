@@ -65,7 +65,14 @@ The complete set of documents Local Authority commissioners need when procuring 
 - [[../neo-only/neo-artificial-intelligence-policy|Artificial Intelligence Policy (Diamond Standard)]]
 - [[../neo-only/neo-teaching-and-learning-policy|Teaching and Learning Policy]]
 - [[../neo-only/neo-behaviour-and-regulation-policy|Behaviour and Regulation Policy]]
+- [[../neo-only/neo-appeals-and-complaints-policy|Appeals and Complaints Policy]]
+- [[../neo-only/neo-withdrawal-policy|Withdrawal Policy]]
+- [[../neo-only/neo-privacy-notice-learners|Privacy Notice for Learners]]
+- [[../neo-only/neo-examination-venues-policy|Examination Venues Policy]]
+- [[../neo-only/neo-examination-contingency-plan|Examination Contingency Plan]]
+- [[../neo-only/neo-appeals-procedure|Appeals Procedure (examinations and assessment)]]
 
 ### Procurement documents
+- [[../neo-only/neo-terms-of-business-commissioned|NEO Terms of Business — Commissioned Placements]]
 - [[../05-commissioning-pack/framework-agreement|Framework Agreement (Sept 2025+)]]
 - [[../05-commissioning-pack/evidence-of-insurance|Evidence of Insurance]]

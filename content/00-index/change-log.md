@@ -8,6 +8,23 @@ status: live
 ---
 A running log of structural changes, policy additions, and version uplifts.
 
+## 2026-08-14 (later) — Commercial terms published, and the examinations suite folded into the audience packs
+
+- New: [[../neo-only/neo-terms-of-business-commissioned|NEO — Terms of Business (Commissioned Placements)]] — the B2B terms for Local Authorities, schools and other commissioners
+- New: [[../neo-only/neo-terms-and-conditions-parents-carers|NEO — Terms and Conditions for Parents and Carers]] — the B2C consumer terms, carrying the prominence box, the 14-day cooling-off right and the one-month notice
+- Both reconciled against the published policies before publication; corrections recorded in the reconciliation note below
+- Counsel's two open drafting points on the B2B terms resolved: clause 9.2 (independent controllers, with a data-sharing protocol, breach notification and an FSA savings provision at 9.3–9.7) and clause 11.3 (mutual liability cap at the greater of £100,000 and 12 months' fees, with the Commissioner's payment obligation carved out and framework limits prevailing)
+- The August examinations suite — [[../neo-only/neo-examination-venues-policy|Examination Venues Policy]], [[../neo-only/neo-examination-contingency-plan|Examination Contingency Plan]] and [[../neo-only/neo-appeals-procedure|Appeals Procedure]] — added to the commissioner, parents & carers, schools and qualified teachers packs, which the 10 August commit had missed
+- Version numbering removed from the Privacy Notice for Learners: NEO is no longer following the vMM.YY docx naming convention for these documents
+
+## 2026-08-14 — Withdrawal, Appeals and Complaints, and the learner-facing Privacy Notice
+
+- New: [[../neo-only/neo-withdrawal-policy|NEO — Withdrawal Policy]] (v08.26) — one calendar month's written notice for places and Tuition Packages alike, billed through; cooling-off and registration-fee treatment deferred to the Consumer Terms; non-payment handled adult-to-adult and never learner-facing; children-missing-education notification on unplanned family-funded exits
+- New: [[../neo-only/neo-appeals-and-complaints-policy|NEO — Appeals and Complaints Policy]] (v08.26) — umbrella policy for awarding organisation, JCQ and OEAS purposes. It does **not** replace [[../neo-only/neo-appeals-procedure|NEO — Appeals Procedure]] or the [[../01-all-company/complaints-policy|Complaints Policy]]; it incorporates both by reference and sits above them
+- New: [[../neo-only/neo-privacy-notice-learners|NEO — Privacy Notice for Learners]] — child-readable privacy notice, DPO-approved. Unambiguous typos and sentence punctuation corrected on publication; no substantive wording changed
+- Cross-references converted to wikilinks across all three pages; reciprocal link added from the Appeals Procedure to the umbrella policy
+- **Open points:** the Privacy Notice addresses "learners aged 13–18" while NEO is 11–18, and its version table reads 0.1 against a v08.26 document — both to be confirmed with the DPO. Terms and Conditions references to the Privacy Notice ("in production") can now be pointed at the live page
+
 ## 2026-08-10 — Examinations suite for the Pearson Virtual Edexcel Centre application
 
 - New: [[../neo-only/neo-examination-venues-policy|NEO — Examination Venues Policy]] (v08.26) — examination centre partnership with Tutors & Exams, per-candidate venue allocation process, venue checks, access arrangements at venues

@@ -30,7 +30,7 @@ Nudge Education Online
 
 ## 1. Purpose and Scope
 
-This procedure sits alongside the [[../01-all-company/complaints-policy|Complaints Policy]] and together they form the school's written appeals and complaints framework. The Complaints Policy covers concerns and complaints about the school's provision generally; this Appeals Procedure covers appeals relating specifically to examinations and assessment, namely:
+This procedure sits alongside the [[../01-all-company/complaints-policy|Complaints Policy]] and together they form the school's written appeals and complaints framework, summarised in the [[neo-appeals-and-complaints-policy|NEO — Appeals and Complaints Policy]], which incorporates this procedure by reference. The Complaints Policy covers concerns and complaints about the school's provision generally; this Appeals Procedure covers appeals relating specifically to examinations and assessment, namely:
 
 - internal appeals against marks awarded by NEO for internally assessed work (for example coursework or non-examination assessment) before submission to the awarding organisation;
 - appeals about decisions on examination entries or tiers;

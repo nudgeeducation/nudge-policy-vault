@@ -22,6 +22,12 @@ The role-specific policy set for **qualified, subject-specialist teachers** deli
 - [[../neo-only/neo-online-safety-and-acceptable-use-policy|Online Safety and Acceptable Use Policy]]
 - [[../neo-only/neo-behaviour-and-regulation-policy|Behaviour and Regulation Policy]]
 - [[../neo-only/neo-artificial-intelligence-policy|Artificial Intelligence Policy (Diamond Standard)]]
+
+## Examinations and assessment
+
+- [[../neo-only/neo-examination-venues-policy|Examination Venues Policy]]
+- [[../neo-only/neo-examination-contingency-plan|Examination Contingency Plan]]
+- [[../neo-only/neo-appeals-procedure|Appeals Procedure (examinations and assessment)]]
 - [[../03-service-delivery/practitioner-lone-working-policy|Lone Working — online sessions]]
 
 ## Safeguarding and welfare in the online context
