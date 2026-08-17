@@ -442,7 +442,7 @@ All volunteers, including guest speakers and enrichment contributors.
 Agency-supplied staff working under NEO's direction.
 Every individual in scope signs the Code at induction and annually thereafter. Signed copies are retained on the personnel file.
 ## 3. Legal and Regulatory Framework
-Keeping Children Safe in Education 2025 (KCSIE)
+Keeping Children Safe in Education 2026 (KCSIE)
 Teachers' Standards (DfE, 2021) — applied to all qualified teachers
 Equality Act 2010
 Data Protection Act 2018 and UK GDPR
@@ -477,7 +477,7 @@ Humour, sarcasm, and irony are used with caution in written chat, where tone is 
 Pronouns and chosen names are respected. Staff do not use a learner's former name without the learner's consent.
 Staff avoid language that could be read as flirtatious, suggestive, sexualised, or boundary-crossing. If uncertain, rephrase.
 ### 5.4 Physical and Online Proximity
-NEO is a fully online provision. Physical contact does not arise in routine delivery; where enrichment events include in-person contact, staff follow the event-specific risk assessment and KCSIE 2025 obligations.
+NEO is a fully online provision. Physical contact does not arise in routine delivery; where enrichment events include in-person contact, staff follow the event-specific risk assessment and KCSIE 2026 obligations.
 Online proximity is governed with equivalent care: cameras on or off, angle, framing, background, and household presence are all considered. Staff avoid broadcasting from bedrooms or unsupervised private spaces where practical.
 Staff never invite a learner to join a non-NEO video call or space.
 ## 6. Safeguarding Responsibilities

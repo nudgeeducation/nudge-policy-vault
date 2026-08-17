@@ -63,7 +63,7 @@ high-quality, person-centred provision:
 
 - Working Together to Safeguard Children (December 2023)
 
-- Keeping Children Safe in Education (September 2025) – adopted as best
+- Keeping Children Safe in Education (September 2026) – adopted as best
 practice
 
 - School Attendance (Pupil Registration) (England) Regulations 2024
@@ -316,7 +316,7 @@ NEO is not a DfE-registered independent school and is not subject to ISI inspect
 Children and Families Act 2014
 SEND Code of Practice: 0 to 25 years (2015, as updated September 2024)
 Equality Act 2010
-Keeping Children Safe in Education 2025 (KCSIE)
+Keeping Children Safe in Education 2026 (KCSIE)
 Mental Health and Wellbeing in Schools guidance (DfE)
 UK General Data Protection Regulation (UK GDPR) and Data Protection Act 2018
 ICO Children's Code (Age Appropriate Design Code)

@@ -463,7 +463,7 @@ Nudge Education is committed to providing safe, inclusive and equitable
 interventions for every young person. We recognise that identity, background, and
 lived experience shape how young people understand the world and how they
 respond to stress, relationships, and learning. Our practice reflects national
-expectations, including Keeping Children Safe in Education (2025) and the SEND
+expectations, including Keeping Children Safe in Education (2026) and the SEND
 Code of Practice (Updated 2024), which require education providers to offer
 individualised support that enables all young people, especially those with
 additional needs, to thrive.
@@ -570,7 +570,7 @@ This policy has been written with understanding and reference to:
 - Special Educational Needs and Disabilities Code of Practice
 (Updated 2024)
 
-- Keeping Children Safe in Education (2025)
+- Keeping Children Safe in Education (2026)
 
 This policy should be read in conjunction with the following policies:
 

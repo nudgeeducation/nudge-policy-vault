@@ -664,7 +664,7 @@ Display Screen Equipment (DSE) Regulations 1992 (as amended 2002)
 Health and Safety (First Aid) Regulations 1981
 Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (RIDDOR)
 Equality Act 2010 (reasonable adjustments)
-Keeping Children Safe in Education 2025 (KCSIE)
+Keeping Children Safe in Education 2026 (KCSIE)
 Working Together to Safeguard Children 2023 (updated May 2025)
 Online Safety Act 2023
 Fire Safety Order 2005 (applicable to any physical venue used by NEO)
@@ -787,7 +787,7 @@ Staff are advised to share their work schedule with a household member or emerge
 Any staff member who feels unsafe, unwell, or isolated should contact the Director / Head of School or DSL without delay.
 ## 13. External Providers, Contractors, and Visitors
 Where NEO engages external providers, guest speakers, or contractors to deliver content or services to learners online, the following apply:
-All external providers are subject to appropriate safeguarding checks in line with KCSIE 2025 and the NEO Child Protection and Safeguarding Policy.
+All external providers are subject to appropriate safeguarding checks in line with KCSIE 2026 and the NEO Child Protection and Safeguarding Policy.
 External providers delivering online sessions are briefed on NEO's behaviour expectations, online safety protocols, and reporting procedures.
 NEO verifies that any external platform or tool used by a provider meets NEO's data protection and security requirements before it is introduced to learners.
 For any face-to-face activities involving external venues or providers, NEO's risk assessment and insurance requirements must be satisfied in advance.

@@ -867,7 +867,7 @@ Protection of Freedoms Act 2012
 The Education (Pupil Information) (England) Regulations 2005 (as amended)
 The Privacy and Electronic Communications Regulations 2003
 Online Safety Act 2023
-Keeping Children Safe in Education 2025 (KCSIE)
+Keeping Children Safe in Education 2026 (KCSIE)
 Information Sharing: Advice for Practitioners (DfE, 2018)
 ICO Guide to the UK GDPR
 ICO Children's Code (Age Appropriate Design Code)
@@ -1000,7 +1000,7 @@ Personal data is retained only for as long as necessary to fulfil the purpose fo
 | Data Category | Retention Period | Basis |
 |---|---|---|
 | Learner records (general) | Until the learner's 25th birthday | DfE retention guidance. |
-| Safeguarding records | Until the learner's 25th birthday (or longer if required) | KCSIE 2025; local safeguarding partner guidance. |
+| Safeguarding records | Until the learner's 25th birthday (or longer if required) | KCSIE 2026; local safeguarding partner guidance. |
 | EHCP documentation | Until the learner's 25th birthday | SEND Code of Practice 2015. |
 | Session recordings | Retained for one academic term, unless required for safeguarding | Proportionality and data minimisation. |
 | Staff employment records | Six years after leaving employment | HMRC and employment law requirements. |
@@ -1023,7 +1023,7 @@ AI tools that process personal data must comply with UK GDPR, including data min
 Generative-AI use complies with NEO's agentic-AI design principles, which include identity containment, consent gates, and bounded autonomy — no AI tool may act in ways that materially affect a learner without a human decision-maker in the loop.
 ## 19. Monitoring and Review
 Joint DSL and DPO reviews of incidents, breaches, and privacy compliance are conducted termly and recorded for governance assurance.
-This policy is reviewed annually, and cross-checked against the Online Safety and Acceptable Use Policy, cyber security procedures, KCSIE 2025, and OEAS accreditation criteria.
+This policy is reviewed annually, and cross-checked against the Online Safety and Acceptable Use Policy, cyber security procedures, KCSIE 2026, and OEAS accreditation criteria.
 An immediate interim review is triggered following updates from the ICO, DfE, NCSC, or changes in statutory guidance.
 Findings from reviews feed into staff training and system improvements.
 ### Related Policies

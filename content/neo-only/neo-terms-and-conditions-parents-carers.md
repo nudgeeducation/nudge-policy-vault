@@ -86,7 +86,7 @@ last_reviewed: 2026-08
 
 ## 8. Keeping your child safe
 
-8.1 We follow Keeping Children Safe in Education and our published safeguarding policies (policies.nudgeeducation.online). Every member of staff is vetted, including enhanced DBS checks.
+8.1 We follow Keeping Children Safe in Education, as amended from time to time (currently the 2026 edition), and our published safeguarding policies (policies.nudgeeducation.online). Every member of staff is vetted, including enhanced DBS checks.
 
 8.2 Because learning happens in your home, you are responsible for your child's physical environment: a responsible adult available during live sessions, a safe working space, and a working smoke alarm. If we become aware of unsafe conditions we may pause sessions until resolved, and we will work with you to resolve them.
 

@@ -10,7 +10,7 @@ owner_role: DSL
 neo_addendum: true
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Nudge Education Child Protection and Safeguarding Policy December 25 (3).pdf
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** Dec 2025 (NEO addendum v07.26, KCSIE 2026) · **Owner:** DSL
+> **Operated by:** Nudge Education Ltd · **Version:** Dec 2025, KCSIE 2026 uplift August 2026 (NEO addendum v07.26) · **Owner:** DSL
 
 Child Protection & Safeguarding Policy
 DEC 2025
@@ -40,13 +40,13 @@ Change History Record
 Version     Date                       Details of Change(s)             Approved By
 2.0         5/12/2025                  Implementation of V2 policy      Director of Operations
 2.1         27/4/2026                  Update to National DSL details   Director of Operations
+2.2         17/8/2026                  KCSIE 2026 citation uplift (part of the December 2026 review brought forward)   Director, NEO & Head of School
 
-Interim note (July 2026): Keeping Children Safe in Education 2026 comes into force on
-1 September 2026. The NEO Online Addendum below is aligned to KCSIE 2026; this
-canonical policy will be fully updated to KCSIE 2026 at its December 2026 review. Where
-this policy cites KCSIE 2025 and the 2026 edition differs, the statutory version in force
-prevails, and staff induction from September 2026 requires all staff to read KCSIE 2026
-Part One in full (the condensed Annex A version has been withdrawn).
+Statutory guidance edition: this policy applies Keeping Children Safe in Education 2026
+(KCSIE 2026), in force from 1 September 2026, as the operative edition throughout. All
+staff read KCSIE 2026 Part One in full at induction and on each annual refresh; the
+condensed Annex A version has been withdrawn. If any residual reference to an earlier
+edition remains anywhere in this document, the statutory version in force prevails.
 
 Scope
 Nudge Education exists to eradicate chronic disengagement from Education and as such, we
@@ -56,14 +56,17 @@ Nudge Education to ensure our staff, associates, young people and commissioners 
 aware of our commitment to Safeguarding under relevant legislation and guidance listed
 within this policy document.
 
-Main Updates for 2025:
+Background — recent editions of KCSIE:
 
-The 2025 update to Keeping Children Safe in Education (KCSIE) includes significant changes,
-such as the addition of 'exploitation' alongside 'abuse and neglect' in defining child protection
-concerns. These updates reinforce the need for vigilance against harm occurring both within
-and outside the home, including online, and emphasise the importance of Contextual
-Safeguarding. Additionally, the updated definition of safeguarding now includes early
-intervention and protection from maltreatment in all environments.
+Recent editions of Keeping Children Safe in Education introduced changes that remain
+reflected in this policy, including the addition of 'exploitation' alongside 'abuse and
+neglect' in defining child protection concerns, vigilance against harm occurring both
+within and outside the home (including online), the importance of Contextual
+Safeguarding, and a definition of safeguarding that includes early intervention and
+protection from maltreatment in all environments. KCSIE 2026 additionally strengthens
+filtering and monitoring expectations (an annual effectiveness review led by a named
+senior leader, supported by the DSL and IT support, with documented device-level
+checks) and brings generative AI within scope.
 
 1. The content definition under online safety is expanded to include: "being exposed to
 illegal, inappropriate or harmful material , misinformation, disinformation (including fake
@@ -125,9 +128,9 @@ Health)
 'What to do if you're worried a child is being abused' Advice for Practitioners 2015 (Department
 for Education)
 
-Keeping Children Safe in Education 2025
+Keeping Children Safe in Education 2026
 
-(Herein referred to as KSCIE 2025)
+(Herein referred to as KCSIE 2026)
 
 Equality Act 2010
 
@@ -162,7 +165,7 @@ Definition of Safeguarding
 
 For the purposes of this policy, Nudge Education will use the definition given in key
 government guidance documents: "Working Together to Safeguard Children 2023" and
-"Keeping Children Safe in Education 2025".
+"Keeping Children Safe in Education 2026".
 
 "Safeguarding and promoting the welfare of children is defined for the purposes of this
 guidance as:
@@ -194,7 +197,7 @@ will use information such as:
 9. External commissioner quality assurance audits.
 
 Nudge Education Child Protection and Safeguarding Policy Dec 25
-In line with KCSIE 2025, there is also consideration for recording outcomes where no referral
+In line with KCSIE 2026, there is also consideration for recording outcomes where no referral
 has been made. Those staff working with children and young people should record "all
 concerns, discussions and decisions made including the rationale for those decisions. These
 recordings should include instances where referrals were or were not made to another agency
@@ -230,7 +233,7 @@ Regional Designated Safeguarding Lead (RDSL) if they have concerns about a young
 
 Nudge Education Child Protection and Safeguarding Policy Dec 25
 Everyone working within Nudge Education will be aware of the definitions and signs and
-symptoms of abuse. Using the definitions from the guidance document "KSCIE 2025)" we
+symptoms of abuse. Using the definitions from the guidance document "KCSIE 2026" we
 recognise there are five types of abuse:
 
 Abuse: a form of maltreatment of a child. Somebody may abuse or neglect a child by inflicting
@@ -283,13 +286,13 @@ Nudge Education will also follow official guidance on specific safeguarding matt
 all relevant people within or working with the organisation are up to date with recommended
 practices.
 
-In line with KCSIE 2025 update that "staff should be alert to the potential need for Early Help for
+In line with the KCSIE 2026 expectation that "staff should be alert to the potential need for Early Help for
 pupils who have 'experienced multiple suspensions, [are] at risk of being permanently
 excluded from schools, colleges and in Alternative Provision or a Pupil Referral Unit.'", we have
 adapted this to show where we start to experience changes in attendance or behaviour during
 an intervention, this may be an indication of an early help need.
 
-There are a number of sources referenced In Appendix B of KSCIE 2025 that we have used to
+There are a number of sources referenced in Annex A (further information) of KCSIE 2026 that we have used to
 inform this policy as well as some of the documents in the links below:
 
 https://www.gov.uk/government/publications/preventing-and-tackling-bullying
@@ -454,7 +457,7 @@ to be excessive force.
 
 Nudge Education acknowledges that professional touch is appropriate in the context of
 working with young people. All our staff have been given 'Safe Practice' Guidance based upon
-the Statutory guidance for schools and colleges; (KSCIE 2025) to ensure that professional
+the Statutory guidance for schools and colleges (KCSIE 2026) to ensure that professional
 boundaries are clear.
 
 ## 8. Anti-Bullying
@@ -467,12 +470,12 @@ understand that bullying can still occur both to, and by our students, so we fol
 
 We take into consideration many legislative guidance documents such as the Equality Act
 2010, Preventing and Tackling Bullying: Advice for School Leaders, Staff and Governing Bodies,
-October (2014) and KSCIE (2025).
+October (2014) and KCSIE (2026).
 
 ## 9. Peer-on-child Abuse
 
 Nudge Education Child Protection and Safeguarding Policy Dec 25
-In line with the updated definition of safeguarding in KCSIE 2025, which now includes
+In line with the definition of safeguarding in KCSIE 2026, which includes
 'exploitation', Nudge Education remains committed to preventing all forms of child-on-child
 abuse, including those occurring outside the home. This contextual safeguarding approach
 recognises that abuse can take place in various settings, including online and in the
@@ -490,7 +493,7 @@ transition.
 At Nudge Education, we continue to ensure that any form of abuse or harmful behaviour is
 dealt with immediately and consistently to reduce the extent of harm to the young person,
 with full consideration to impact on that individual child's emotional and mental health and
-wellbeing. It is also a consideration as part of KCSIE 2025 that all organisations should have a
+wellbeing. It is also a consideration as part of KCSIE 2026 that all organisations should have a
 policy regarding child-on-child abuse.
 
 Types of abuse associated with child-on-child abuse:
@@ -773,7 +776,7 @@ community settings, sometimes using Nudge-owned devices or personal devices for
 educational or safeguarding purposes.
 
 Nudge Education Child Protection and Safeguarding Policy Dec 25
-In line with the expectations set out in KCSIE (2025), Nudge Education is committed to doing
+In line with the expectations set out in KCSIE (2026), Nudge Education is committed to doing
 all that is reasonably possible to limit children's exposure to online risks, including those related
 to content, contact, conduct, and commerce.
 
@@ -922,7 +925,7 @@ www.educateagainsthate.com
 www.gov.uk/government/publications/the-use-of-social-media-for-online-radicalisation
 Education for a connected world (UKCCIS 2020)
 
-## 15. Mental Health - This section has been informed by KSCIE paragraphs 45-46
+## 15. Mental Health - This section has been informed by KCSIE 2026 Part One, paragraphs 45-48
 
 All staff have a duty of care to remain vigilant and supportive of students who may be
 experiencing mental health difficulties. While only trained professionals should diagnose
@@ -995,7 +998,7 @@ in serious violence, these are:
 - Having experienced child maltreatment
 - Having been involved in offending, such as theft or robbery
 
-On a separate note, in line with KCSIE 2025 , should a young person in our care be required to
+On a separate note, in line with KCSIE 2026, should a young person in our care be required to
 be interviewed by police, we must ensure that there is an appropriate adult in place
 throughout the interview. This can be a staff member of Nudge Education, but in the first
 instance we should contact the commissioner to identify a more suitable advocate such as a
@@ -1024,7 +1027,7 @@ are working in.
 
 ## 18. Domestic Violence/Abuse
 
-In line with changes to KCSIE 2025, we know that research shows an increase in reported cases
+In line with KCSIE 2026, we know that research shows an increase in reported cases
 of domestic violence in recent years. The impact and trauma that this causes to a young
 person can be significant:
 
@@ -1034,7 +1037,7 @@ and/or suffer domestic abuse in their own intimate relationships (teenage relati
 All of which can have a detrimental and long-term impact on their health, well-being,
 development, and ability to learn."
 
-KCSIE 2025, p.14
+KCSIE 2026, Part One
 
 In adult safeguarding there are ten types of abuse in comparison to the five under Children's
 safeguarding protocols. These are:
@@ -1062,10 +1065,9 @@ information is needed.
 
 ## 19. LGBTQIA+ Young People
 
-The 2025 update of Keeping Children Safe in Education (KCSIE) replaces the phrase "children
-who are lesbian, gay, bi or trans" with "children who are lesbian, gay, bisexual, or gender
-questioning." This terminology change (subject to final guidance) is intended to reflect current
-language in safeguarding and educational contexts.
+Keeping Children Safe in Education uses the phrase "children who are lesbian, gay,
+bisexual, or gender questioning" (terminology adopted in a recent edition and retained in
+KCSIE 2026). This reflects current language in safeguarding and educational contexts.
 
 At Nudge Education, safeguarding policies and staff training reflect the importance of
 recognising and responding appropriately to the needs of all children and young people,
@@ -1117,7 +1119,7 @@ Conduct.
 
 Nudge Education has a robust Data Protection Policy in place and works with external partners
 to identify improvements in how data is processed and managed across the organisation. In
-line with KCSIE 2025, We are committed to aligning with Government guidance on data
+line with KCSIE 2026, we are committed to aligning with Government guidance on data
 protection in school with updating our processes and information governance to ensure that
 all staff throughout Nudge Education are aware of their responsibilities regarding data
 protection and processing.
@@ -1547,7 +1549,7 @@ LADO: Local Authority Designated Officer for allegations about adults who work w
 MASH / Front Door: Local authority single point of contact for safeguarding referrals involving children at risk of significant harm.
 Practitioner (in this policy): A named NEO practitioner who acts as mentor and single point of contact for a learner and their family. Practitioners do not deliver live lessons; qualified subject-specialist teachers do. Practitioners are frontline safeguarding observers because they are often the first to notice a change in a learner.
 ## 5. Types of Abuse
-NEO recognises the categories of abuse as defined in KCSIE 2025:
+NEO recognises the categories of abuse as defined in KCSIE 2026:
 Physical abuse: Hitting, shaking, throwing, poisoning, burning, scalding, drowning, suffocating, or otherwise causing physical harm to a child.
 Emotional abuse: The persistent emotional maltreatment of a child, including conveying to a child that they are worthless, unloved, or inadequate.
 Sexual abuse: Contact and non-contact acts, grooming, or coercion, including digital exploitation and child sexual exploitation (CSE).

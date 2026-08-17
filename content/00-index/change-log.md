@@ -8,6 +8,17 @@ status: live
 ---
 A running log of structural changes, policy additions, and version uplifts.
 
+## 2026-08-17 — KCSIE 2026 citation sweep (site-wide)
+
+- All remaining KCSIE 2025 citations updated to **KCSIE 2026** across the vault, verified against the published KCSIE 2026 PDF: 23 mechanical year swaps across twelve policies (Recruitment ×2 residual, SEND, Admissions, Practitioner Code of Conduct, Practitioner Lone Working, Administration of Medication, Personal & Intimate Care, Trauma-Informed Practice, NEO Behaviour and Regulation, Health & Safety, Data Protection, EDI)
+- **Child Protection and Safeguarding Policy**: canonical policy uplifted to cite KCSIE 2026 as the operative edition throughout (brought forward from the December 2026 review); July interim note folded into the body; "what changed in 2025" narration recast as background; "KSCIE" typos corrected; mental health section re-pointed to KCSIE 2026 Part One paragraphs 45–48; further-information references re-pointed to Annex A (2026 renumbering — previously Annex B)
+- **Managing Allegations Against Staff Policy**: KCSIE 2026 removed the 80%/90% indicative resolution timescales — replaced with the 2026 expectation (first review within four weeks of initial assessment, further reviews fortnightly/monthly, para 450–451); retention wording updated to "normal pension age or 10 years from the allegation, whichever is longer" (para 497), with malicious/false allegations removed from records absent consent (para 495); Part Four scope now explicitly includes supply teachers, trainee teachers, volunteers and contractors
+- **NEO Artificial Intelligence Policy**: KCSIE paragraph citations re-pointed to the verified 2026 numbering — misinformation para 163; generative AI and the DfE Generative AI Product Safety Expectations paras 165 and 175; Cyber Security Standards paras 176–177
+- **NEO Online Safety and Acceptable Use Policy** (v08.26): section 7 rebuilt as an explicit KCSIE 2026 filtering and monitoring framework — named senior leader responsible (Director, NEO & Head of School), annual effectiveness review with DSL and IT support, documented per-account/per-device checks, generative AI in scope
+- **Safer Recruitment Letter of Assurance**: Oct 2024 letter replaced with the Aug 2026 version (from the May 2026 draft) — KCSIE 2026, full current check list, role-only signature
+- **Citation house rule adopted**: "as amended from time to time (currently the 2026 edition)" in Terms and notices (Parents & Carers Terms §8.1, Privacy Policy — Staff, Letter of Assurance); dated edition in safeguarding-operational policies (Risk Assessment, Managing Allegations, Personal & Intimate Care)
+- Verification note: the live site was serving stale pages predating the 16 July uplift (recruitment page and others) — after this push, confirm the Actions deploy succeeded and check live pages in a private window
+
 ## 2026-08-14 (evening, ii) — PDF downloads live; curriculum linked
 
 - Every policy page now carries a **Download as PDF** button; PDFs are regenerated automatically on every deploy, so they cannot go stale against the published page. Each PDF carries page numbers and a footer noting the website as the controlled version — suitable for attaching to procurement portals

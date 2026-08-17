@@ -5,14 +5,14 @@ groups: [all-staff, learners, parents-carers, commissioners]
 provision: neo
 type: standalone-neo
 status: live
-version: v04.26
-review_date: 2027-04
+version: v08.26
+review_date: 2027-08
 owner_role: Designated Safeguarding Lead, countersigned by Director NEO & Head of School
 neo_addendum: false
-last_reviewed: 2026-04
+last_reviewed: 2026-08
 source_file: NEO Policies/NEO - Online Safety and Acceptable Use Policy v04.26.docx
 ---
-> **NEO by Nudge Education** · Version v04.26 · Approved April 2026 · Review April 2027
+> **NEO by Nudge Education** · Version v08.26 · Approved August 2026 · Review August 2027
 
 This policy applies to all learners, staff, practitioners, contractors, volunteers and visitors of Nudge Education Online (NEO). NEO is a fully online alternative provision for learners aged 11–18, operated by **Nudge Education Ltd** (Company Number 10192753). NEO is not a DfE-registered independent school and is not subject to Independent Schools Inspectorate (ISI) inspection. NEO is pursuing **OEAS accreditation** only.
 
@@ -142,15 +142,20 @@ NEO undertakes proportionate due diligence to ensure all platforms are safe and 
 - Patterns of concern are analysed termly and used to inform training, platform settings, or policy review.
 - All monitoring complies with UK GDPR and the ICO Children's Code, is proportionate, and is carried out in the best interests of learners.
 
-## 7. Filtering and monitoring standards
+## 7. Filtering and monitoring standards (KCSIE 2026)
 
-NEO maintains filtering and monitoring systems that meet DfE digital and technology standards for schools, adapted for an online alternative provision context. The DSL, in coordination with IT support, ensures:
+This section applies the filtering and monitoring expectations of **Keeping Children Safe in Education 2026** (in force 1 September 2026) and the DfE filtering and monitoring standards for schools and colleges, adapted for a fully online alternative provision in which learners access education on NEO-managed accounts and enrolled devices rather than on a school premises network.
 
-- Filtering is appropriate to the age range of learners (11–18) and is reviewed at least annually.
+In line with KCSIE 2026:
+
+- The **Director, NEO & Head of School is the senior leader responsible for filtering and monitoring**. The DSL takes lead responsibility for understanding the filtering and monitoring systems in place as part of their safeguarding role, and IT support provides technical operation.
+- A **review of the effectiveness of filtering and monitoring is carried out at least once every academic year**, led by the senior leader responsible, with the support of the DSL and IT support. The outcome is recorded and reported to the Proprietor.
+- The review includes **checks that filtering is working appropriately on all relevant learner accounts and enrolled devices**, and a record is kept of these checks.
+- Filtering is appropriate to the age range of learners (11–18), blocks harmful and inappropriate content without unreasonably impacting teaching and learning, and over-blocking is reviewed so it does not impede legitimate learning.
 - Monitoring systems are proportionate and compliant with UK GDPR and the ICO Children's Code.
-- Staff understand what is filtered and monitored, and how to report concerns about the effectiveness of these systems.
-- Over-blocking is reviewed to ensure it does not impede legitimate learning.
-- The Proprietor receives termly assurance that filtering and monitoring standards are being met.
+- All staff understand what is filtered and monitored, their role in reporting concerns, and how to escalate concerns about the effectiveness of these systems to the DSL.
+- **Generative AI is within scope**: filtering and monitoring arrangements cover learner access to generative AI tools on NEO-managed accounts and devices, in line with KCSIE 2026 and the NEO Artificial Intelligence Policy.
+- The Proprietor receives termly assurance that filtering and monitoring standards are being met, in addition to the annual effectiveness review.
 
 ## 8. Training and awareness
 
@@ -260,9 +265,9 @@ This policy should be read alongside:
 
 | Field | Value |
 |---|---|
-| Version | v04.26 |
-| Approved | April 2026 |
-| Next Review | April 2027 |
+| Version | v08.26 |
+| Approved | August 2026 |
+| Next Review | August 2027 |
 | Owner | Director, Nudge Education Online & Head of School |
 | Policy Owner | Designated Safeguarding Lead (DSL), countersigned by Director, NEO & Head of School |
 | Approver | Proprietor |

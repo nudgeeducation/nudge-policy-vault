@@ -47,7 +47,7 @@ Education Act 2002
 Education and Inspections Act 2006
 Equality Act 2010
 SEND Code of Practice 2015
-Keeping Children Safe in Education 2025 (KCSIE)
+Keeping Children Safe in Education 2026 (KCSIE)
 Behaviour in Schools (DfE, 2024) — used as a reference framework where applicable to alternative provision
 Suspension and Permanent Exclusion from Maintained Schools, Academies and Pupil Referral Units (DfE, 2023) — used as reference framework
 Online Safety Act 2023
@@ -193,7 +193,7 @@ This policy is reviewed annually by the Proprietor, the Director / Head of Schoo
 
 ## Addendum: Restrictive Interventions and Exclusions
 ### A1. Restrictive Physical Interventions
-NEO operates as a fully online alternative provision. Restrictive physical interventions are not used. Where NEO hosts in-person enrichment events, any handling, de-escalation, or safeguarding response follows the event-specific risk assessment and KCSIE 2025 obligations.
+NEO operates as a fully online alternative provision. Restrictive physical interventions are not used. Where NEO hosts in-person enrichment events, any handling, de-escalation, or safeguarding response follows the event-specific risk assessment and KCSIE 2026 obligations.
 ### A2. Sanctions
 NEO emphasises restorative and relational responses. Where sanctions are necessary, they may include reflective conversations, restorative meetings, or structured support agreements. Sanctions are never humiliating, discriminatory, or applied without consideration of SEND, trauma history, or individual circumstances.
 ### A3. Temporary Removal and Exclusions
@@ -203,7 +203,7 @@ All temporary removals are logged, reviewed by the DSL, and communicated to pare
 Where a placement is no longer safe or sustainable, exit is managed through a multi-agency review with clear transition planning, not via summary exclusion.
 ### A4. Monitoring
 Termly DSL-led review of behaviour logs and any sanctions or temporary removals applied.
-Annual report to the Proprietor to ensure proportionality, equity, and alignment with KCSIE 2025 and OEAS accreditation criteria.
+Annual report to the Proprietor to ensure proportionality, equity, and alignment with KCSIE 2026 and OEAS accreditation criteria.
 ### Related Policies
 This policy should be read alongside:
 NEO Child Protection and Safeguarding Policy

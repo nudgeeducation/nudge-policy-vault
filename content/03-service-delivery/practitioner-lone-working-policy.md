@@ -73,7 +73,7 @@ Nudge Education's approach to lone working is shaped by:
 - Health and Safety at Work Act 1974
 - Management of Health and Safety at Work Regulations 1999
 - HSE Lone Working Guidance
-- Keeping Children Safe in Education (2025)
+- Keeping Children Safe in Education (2026)
 - CPI Safety Intervention principles
 We have a duty of care to ensure, as far as is reasonably practicable, the
 safety of practitioners and young people during all lone-working activities.
@@ -496,7 +496,7 @@ Display Screen Equipment Regulations 1992 (as amended 2002).
 Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (RIDDOR).
 Working Time Regulations 1998.
 Equality Act 2010 — reasonable adjustments.
-Keeping Children Safe in Education 2025 (KCSIE) — safeguarding applies whether staff are on-site or remote.
+Keeping Children Safe in Education 2026 (KCSIE) — safeguarding applies whether staff are on-site or remote.
 HSE guidance on lone working and protecting lone workers.
 UK GDPR and the Data Protection Act 2018 — securing personal data in a home setting.
 OEAS accreditation criteria.
@@ -609,7 +609,7 @@ Mental health first aid awareness.
 Recognising and responding to lone worker risks (both their own and those of colleagues).
 Pause-and-leave protocol.
 Cyber security and data protection in the home environment.
-Safeguarding disclosures during live sessions (integrated with KCSIE 2025 training).
+Safeguarding disclosures during live sessions (integrated with KCSIE 2026 training).
 Specialist training (for example, paediatric first aid for staff supporting in-person enrichment) is provided where required.
 ## 15. Monitoring and Review
 This Guidance is reviewed annually by the Director / Head of School, with input from the DSL and staff.

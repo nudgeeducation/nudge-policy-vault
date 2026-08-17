@@ -29,8 +29,8 @@ the child is always the paramount consideration.
 This policy sets out how Nudge Education manages allegations and
 concerns about adults working with children. It reflects statutory
 requirements and best practice as outlined in Keeping Children Safe in
-Education (KCSIE) and Working Together to Safeguard Children, as well
-as local safeguarding partnership procedures.
+Education 2026 (KCSIE) and Working Together to Safeguard Children, as
+well as local safeguarding partnership procedures.
 
 This policy must be read alongside, and is underpinned by, the following
 organisational policies:
@@ -180,7 +180,7 @@ and recorded accordingly.
 Provision
 Where an allegation meets the statutory threshold and is referred to the
 LADO, the commissioner of the placement will be informed, in line with
-KCSIE 2025 expectations, unless advised otherwise by the LADO or police.
+KCSIE 2026 expectations, unless advised otherwise by the LADO or police.
 
 Nudge Education will:
 
@@ -230,7 +230,7 @@ Clear and comprehensive records will be maintained for all allegations and
 low-level concerns, including decisions made, actions taken, advice
 received, and outcomes.
 
-Records will be stored securely and retained in line with KCSIE guidance
+Records will be stored securely and retained in line with KCSIE 2026 guidance
 and data protection requirements.
 
 ## 12. Learning, Review, and Oversight
@@ -369,7 +369,7 @@ This policy applies to all learners, staff, practitioners, contractors, voluntee
 NEO is not a DfE-registered independent school and is not subject to Independent Schools Inspectorate (ISI) inspection. NEO is pursuing OEAS accreditation only.
 ## 1. Statement of Intent
 Nudge Education Online (NEO) is committed to safeguarding and promoting the welfare of children, and to creating a culture in which concerns about adult behaviour can be raised promptly and handled fairly. This Procedure sets out how NEO manages allegations, concerns, and low-level concerns about staff, practitioners, contractors, volunteers, and anyone else working in or on behalf of NEO.
-The Procedure applies the statutory framework in Part Four of Keeping Children Safe in Education 2025 (KCSIE) and is designed to ensure that:
+The Procedure applies the statutory framework in Part Four of Keeping Children Safe in Education 2026 (KCSIE), which covers safeguarding concerns or allegations made about staff, including supply teachers, trainee teachers, volunteers and contractors, and is designed to ensure that:
 Allegations are taken seriously, handled sensitively, and resolved as quickly as possible consistent with a fair process.
 The welfare and safety of the child is the paramount consideration throughout.
 The rights and wellbeing of the person subject to the allegation are protected, including the presumption of innocence and proportionate support.
@@ -384,7 +384,7 @@ All volunteers, including guest speakers.
 Agency-supplied staff.
 Any allegation that arises in relation to any of the above, including allegations about conduct that took place outside NEO activity but which raises questions about suitability to work with children.
 ## 3. Legal and Regulatory Framework
-Keeping Children Safe in Education 2025 (KCSIE) — Part Four is the authoritative framework.
+Keeping Children Safe in Education 2026 (KCSIE) — Part Four is the authoritative framework.
 Working Together to Safeguard Children 2023 (updated May 2025).
 Children Act 1989 and Children Act 2004.
 Safeguarding Vulnerable Groups Act 2006.
@@ -418,7 +418,7 @@ Unfounded — No evidence or proper basis that supports the allegation.
 | LADO | Consulted within one working day of an allegation meeting the threshold; provides advice, coordinates multi-agency response where needed. |
 
 ## 6. Managing Low-Level Concerns
-NEO applies the KCSIE 2025 expectation that low-level concerns are recorded, addressed, and used to spot patterns. A low-level concern is one that is inconsistent with the Staff Code of Conduct but does not reach the allegation threshold.
+NEO applies the KCSIE 2026 expectation (Part Four, Section two) that low-level concerns are recorded, addressed, and used to spot patterns. A low-level concern is one that is inconsistent with the Staff Code of Conduct but does not reach the allegation threshold.
 ### 6.1 Culture
 NEO encourages an open, honest, and supportive culture where low-level concerns can be raised without hesitation.
 Low-level concerns may be raised by any member of staff, learner, parent or carer, commissioner, or external party.
@@ -456,7 +456,7 @@ The investigator gathers factual evidence, reviews relevant records (including s
 The person subject to the allegation is entitled to union, legal, or other representation at interviews.
 Investigation outcomes are documented in a written report, with a clear finding against each element of the allegation.
 Where there is a parallel police or social care investigation, NEO will not act in ways that prejudice it; internal steps are coordinated with the LADO.
-KCSIE 2025 timescales are observed wherever practicable: 80% of cases resolved within one month; over 90% within three months; no case normally longer than 12 months.
+KCSIE 2026 timescale expectations are observed: cases are dealt with as quickly as possible in a thorough and fair process; wherever possible, the first review takes place no later than four weeks after the initial assessment, with further reviews at fortnightly or monthly intervals until the case is resolved. (KCSIE 2026 removed the indicative resolution percentages that appeared in earlier editions.)
 ## 11. Outcomes and Follow-Up
 Each element of the allegation is recorded against one of the following outcome categories:
 
@@ -503,9 +503,9 @@ Referrals are made promptly, with the Case Manager responsible for ensuring the 
 Where the person subject to the allegation resigns during the process, NEO completes the investigation as if they had not resigned and makes any necessary referrals.
 ## 15. Records and Retention
 A full record of every allegation, investigation, outcome, and follow-up is retained on the personnel file.
-Records are retained until the person reaches normal retirement age, or for 10 years, whichever is longer, in line with KCSIE 2025 Part Four.
+Records are retained at least until the person reaches normal pension age, or for 10 years from the date of the allegation, whichever is longer, in line with KCSIE 2026 Part Four. Details of allegations found to be malicious or false are removed from personnel records unless the individual consents to their retention.
 Records are held securely in line with UK GDPR, the Data Protection Act 2018, and the NEO Data Protection, Confidentiality and Privacy Policy.
-References given after an allegation has been concluded include accurate and proportionate information consistent with KCSIE 2025.
+References given after an allegation has been concluded include accurate and proportionate information consistent with KCSIE 2026.
 ## 16. Learning from Allegations
 Every allegation is an opportunity to strengthen NEO's safer culture. The Case Manager and DSL prepare a lessons-learned note at the close of each case, identifying:
 Any systemic issues in recruitment, induction, training, supervision, or oversight that may have contributed.

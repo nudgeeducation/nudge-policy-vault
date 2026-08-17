@@ -241,7 +241,7 @@ NEO is not a DfE-registered independent school and is not subject to Independent
 ## 1. Statement of Intent
 Nudge Education Online (NEO) is committed to safeguarding and promoting the welfare of all learners. Safer recruitment practice is one of the most important safeguards NEO can put in place: it reduces the likelihood of unsuitable people being appointed to roles that bring them into contact with children and young people, and it establishes a culture of vigilance from the first point of contact with a candidate.
 This policy sets out how NEO plans, advertises, shortlists, interviews, and pre-appoints staff, practitioners, contractors, and volunteers. It applies whether appointments are on-site, remote, permanent, fixed-term, casual, freelance, or voluntary. It applies equally to qualified subject-specialist teachers, named practitioners, administrative staff, technical contractors, and any external provider delivering content or services to learners.
-NEO is pursuing OEAS accreditation only. NEO is not a DfE-registered independent school and is not subject to ISI inspection. However, NEO applies the safer recruitment principles set out in Part Three of Keeping Children Safe in Education 2025 (KCSIE) as its baseline standard.
+NEO is pursuing OEAS accreditation only. NEO is not a DfE-registered independent school and is not subject to ISI inspection. However, NEO applies the safer recruitment principles set out in Part Three of Keeping Children Safe in Education 2026 (KCSIE) as its baseline standard.
 ## 2. Scope
 This policy applies to all recruitment and deployment activity undertaken by Nudge Education Ltd in connection with NEO, including:
 Qualified subject-specialist teachers delivering live lessons.
@@ -252,7 +252,7 @@ Contractors and external providers whose work involves direct or indirect contac
 Volunteers, including enrichment speakers, mentors, and governance-adjacent roles.
 Agency-supplied workers, including supply teachers and temporary administrative staff.
 ## 3. Legal and Regulatory Framework
-Keeping Children Safe in Education 2025 (KCSIE) — Part Three is the authoritative framework for safer recruitment
+Keeping Children Safe in Education 2026 (KCSIE) — Part Three is the authoritative framework for safer recruitment
 Safeguarding Vulnerable Groups Act 2006
 Children Act 1989 and Children Act 2004
 Education Act 2002 (Section 175, applied as reference where relevant)

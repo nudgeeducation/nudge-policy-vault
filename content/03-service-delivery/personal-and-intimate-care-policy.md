@@ -65,7 +65,7 @@ This policy is informed by:
 
 - Working Together to Safeguard Children 2023
 
-- Keeping Children Safe in Education (KCSIE, 2025)
+- Keeping Children Safe in Education (KCSIE, 2026)
 
 - Equality Act 2010
 
@@ -215,7 +215,7 @@ Staff Training and Competence
 All staff delivering personal or intimate care must be trained in:
 
 - Safeguarding & Child Protection (including up to date Keeping Children Safe in
-Education)
+Education — currently the 2026 edition)
 
 - Intimate Care for Children and Young People with Complex Needs
 

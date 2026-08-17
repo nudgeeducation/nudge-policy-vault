@@ -33,7 +33,7 @@ Nudge Education Online (NEO) works with young people who have experienced educat
 This policy is NEO's implementation of the Nudge Education Diamond Standard for ethical, safe, and rights-led AI use. It applies the Diamond Standard to NEO's specific context as a fully online alternative provision operated by Nudge Education Ltd. It sits alongside NEO's Ten Design Principles for infrastructure, and in particular the three agentic-AI pillars: agentic integrity, consent at every threshold, and collaborative human–machine care.
 NEO uses this policy to:
 Protect children's rights — treating children's dignity and developmental freedom as infrastructure, not aspiration.
-Meet and exceed legal duties — complying with UK GDPR, KCSIE 2025, the ICO Children's Code, the Online Safety Act 2023, and voluntarily applying EU AI Act standards where they better protect children.
+Meet and exceed legal duties — complying with UK GDPR, KCSIE 2026, the ICO Children's Code, the Online Safety Act 2023, and voluntarily applying EU AI Act standards where they better protect children.
 Prevent harm — recognising that AI can cause harm even when "working as designed".
 Enable human connection — ensuring technology supports the relationship between learner, named practitioner, and qualified subject-specialist teacher, and never replaces it.
 Set a sector-leading standard — the Diamond Standard, applied with full operational rigour in NEO.
@@ -56,7 +56,7 @@ Equality Act 2010 — protection from discrimination, including algorithmic disc
 Online Safety Act 2023 — obligations on user-to-user and search services, content risk assessment.
 Human Rights Act 1998.
 ### 3.2 Statutory Guidance
-Keeping Children Safe in Education 2025 (KCSIE), including paragraphs 135 (misinformation as content risk), 143 (generative AI and DfE Product Safety Expectations), and 144 (Cyber Security Standards for Schools).
+Keeping Children Safe in Education 2026 (KCSIE), including paragraph 163 (misinformation and disinformation as content risk), paragraphs 165 and 175 (generative AI and the DfE Generative AI Product Safety Expectations, including how filtering and monitoring requirements apply to generative AI), and paragraphs 176–177 (Cyber Security Standards for Schools and Colleges).
 Working Together to Safeguard Children 2023 (updated May 2025).
 DfE Product Safety Expectations for generative AI in education (January 2025).
 ### 3.3 ICO Children's Code (Age Appropriate Design Code)

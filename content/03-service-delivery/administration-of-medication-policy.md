@@ -78,7 +78,7 @@ young people, staff safety and supports Nudge Education in meeting legislative
 requirements under Section 100 of the Children and Families Act 2014, the Medicines
 Act 1968, the Misuse of Drugs Act 1971, Mental Capacity Act 2005 & Gillick Competence,
 Hazardous Waste Regulations 2005, DfE / BMA guidance on OTC medicines, Keeping
-Children Safe in Education (KCSIE 2025), and workplace health & safety laws.
+Children Safe in Education (KCSIE 2026), and workplace health & safety laws.
 Young people will be treated as individuals with due consideration given to their age,
 beliefs, opinions, experience, ability, cultural needs, and any other factors important to
 them which preserves their dignity and privacy.

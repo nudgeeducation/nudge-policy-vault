@@ -150,7 +150,7 @@ Equality Act 2010 and the Public Sector Equality Duty (applied as good practice)
 Human Rights Act 1998
 Children Act 1989 and Children Act 2004
 Education Act 2002 (Section 175 — used as reference)
-Keeping Children Safe in Education 2025 (KCSIE)
+Keeping Children Safe in Education 2026 (KCSIE)
 Special Educational Needs and Disability Code of Practice 2015
 The UN Convention on the Rights of the Child
 Online Safety Act 2023

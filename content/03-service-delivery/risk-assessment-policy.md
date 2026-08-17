@@ -38,7 +38,7 @@ and safety legislation, and professional judgement.
 ## 2. Statutory and Legal Framework
 This policy is informed by, and must be read in line with:
 
-- Keeping Children Safe in Education (KCSIE), which emphasises
+- Keeping Children Safe in Education 2026 (KCSIE), which emphasises
 safeguarding as everyone's responsibility and the importance of early
 identification and management of risk
 

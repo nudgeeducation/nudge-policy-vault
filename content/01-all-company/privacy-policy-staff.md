@@ -22,7 +22,7 @@ Questions or concerns: contact the Data Protection Lead at privacy@nudgeeducatio
 
 ## 2. What we collect
 
-**Recruitment and vetting.** Application and interview records; references; identity, right-to-work and qualification evidence; DBS certificate information (including children's barred list checks); checks against teacher prohibition, section 128 and misconduct records via the DfE's Check a Teacher's Record service; overseas checks where you have lived abroad; and, in line with Keeping Children Safe in Education, the results of online searches carried out as part of shortlisting. Vetting outcomes are recorded on our Single Central Record.
+**Recruitment and vetting.** Application and interview records; references; identity, right-to-work and qualification evidence; DBS certificate information (including children's barred list checks); checks against teacher prohibition, section 128 and misconduct records via the DfE's Check a Teacher's Record service; overseas checks where you have lived abroad; and, in line with Keeping Children Safe in Education (as amended from time to time; currently the 2026 edition), the results of online searches carried out as part of shortlisting. Vetting outcomes are recorded on our Single Central Record.
 
 **Employment administration.** Contact details, emergency contacts, contract terms, payroll and bank details, tax and National Insurance information, pension enrolment, expenses, working patterns, leave.
 

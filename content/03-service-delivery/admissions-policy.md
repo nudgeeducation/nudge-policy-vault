@@ -297,7 +297,7 @@ Education Act 1996
 Children and Families Act 2014
 Equality Act 2010
 SEND Code of Practice 2015
-Keeping Children Safe in Education 2025 (KCSIE)
+Keeping Children Safe in Education 2026 (KCSIE)
 UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018
 Information Commissioner's Office (ICO) Children's Code (Age Appropriate Design Code)
 Online Safety Act 2023
