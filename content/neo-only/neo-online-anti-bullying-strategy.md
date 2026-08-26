@@ -7,7 +7,7 @@ type: standalone-neo
 status: live
 version: v07.26
 review_date: 2027-07
-owner_role: Designated Safeguarding Lead (held by Director NEO & Head of School pending DSL appointment)
+owner_role: Designated Safeguarding Lead
 neo_addendum: false
 last_reviewed: 2026-07
 source_file: NEO Policies/NEO - Online Anti-Bullying Strategy v07.26.md
@@ -57,6 +57,8 @@ Learners can report bullying, about themselves or someone else, through any of t
 - emailing the safeguarding inbox (safeguarding@nudgeeducation.online), which is read only by the DSL and Deputy DSLs;
 - asking a parent or carer to contact NEO on their behalf (parents can use their usual NEO contacts or the safeguarding inbox).
 
+Alongside these reporting routes, alerts from NEO's filtering and monitoring system (**Smoothwall**) can surface bullying between learners; these are escalated to the DSL in the same way as a direct report.
+
 Every report is treated seriously. No learner will ever be treated less favourably for reporting, and reports about behaviour outside NEO's platforms are in scope where a NEO learner is affected.
 
 ## 5. Responding
@@ -96,7 +98,7 @@ This strategy should be read alongside:
 |---|---|
 | Approved | 16 July 2026 — Director, NEO & Head of School |
 | Next Review | July 2027, or sooner if statutory guidance changes |
-| Owner | Designated Safeguarding Lead (held by the Director, NEO & Head of School pending DSL appointment, September 2026) |
+| Owner | Designated Safeguarding Lead (in post from 26 August 2026) |
 | Approver | Proprietor |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 

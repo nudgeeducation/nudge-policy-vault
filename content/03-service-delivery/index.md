@@ -13,7 +13,7 @@ Policies governing how Nudge Education delivers provision to learners — face-t
 - [[administration-of-medication-policy|Administration of Medication Policy]] · NEO addendum (NEO does not administer)
 - [[admissions-policy|Admissions Policy]] · NEO addendum included
 - [[attendance-policy|Attendance Policy & Procedures]] · NEO addendum included
-- [[child-protection-and-safeguarding-policy|Child Protection and Safeguarding Policy]] · NEO addendum **DRAFT pending DSL sign-off**
+- [[child-protection-and-safeguarding-policy|Child Protection and Safeguarding Policy]] · NEO addendum v07.26 — DSL countersignature in progress
 - [[risk-assessment-policy|Risk Assessment Policy]] · NEO addendum included
 - [[personal-and-intimate-care-policy|Personal & Intimate Care Policy]] · *inactive for NEO*
 - [[physical-intervention-policy|Physical Intervention Policy]] · *inactive for NEO*

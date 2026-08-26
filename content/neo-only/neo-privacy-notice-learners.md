@@ -89,7 +89,7 @@ NEO is built with a strict AI policy. Here is what that means for you:
 
 ## Keeping you safe online
 
-To help keep you safe while you learn online, your NEO account may have safety filtering and monitoring — tools that flag signs that someone might be at risk of harm. A person reviews anything that's flagged; the tools don't act on their own.
+To help keep you safe while you learn online, your NEO account (and any NEO-provided device) has safety filtering and monitoring, provided by a tool called **Smoothwall**. It flags signs that someone might be at risk of harm — like searches or messages that suggest someone is being hurt or bullied. A person always reviews anything that's flagged; the tools don't act on their own, and anything serious goes to our Designated Safeguarding Lead.
 
 ## Who we share information with
 
@@ -98,7 +98,7 @@ We share only what's necessary, with:
 - whoever referred you (your local authority or school), to report how you're getting on;
 - NEO staff and any specialists involved in your support;
 - authorities such as the local authority, police or NHS, if we must by law or to keep someone safe;
-- trusted technology providers who help us run our secure systems (such as Google), who must keep your information safe and only do what we instruct.
+- trusted technology providers who help us run our secure systems (such as Google, and Smoothwall, our online-safety filtering and monitoring provider), who must keep your information safe and only do what we instruct.
 
 ## How long we keep your information
 

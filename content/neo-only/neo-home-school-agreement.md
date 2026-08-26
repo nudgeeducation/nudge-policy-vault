@@ -38,7 +38,7 @@ NEO will:
 Welcome your child as they are, and take time to understand what helps them feel safe, connected, and ready to learn.
 Deliver live lessons through qualified subject-specialist teachers, and provide a named practitioner who will be your child's mentor and your main point of contact.
 Plan learning around your child's strengths, needs, and aspirations, and review their individualised plan at least termly.
-Keep your child safe online by using only approved, monitored platforms (Google Classroom, Google Meet, and Google Workspace) and by applying robust filtering, monitoring, and safeguarding practices.
+Keep your child safe online by using only approved, monitored platforms (Google Classroom, Google Meet, and Google Workspace) and by applying robust filtering, monitoring, and safeguarding practices, including Smoothwall filtering and monitoring on NEO accounts and NEO-provided devices.
 Handle personal data responsibly, in line with UK GDPR, the Data Protection Act 2018, and the ICO Children's Code.
 Respond to concerns, complaints, and questions clearly and within the timeframes set out in the NEO Complaints Procedure.
 Communicate regularly about your child's progress, wellbeing, and engagement — including written reports and scheduled review meetings.

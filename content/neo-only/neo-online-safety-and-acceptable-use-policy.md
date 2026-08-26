@@ -144,7 +144,7 @@ NEO undertakes proportionate due diligence to ensure all platforms are safe and 
 
 ## 7. Filtering and monitoring standards (KCSIE 2026)
 
-This section applies the filtering and monitoring expectations of **Keeping Children Safe in Education 2026** (in force 1 September 2026) and the DfE filtering and monitoring standards for schools and colleges, adapted for a fully online alternative provision in which learners access education on NEO-managed accounts and enrolled devices rather than on a school premises network.
+This section applies the filtering and monitoring expectations of **Keeping Children Safe in Education 2026** (in force 1 September 2026) and the DfE filtering and monitoring standards for schools and colleges, adapted for a fully online alternative provision in which learners access education on NEO-managed accounts and enrolled devices rather than on a school premises network. NEO's filtering and monitoring are provided through **Smoothwall**, deployed across NEO-managed accounts and enrolled devices.
 
 In line with KCSIE 2026:
 
@@ -153,6 +153,9 @@ In line with KCSIE 2026:
 - The review includes **checks that filtering is working appropriately on all relevant learner accounts and enrolled devices**, and a record is kept of these checks.
 - Filtering is appropriate to the age range of learners (11–18), blocks harmful and inappropriate content without unreasonably impacting teaching and learning, and over-blocking is reviewed so it does not impede legitimate learning.
 - Monitoring systems are proportionate and compliant with UK GDPR and the ICO Children's Code.
+- **Alert triage.** Smoothwall alerts are triaged first by a designated first-line technical triage lead. Any alert with safeguarding significance is escalated immediately to the DSL, who makes all safeguarding judgements and is the public-facing contact for online safety concerns.
+- **Device packages.** Learners on NEO's standard package use managed devices with full Smoothwall filtering and monitoring. For learners on flexible bring-your-own-device packages, filtering and monitoring apply at the level of the NEO-managed account; the differences in coverage on personally owned devices are risk-assessed for each learner on admission and recorded, with additional safeguards agreed with families where needed.
+- Smoothwall's monitoring processing is covered by a data processing agreement and a Data Protection Impact Assessment (see the Data Protection and Information Security Policy).
 - All staff understand what is filtered and monitored, their role in reporting concerns, and how to escalate concerns about the effectiveness of these systems to the DSL.
 - **Generative AI is within scope**: filtering and monitoring arrangements cover learner access to generative AI tools on NEO-managed accounts and devices, in line with KCSIE 2026 and the NEO Artificial Intelligence Policy.
 - The Proprietor receives termly assurance that filtering and monitoring standards are being met, in addition to the annual effectiveness review.

@@ -1470,17 +1470,17 @@ Nudge Education Child Protection and Safeguarding Policy Dec 25
 
 ## NEO Online Addendum
 
-_This addendum applies the canonical Nudge Education policy above to the online provision context of Nudge Education Online (NEO). Updated to Keeping Children Safe in Education 2026 and approved by the Director, NEO & Head of School on 16 July 2026; to be reviewed and countersigned by the Designated Safeguarding Lead on appointment (September 2026)._
+_This addendum applies the canonical Nudge Education policy above to the online provision context of Nudge Education Online (NEO). Updated to Keeping Children Safe in Education 2026 and approved by the Director, NEO & Head of School on 16 July 2026; to be reviewed and countersigned by the Designated Safeguarding Lead (appointed 26 August 2026; review in progress)._
 
 NEO BY NUDGE EDUCATION
 
 Child Protection and Safeguarding Policy
 Nudge Education Online
 
-| Policy Owner | Designated Safeguarding Lead (DSL) — held by the Director, NEO & Head of School pending DSL appointment (September 2026) |
+| Policy Owner | Designated Safeguarding Lead (DSL) — in post from 26 August 2026; countersignature in progress |
 |---|---|
 | Approved | 16 July 2026 — Director, NEO & Head of School |
-| Review Date | On DSL appointment (September 2026), then July 2027 |
+| Review Date | DSL review September 2026 (in progress), then July 2027 |
 | Version | 07.26 |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 | Proprietor | Proprietor, Nudge Education Ltd |
@@ -1567,7 +1567,7 @@ Staff are trained to consider each learner's broader digital context, recognisin
 Trauma, loneliness, and digital disinhibition can heighten risk and require sensitive, relational safeguarding responses.
 Contextual safeguarding underpins NEO's proactive approach: professional curiosity, thorough documentation, and consistency of response across the entire digital ecosystem.
 ## 7. Digital Safety and RSHE
-Filtering and monitoring systems meet DfE digital and technology standards for schools and are reviewed termly against OEAS criteria. In line with KCSIE 2026, a review of their effectiveness is carried out at least once every academic year, led by the senior leader responsible for filtering and monitoring with the support of the DSL and IT support; the review includes checks that filtering is working appropriately on all relevant learner accounts and devices, and a record is kept of these checks.
+NEO's filtering and monitoring are provided through **Smoothwall** and meet DfE digital and technology standards for schools and are reviewed termly against OEAS criteria. In line with KCSIE 2026, a review of their effectiveness is carried out at least once every academic year, led by the senior leader responsible for filtering and monitoring with the support of the DSL and IT support; the review includes checks that filtering is working appropriately on all relevant learner accounts and devices, and a record is kept of these checks.
 The DSL maintains oversight of technical safeguarding measures, working with IT support and the Director / Head of School to ensure compliance with current government guidance on AI and digital safeguarding, including the DfE's Generative AI in Education guidance and Generative AI: Product Safety Expectations.
 The NEO curriculum includes explicit RSHE content on online safety, addressing the four areas of online risk: content, contact, conduct, and commerce. Learners are supported to navigate misinformation, AI-generated content risks, sextortion, and digital misogyny.
 Age-appropriate education on consent, healthy relationships, and respectful online behaviour is embedded across the curriculum.

@@ -929,6 +929,7 @@ NEO processes personal data across the following approved platforms:
 | Google Meet | Live lessons, tutorials, pastoral meetings. | Host controls; waiting rooms; recording controls; encrypted in transit. |
 | Google Workspace (Gmail, Drive, Docs, Sheets, Forms) | Communication, document collaboration, safeguarding records, registers. | Encrypted at rest and in transit; managed accounts; access controls; audit logs; DLP. |
 | Secure cloud storage | Safeguarding records, EHCP evidence, sensitive files. | Encrypted; access restricted to DSL, DPO, and authorised staff. |
+| Smoothwall | Filtering and monitoring of NEO-managed accounts and enrolled devices for safeguarding (KCSIE 2026). | Data processing agreement in place; alert access restricted to the DSL and designated triage staff; DPIA completed before go-live. |
 
 All platforms undergo due diligence review before adoption, including confirmation of data processing agreements, encryption standards, and UK GDPR compliance. Data Protection Impact Assessments (DPIAs) are completed for new or significantly changed platforms.
 ## 9. Business Continuity and Platform Resilience
