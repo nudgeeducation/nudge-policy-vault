@@ -8,6 +8,11 @@ status: live
 ---
 A running log of structural changes, policy additions, and version uplifts.
 
+## 2026-09-23 — NEO Home-School Agreement v09.26
+
+- **NEO Home-School Agreement** uplifted from v04.26 to **v09.26** (Proprietor-approved, September 2026) and aligned with the NEO Terms and Conditions for Parents and Carers and the Billing and Payment Rules v0.3: which Terms form the contract (Parents & Carers vs Commissioned), and that the Terms prevail on fees, payment, notice and ending a placement; notice one calendar month from receipt, email is enough; monthly-in-advance direct debit and VAT; home-environment duties (responsible adult, safe space, smoke alarm); NEO device return within 14 days; missed lessons not rescheduled; lesson-recording commitment; complaints timeframes; children-missing-education notification; under-13 consent
+- Signing moved from wet-signature blocks to the electronic NEO Parent and Carer Agreement (parents) and induction (learners); terminology updated to Practitioner-Mentor; related-documents list re-pointed at published pages (the unpublished Digital Consent and AI Safety Parent Guide reference removed)
+
 ## 2026-08-17 — KCSIE 2026 citation sweep (site-wide)
 
 - All remaining KCSIE 2025 citations updated to **KCSIE 2026** across the vault, verified against the published KCSIE 2026 PDF: 23 mechanical year swaps across twelve policies (Recruitment ×2 residual, SEND, Admissions, Practitioner Code of Conduct, Practitioner Lone Working, Administration of Medication, Personal & Intimate Care, Trauma-Informed Practice, NEO Behaviour and Regulation, Health & Safety, Data Protection, EDI)
