@@ -5,1468 +5,883 @@ groups: [all-staff, dsl-safeguarding, slt-directors, commissioners, parents-care
 provision: all
 type: core
 status: live
-version: Dec 2025 (NEO addendum v07.26)
-owner_role: DSL
+version: Sept 2026 (NEO addendum v07.26)
+owner_role: National DSL
 neo_addendum: true
-source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Nudge Education Child Protection and Safeguarding Policy December 25 (3).pdf
+source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Sept 2026 Nudge Education Safeguarding Policy (Including Child Protection) .pdf
+related_policies: [neo-online-safety-and-acceptable-use-policy, neo-artificial-intelligence-policy, complaints-policy, neo-appeals-and-complaints-policy, neo-home-school-agreement]
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** Dec 2025, KCSIE 2026 uplift August 2026 (NEO addendum v07.26) · **Owner:** DSL
+> **Operated by:** Nudge Education Ltd · **Version:** Sept 2026, review Sept 2027 (NEO addendum v07.26) · **Owner:** National Designated Safeguarding Lead
 
-Child Protection & Safeguarding Policy
-DEC 2025
-Review Date: DEC 2026
+Safeguarding Policy (Including Child Protection Procedures) — September 2026. Review date: September 2027.
+
+**Safeguarding contacts:** National Designated Safeguarding Lead and Regional Designated Safeguarding Leads — contact details are in the published PDF and on the staff intranet.
+
+## 1. Purpose and scope
+
+Nudge Education exists to eradicate chronic disengagement from education. We are commissioned to work with young people who may have experienced significant disruption, exclusion, trauma, unmet need or vulnerability. Safeguarding is therefore integral to every part of our work, not a separate activity.
+
+This policy sets out Nudge Education’s approach to safeguarding children and young people and the child protection procedures to be followed when there is concern that an individual child may be suffering, or is likely to suffer, significant harm.
+
+This is one overarching Safeguarding Policy. The sections that follow describe Nudge Education’s safeguarding arrangements and its response to specific safeguarding risks; they are not separate standalone policies. Child protection forms part of this policy and refers specifically to the action taken where there is concern that a young person is suffering, or is likely to suffer, significant harm.
+
+This policy applies to all Nudge Education staff and practitioners. It applies to face-to-face and online delivery, travel and community activity, communication with young people and families, and any other context in which Nudge Education carries out its work.
+
+For the purposes of this policy, a child or young person is anyone under the age of 18. Where Nudge Education supports a person aged 18 or over, the adult safeguarding arrangements in section 27 also apply.
+
+Nudge Education is a national non-school alternative provision and intervention provider. Commissioning schools, local authorities and other bodies retain their own statutory responsibilities for the children they place with us. Nudge Education’s responsibility is to maintain safe provision, identify and act on concerns, share relevant information and work actively with commissioners and statutory agencies. Where commissioner or local safeguarding partnership procedures set additional requirements, these will be followed alongside this policy.
+
+## 2. Statutory and practice framework
+
+This policy has been developed with regard to the following legislation, statutory guidance and national standards, as applicable to Nudge Education’s role:
+
+- Children Act 1989 and Children Act 2004
+
+- Children’s Wellbeing and Schools Act 2026, including the new safeguarding information-sharing provisions as they commence
+
+- Working Together to Safeguard Children 2026
+
+- Keeping Children Safe in Education 2026 (KCSIE), used by Nudge Education as the core education safeguarding benchmark while recognising that its statutory status is directed principally at schools and colleges
+
+- Education Act 2002
+
+- Equality Act 2010
+
+- Data Protection Act 2018, UK GDPR and Data (Use and Access) Act 2025
+
+- Online Safety Act 2023
+
+- Counter-Terrorism and Security Act 2015 and current Prevent/Channel guidance
+
+- Female Genital Mutilation Act 2003, as amended by the Serious Crime Act 2015
+
+- Domestic Abuse Act 2021
+
+- Human Rights Act 1998
+
+- SEND Code of Practice: 0 to 25 years
+
+- DfE Non-school Alternative Provision: Voluntary National Standards
+
+- Relevant local multi-agency safeguarding arrangements and commissioner procedures.
+
+- Care Act 2014, including the local authority duty to make safeguarding enquiries under section 42.
+
+This policy should be read alongside other relevant Nudge Education policies and procedures, including the Safer Recruitment Policy, Practitioner Code of Conduct, Data Protection and Information Security Policy, Whistleblowing Policy, relevant Health and Safety policies, Lone Working policies, Physical Intervention Policy, Managing Allegations Against Staff Policy, Digital conduct and communications policy and, where applicable, the NEO Online Safety and Acceptable Use Policy.
+
+## 3. Safeguarding and child protection: what we mean
+
+Safeguarding is the broad responsibility to promote children’s welfare, prevent harm, identify emerging need, provide or support early help, create safe environments and take action when concerns arise. It includes prevention, identification and response.
+
+Child protection is part of safeguarding. It refers to the action taken when there is concern that a particular child is suffering, or is likely to suffer, significant harm.
+
+In simple terms: safeguarding asks, “How do we keep young people safe?” Child protection asks, “A young person may not be safe. What do we do now?” All child protection is safeguarding, but not all safeguarding activity is child protection.
+
+Nudge Education adopts the definition of safeguarding and promoting the welfare of children set out in Working Together to Safeguard Children 2026.1
+
+- providing help and support to meet children’s needs as soon as problems emerge
+
+- protecting children from maltreatment, whether within or outside the home, including online
+
+- preventing impairment of children’s mental and physical health or development
+
+- ensuring children grow up in circumstances consistent with safe and effective care
+
+- taking action to enable children to have the best outcomes.
+
+## 4. Safeguarding principles
+
+Safeguarding is everyone’s responsibility.
+
+The welfare and best interests of the young person are central to decision-making.
+
+¹ Department for Education, Working Together to Safeguard Children 2026, p.9.
+
+It could happen here. Staff must not assume that abuse, exploitation or harmful behaviour is unlikely because of a young person’s presentation, family circumstances or previous history. Young people should be listened to, taken seriously and involved in decisions affecting them wherever appropriate.
+
+Young people may not recognise an experience as harmful or may not be ready or able to disclose it. Staff must maintain professional curiosity.
+
+Abuse, neglect, exploitation and other safeguarding issues frequently overlap. Safeguarding concerns may arise inside or outside the home, in education, in the community and online.
+
+Disengagement, changes in attendance, presentation or behaviour may communicate unmet need or safeguarding risk.
+
+Practice must be trauma-informed, inclusive, anti-discriminatory and culturally informed. Staff must challenge racism, discrimination and prejudice.
+
+Information should be shared when it is necessary and proportionate to safeguard a child. Data protection must not be treated as a barrier to appropriate safeguarding information sharing.
+
+Concerns should be acted upon promptly. Staff do not need proof of abuse before raising a safeguarding concern.
+
+## 5. Roles and responsibilities
+
+### 5.1 All staff and practitioners
+
+- know how to recognise and report safeguarding concerns
+
+- know the identity of the NDSL/RDSLs and how to obtain safeguarding support
+
+- follow Nudge Education reporting procedures immediately when concerned about a young person
+
+- record concerns factually and promptly
+
+- maintain professional boundaries and follow the Practitioner Code of Conduct
+
+- share relevant safeguarding information through approved systems and routes
+
+- co-operate with safeguarding enquiries and multi-agency work
+
+- challenge unsafe, discriminatory or inappropriate practice
+
+- report concerns about adults working with children, including low-level concerns.
+
+### 5.2 National Designated Safeguarding Lead
+
+- provides strategic safeguarding leadership and oversight across Nudge Education
+
+- ensures safeguarding arrangements, policies, training and reporting systems remain current
+
+- maintains oversight of safeguarding themes, patterns, quality and organisational learning
+
+- provides advice and an escalation point for complex, high-risk or unresolved safeguarding matters
+
+- maintains oversight of allegations and safeguarding concerns relating to adults working with young people, with operational management led by the RDSL where appropriate
+
+- supports and oversees the RDSLs in the delivery of their safeguarding responsibilities
+
+- ensures appropriate safeguarding leadership and capacity is maintained across Nudge Education
+
+### 5.3 Regional Designated Safeguarding Leads
+
+- provide day-to-day safeguarding advice and support across their regions
+
+- review safeguarding concerns and determine appropriate actions, referrals and escalation
+
+- lead liaison with commissioners, local authority children’s social care, police, LADO, Prevent and other safeguarding agencies as appropriate
+
+- manage safeguarding concerns and allegations relating to adults working with young people, escalating to the NDSL where required
+
+- lead and support multi-agency referrals and safeguarding escalation
+
+- support staff following disclosures, incidents or complex safeguarding situations
+
+- maintain oversight of safeguarding records, actions and outcomes
+
+- identify themes, repeat concerns and contextual risks and escalate these to the NDSL
+
+- ensure appropriate safeguarding cover is available within the RDSL arrangements, escalating to the NDSL where required
+
+### 5.4 Education Intervention Co-ordinators (EICs) and Regional Leadership
+
+EICs, Assistant Regional Leads and Regional Leads have responsibilities for supporting safe intervention delivery within their respective roles. They must ensure that safeguarding concerns are identified, recorded and escalated appropriately, support communication with commissioners where required, and ensure agreed safeguarding and risk-management actions relevant to their role are implemented.
+
+These roles support, but do not ordinarily replace, the safeguarding responsibilities of the RDSLs. Where specific safeguarding responsibilities are delegated as part of agreed holiday support or other formal cover arrangements, the individual providing cover must follow the responsibilities and escalation arrangements set out for that period. Safeguarding concerns must always be responded to and escalated without delay.
+
+### 5.5 Safeguarding cover
+
+Nudge Education will ensure that appropriate safeguarding support and escalation arrangements are maintained during periods of absence, including school holidays and other periods of planned leave.
+
+Where an RDSL is unavailable, safeguarding support will be provided in line with the agreed holiday support or other formal cover arrangements. Individuals providing cover will be clear about the safeguarding responsibilities delegated to them, the limits of their role and the appropriate escalation route.
+
+Where there is an immediate risk to a young person, staff must not delay necessary action while attempting to contact a particular individual within Nudge Education.
+
+Emergency services or the relevant statutory safeguarding service should be contacted directly where required, with the appropriate Nudge Education safeguarding contact informed as soon as possible.
+
+## 6. Staff induction, training and expected practice
+
+All staff will receive safeguarding induction appropriate to their role. Nudge Education requires all staff to read Part One of KCSIE 2026 and to understand Nudge Education's safeguarding systems and procedures.
+
+Safeguarding and child protection training will be provided at induction and regularly updated. Staff will receive information and guidance on online safeguarding appropriate to their role and responsibilities.
+
+Safeguarding updates will be provided at least annually and more frequently where legislation, guidance, emerging risk or organisational learning requires this.
+
+Staff working directly with young people will receive safeguarding training appropriate to their role and the nature of the work they undertake, with additional training provided where specific risks or responsibilities are identified.
+
+Relevant staff will receive enhanced safeguarding training commensurate with their responsibilities.
+
+DSL-level knowledge and skills will be refreshed in line with current expectations and organisational need, currently every two years at least with annual updates.
+
+Training must be translated into practice. Completion of a course does not remove the responsibility to seek advice when unsure.
+
+## 7. Recognising abuse, neglect, exploitation and other safeguarding concerns
+
+Staff must be alert to indicators of abuse, neglect, exploitation and modern slavery and understand that a child may experience several forms of harm at the same time. Harm may occur in the family, education, community or online and may be caused by adults or other children.
+
+Child-on-child abuse can take many forms and is addressed in more detail in Section 12 of this policy.
+
+Physical abuse
+
+May include hitting, shaking, throwing, poisoning, burning or scalding, drowning, suffocating or otherwise causing physical harm. It also includes circumstances where illness is fabricated or deliberately induced. Emotional abuse Persistent emotional maltreatment which causes severe and adverse effects on emotional development. This may include persistent criticism, belittling, name-calling, silencing, humiliation, serious bullying, coercion, exposure to the ill-treatment of others, overprotection or developmentally inappropriate expectations.
+
+Sexual abuse Forcing or enticing a child to take part in sexual activity, whether or not the child understands what is happening. It can involve contact or non-contact activity, grooming, sexual imagery and online abuse. Sexual abuse can be perpetrated by adults or other children. Neglect Persistent failure to meet a child’s basic physical and/or psychological needs, including adequate food, clothing, shelter, supervision, medical care, protection from harm or emotional responsiveness.
+
+Exploitation and modern slavery Includes situations in which an individual or group takes advantage of an imbalance of power to coerce, manipulate or deceive a child into activity that benefits others. This may be criminal, sexual, financial or labour exploitation and may occur online or offline.
+
+Indicators may include, but are not limited to:
+
+- unexplained injuries or changes in physical presentation
+
+- significant changes in mood, behaviour, engagement or relationships
+
+- fearfulness, withdrawal, distress or hypervigilance
+
+- changes in attendance or repeated/prolonged non-engagement
+
+- going missing from home, care, education or sessions
+
+- unexplained money, gifts, phones, clothing or possessions
+
+- association with older individuals, groups or networks
+
+- substance misuse
+
+- sexualised behaviour or language that causes concern
+
+- online threats, coercion, harmful contact or image-sharing
+
+- signs of neglect, hunger, poor hygiene or unmet medical need
+
+- expressions of self-harm, suicide or significant hopelessness
+
+- concerns about coercive or controlling relationships
+
+- carrying weapons, involvement in violence or fear of retaliation.
+
+Children may also cause harm to family members, including child-to-parent or caregiver abuse. This should be responded to through a safeguarding lens that considers risk, the needs of all involved and any underlying harm experienced by the child.
+
+## 8. Early Help, Family Help and Escalation
+
+Nudge Education seeks to identify emerging needs early and support young people and families to access appropriate help before concerns escalate. This may include universal or community-based early help, or more targeted support through Family Help.
+
+Family Help brings together targeted early help and support provided under Section 17 of the Children Act 1989. Nudge Education will work with commissioners and other agencies to contribute to assessments and plans where requested and appropriate.
+
+Staff should be particularly alert to young people who:
+
+- are disabled, have SEND or certain health conditions
+
+- have a mental health need
+
+- are young carers
+
+- are pregnant or are a parent
+
+- show early signs of abusive, violent or harmful behaviour
+
+- are being drawn into anti-social behaviour, gangs, organised crime or county lines
+
+- are frequently missing from education, home or care
+
+- have experienced repeated suspension, part-time education, exclusion or alternative provision
+
+- are at risk of exploitation, modern slavery or trafficking
+
+- are at risk of radicalisation
+
+- have a parent or carer in custody or are affected by parental offending
+
+- are living with family challenges, including substance misuse, adult mental health needs or domestic abuse
+
+- are at risk of honour- or faith-based abuse, FGM or forced marriage
+
+- are privately fostered.
+
+Where Nudge Education identifies an emerging safeguarding need, the concern should be shared with the RDSL in line with Nudge Education’s safeguarding reporting procedures. The appropriate commissioner contact should also be informed, with communication led by the EIC or RDSL as appropriate to the nature of the concern.
+
+Where a young person or family is already receiving Early Help or Family Help, Nudge Education will contribute relevant information and participate in assessments and plans where requested and appropriate. The existence of Early Help or Family Help arrangements must not delay further safeguarding escalation or referral where concerns increase.
+
+Where there is reasonable cause to suspect that a young person is suffering, or is likely to suffer, significant harm, child protection procedures apply. The RDSL will consider the need for referral to local authority children’s social care and/or the police without delay.
+
+## 9. Responding to a concern or disclosure
+
+If a young person tells a member of staff about abuse, neglect, exploitation or another safeguarding concern, the member of staff should:
+
+- Listen calmly and give the young person time to speak.
+
+- Take the young person seriously. Do not minimise, dismiss, blame or express disbelief.
+
+- Reassure them that they have done the right thing by speaking and that they will be supported.
+
+- Do not promise confidentiality. Explain that information may need to be shared with people who can help keep them safe.
+
+- Do not investigate. Use only open, necessary questions to clarify what the young person is saying.
+
+- Do not ask leading questions, repeatedly question the young person or seek to establish proof.
+
+- Make a factual record as soon as possible, using the young person’s own words where important.
+
+- Report the concern immediately through Nudge Education’s safeguarding process and seek RDSL advice.
+
+- If a child is in immediate danger or requires urgent medical attention, contact emergency services without delay.
+
+- Continue to support the young person and follow any safety plan or direction agreed with safeguarding professionals.
+
+- Where staff are concerned but there has been no disclosure, they should still report the concern. Professional curiosity and patterns of information can be as important as a direct disclosure.
+
+## 10. Recording, information sharing and confidentiality
+
+Safeguarding records must be clear, factual, timely and stored on approved Nudge Education systems. Records should distinguish between what was observed, what was reported by another person, professional opinion and historic information.
+
+Every safeguarding record should include, where relevant:
+
+- a clear summary of the concern
+
+- date, time and context
+
+- the young person’s own words where relevant
+
+- actions taken and by whom
+
+- who information was shared with
+
+- decisions made, including decisions not to refer
+
+- the rationale for those decisions
+
+- outcomes and any follow-up required
+
+Safeguarding information is confidential but not secret. Information should be shared where it is necessary, proportionate and lawful to safeguard or promote a young person’s welfare. Staff must not allow uncertainty about data protection to prevent appropriate safeguarding action and should seek advice from the RDSL where they are unsure.
+
+Parents/carers should normally be informed about safeguarding concerns and referrals unless doing so could place a young person or another person at increased risk, prejudice an investigation, or otherwise be contrary to the young person’s welfare. Advice should be sought from the RDSL or relevant statutory agency where necessary.
+
+## 11. Working with parents, carers, commissioners and other agencies
+
+Nudge Education works as part of a wider safeguarding system. No single practitioner or organisation will hold the complete picture of a child’s circumstances.
+
+Commissioner safeguarding contacts and local referral routes should be identified at the start of an intervention wherever possible.
+
+Nudge Education will comply with relevant local multi-agency safeguarding arrangements and commissioner procedures.
+
+Nudge Education may refer directly to local authority children’s social care, police, Prevent or other statutory services where required; commissioner notification must not delay action needed to protect a child.
+
+Nudge Education will contribute relevant information to assessments, strategy discussions, child protection enquiries, Family Help plans and other multi-agency processes where appropriate.
+
+Where a commissioner response does not adequately address an identified risk, the RDSL should use professional challenge and local escalation procedures.
+
+Where a young person is placed with Nudge Education by a school, local authority or other body, the commissioner retains its own safeguarding responsibilities. Nudge Education's responsibilities operate alongside, not instead of, those duties.
+
+## 12. Child-on-child abuse, harmful sexual behaviour, sexual harassment and sexual violence
+
+Child-on-child abuse is a safeguarding issue. It can occur between two children or within groups and may happen face to face, online or across both environments. Nudge Education recognises that it can occur even where most interventions are delivered one-to-one. It may include:
+
+- bullying, including cyberbullying and prejudice-based or discriminatory bullying
+
+- physical abuse
+
+- abusive, harassing, misogynistic or misandrist messages
+
+- sexual harassment and sexual violence
+
+- harmful sexual behaviour
+
+- making or sharing nudes or semi-nudes without consent
+
+- upskirting
+
+- initiation or hazing-type violence or rituals
+
+- teenage relationship abuse, coercion, control or stalking
+
+- threats or serious violence, including weapon-related harm
+
+- exploitation of one child by another
+
+Staff must never dismiss harmful behaviour as banter, part of growing up or an inevitable part of adolescence. The absence of a report does not mean harmful behaviour is not occurring.
+
+Nudge Education will consider the safety, wishes and support needs of the child harmed and the needs and risks associated with the child who has displayed harmful behaviour. A
+
+child who causes harm may also have experienced abuse, exploitation or trauma. This does not minimise the impact on the child harmed.
+
+Staff should not conduct their own investigation. Immediate safety should be secured, the concern recorded and the RDSL informed. The RDSL will determine appropriate referral, risk management, commissioner communication and support. Any restorative approach must be carefully risk assessed and should not be used where it could pressure, blame or further harm a child.
+
+## 13. Making and sharing nudes and semi-nudes, including AI-generated imagery
+
+Making or sharing nudes and semi-nudes may include photographs, videos, livestreams, or imagery that has been digitally altered or generated using artificial intelligence, including deepfakes.
+
+If an incident is reported or discovered, staff should:
+
+- not view imagery unless there is an exceptional safeguarding reason and this has been agreed through the safeguarding process
+
+- never copy, print, forward, save, download or ask a young person to send the imagery to them
+
+- not ask the young person to reproduce or display the image
+
+- not investigate the device or search for further imagery
+
+- not blame or shame any young person involved
+
+- report immediately to the RDSL and record what has been disclosed
+
+- follow safeguarding advice regarding preservation/deletion of imagery, parents/carers, police and commissioner involvement.
+
+All incidents require a safeguarding response. The response will take account of consent, coercion, age and developmental difference, vulnerability, threats, distribution, exploitation, whether AI has been used to create false sexual imagery, and any wider risk.
+
+## 14. Child criminal and sexual exploitation (CCE and CSE), serious violence, trafficking and modern slavery
+
+Children can be exploited even where activity appears consensual or where they have committed offences. Nudge Education will approach exploitation through a child-first safeguarding lens.
+
+Child criminal exploitation can include county lines, drug or money movement, theft, vehicle crime, fraud, financial exploitation and serious violence.
+
+Child sexual exploitation can occur through relationships, groups or networks and can be facilitated online.
+
+Children may be coerced into carrying weapons or may carry them because they fear harm. Staff must report concerns about a child carrying or intending to use a weapon to the DSL, who risk-assesses and safety-plans.
+
+Trafficking and modern slavery may involve movement, control, labour, criminal or sexual exploitation.
+
+Group-based exploitation may involve multiple adults and/or children and can cross local authority boundaries.
+
+Girls and boys may experience exploitation differently and indicators may vary.
+
+Concerns about exploitation or serious violence must be reported to the RDSL. Where there is immediate risk, a weapon, threat to life or suspected crime requiring urgent action, police should be contacted.
+
+If a young person is to be interviewed or searched by police and an appropriate adult is required, Nudge Education will work with the commissioner and relevant agencies to ensure suitable arrangements are in place. Nudge Education staff should not assume this role without appropriate consideration of the young person’s interests, role boundaries and relevant guidance.
+
+## 15. Domestic abuse and teenage relationship abuse
+
+Children can be victims of domestic abuse in their own right. They may see, hear or experience the effects of abuse in the home or experience abuse in their own intimate relationships.
+
+Domestic abuse can include physical or sexual abuse, violent or threatening behaviour, controlling or coercive behaviour, economic abuse and psychological or emotional abuse. Technology may be used to monitor, threaten, humiliate or control.
+
+Any information indicating domestic abuse should be considered alongside the child’s wider circumstances and shared with the RDSL. Nudge Education will work with commissioners and statutory agencies and will respond appropriately to Operation Encompass information where it is lawfully shared with Nudge Education.
+
+## 16. Honour- or faith-based abuse, FGM and forced marriage
+
+Abuse may be justified or framed by an individual or group in the name of honour, culture, faith or belief. Such explanations never reduce the safeguarding responsibility to protect a child.
+
+### 16.1 Female genital mutilation (FGM)
+
+FGM is illegal and is a form of child abuse. Staff must report any concern that a girl may be at risk of FGM, may have undergone FGM or is being taken abroad for the purpose of FGM to the RDSL immediately and make a personal report to the police themselves.
+
+A separate statutory mandatory reporting duty applies to specified regulated professionals, including teachers and regulated health and social care professionals, where in the course of their professional duties they discover that FGM appears to have been carried out on a girl under 18. Not every Nudge Education practitioner automatically falls within that statutory category. Any staff member who may personally be subject to the duty must follow the statutory reporting requirements as well as informing Nudge Education safeguarding. All other staff must immediately escalate the concern through Nudge Education’s safeguarding process.
+
+Staff must never examine a child to determine whether FGM has occurred.
+
+### 16.2 Forced marriage
+
+Forced marriage is a marriage in which one or both people do not or cannot give free and full consent. Coercion may be physical, emotional, psychological, financial or sexual. Staff must take concerns seriously and must not approach family members or attempt mediation where doing so may increase risk. Concerns should be referred immediately to the RDSL, who will seek specialist or statutory advice as appropriate.
+
+## 17. Prevent and Channel
+
+Nudge Education recognises its role in safeguarding young people from radicalisation into terrorism. Radicalisation is treated as a safeguarding concern and should be considered in the context of the young person’s wider needs and vulnerabilities.
+
+All relevant staff will receive Prevent awareness appropriate to their role.
+
+Concerns about radicalisation must be reported to the RDSL.
+
+The RDSL will consider commissioner notification, local Prevent referral routes and Channel processes.
+
+Where there is an immediate threat or risk of terrorism, emergency police procedures apply.
+
+Staff must avoid stereotyping or making assumptions based on religion, ethnicity, culture or political expression. Concerns should be based on behaviour, context and risk.
+
+## 18. Online safety, filtering, monitoring, mobile technology and AI
+
+Technology is a significant component of safeguarding. Harm may occur wholly online or technology may facilitate offline abuse. Nudge Education considers online risk through the four broad areas of content, contact, conduct and commerce.
+
+### 18.1 Safe digital practice
+
+Staff must use approved systems and devices in accordance with Nudge Education policies. Young people’s use of technology during sessions should be supervised and proportionate to age, need, context and assessed risk. Unsecured or inappropriate public networks should not be used for work with young people where this creates avoidable risk. Personal devices must not be used in ways that breach professional boundaries, confidentiality or information governance. Staff must understand the online safeguarding risks and responsibilities relevant to their role.
+
+More guidance on this is provided in our digital conduct and communications policy .
+
+### 18.2 Filtering and monitoring
+
+Where Nudge Education owns or manages devices or internet access used by young people, appropriate filtering and monitoring arrangements will be maintained. These arrangements will be reviewed at least annually and following any significant change or incident. Reviews will consider effectiveness, the age and vulnerability of young people, access routes, known risks, over-blocking and the ability to identify and escalate concerning activity.
+
+Young people enrolled with Nudge Education Online (NEO) are provided with a Nudge Education managed device. These devices are subject to Nudge Education’s filtering and monitoring arrangements.
+
+Where a young person receives online tuition from Nudge Education but is not enrolled with NEO, delivery operates on a bring-your-own-device basis. Nudge Education does not therefore manage the device or the filtering and monitoring arrangements applied to it. Practitioners must continue to follow Nudge Education’s online safeguarding expectations and report any concerns arising during online delivery in accordance with this policy.
+
+Responsibility for technical controls does not remove the need for practitioner supervision, professional curiosity and appropriate safeguarding action.
+
+For further information regarding NEO-specific safeguarding arrangements, see the NEO Online Safety and Acceptable Use Policy.
+
+### 18.3 Mobile technology
+
+Nudge Education recognises that mobile phones and other personal devices can present safeguarding, privacy and professional boundary risks during interventions.
+
+Young people must not have unsupervised access to ICT or mobile technology during Nudge Education sessions. Where technology is used as part of an intervention, practitioners must provide appropriate supervision and remain alert to harmful, illegal or inappropriate content and other online safeguarding risks. Any online safeguarding concern identified during a session must be reported in accordance with Nudge Education’s safeguarding procedures.
+
+We understand that KCSIE 2026 expects settings to be phone-free by default with exceptions documented. Given that Nudge is primarily a home and community delivery, this is a departure from this guidance. We will work with commissioners to set expectations about phone usage upon the start of the transition phase of any intervention.
+
+Practitioners must maintain clear professional boundaries in relation to personal devices and digital communication. Personal contact details and social media accounts must not be shared with young people, parents or carers, and personal devices must not be used for direct communication with young people or families. Young people must not be permitted to use a practitioner’s personal device.
+
+Additional safeguards apply where personal or intimate care is being provided. Personal mobile phones and electronic devices must remain out of sight and must not be used to photograph or record a young person during personal or intimate care.
+
+Staff and practitioners must follow the more detailed requirements relating to mobile technology, digital communication, photography and professional boundaries contained within relevant Nudge Education policies and procedures.
+
+### 18.4 Generative artificial intelligence
+
+Young people may only use generative AI within Nudge Education activity where this is appropriate, supervised and has a clear educational purpose.
+
+AI-generated content must be treated as potentially inaccurate, biased, manipulative or harmful and should be critically evaluated.
+
+Personal, identifying, confidential or safeguarding information about young people, families or staff must not be entered into unapproved generative AI systems.
+
+AI must not replace professional safeguarding judgement, risk assessment, mental health assessment or decision-making. AI must not be used to impersonate, humiliate, sexualise or target another person.
+
+Concerns involving AI-generated sexual imagery, deepfakes, harmful outputs, grooming or exploitation are safeguarding concerns and must be reported.
+
+New organisational uses of AI involving young people or sensitive data require appropriate governance and risk assessment. For further information please refer to the NEO Artificial Intelligence Policy.
+
+## 19. Children who may be at greater risk of harm
+
+Any child can experience abuse or exploitation. Some children may face additional barriers to recognition, disclosure, support or protection. Staff must avoid assumptions and consider each young person’s individual circumstances.
+
+### 19.1 SEND, disability and health conditions
+
+Changes in presentation must not automatically be attributed to a disability, diagnosis or SEND.
+
+Communication needs may affect how a young person expresses distress or discloses harm.
+
+Children with SEND may be more vulnerable to bullying, isolation, exploitation and online harm.
+
+Additional support or reasonable adjustments may be needed to enable a young person to communicate safely.
+
+Medical needs, including dependence on adults for care or medication, may create additional safeguarding considerations.
+
+### 19.2 Young carers
+
+Young carers may experience hidden pressures, inappropriate caring responsibilities, reduced attendance or isolation. Staff should consider whether support is required for the young person and family.
+
+### 19.3 Children in care, previously in care, kinship care and private fostering
+
+Staff should understand relevant care arrangements and work with commissioners, social workers, Virtual School Heads and carers where applicable. Placement changes, missing episodes and instability should be considered through a safeguarding lens.
+
+### 19.4 Sexual orientation and gender questioning
+
+A young person being lesbian, gay or bisexual, or questioning their sexual orientation or gender, is not in itself a safeguarding risk. However, young people who are, or are perceived to be, lesbian, gay, bisexual or gender questioning may experience bullying, discrimination, abuse or isolation.
+
+Staff should provide a safe and non-judgemental response, avoid assumptions and remain alert to any safeguarding concerns. Any response should consider the individual circumstances, needs and best interests of the young person.
+
+Where a young person is questioning their gender, staff should respond sensitively and consider the young person’s individual circumstances and any wider safeguarding needs. Where a young person requests support with social transition, advice must be sought from the RDSL before any decisions or changes are made. Parents or carers should be involved in the vast majority of cases. Where there is concern that involving parents or carers may place the young person at greater risk of harm, the RDSL should determine the appropriate safeguarding response before parents or carers are contacted, and the rationale for the decision should be recorded. Staff should have regard to the safeguarding principles set out in Keeping Children Safe in Education 20262. While Nudge Education is not a school or college and KCSIE does not apply to Nudge Education in the same way, Nudge Education uses the guidance as an important benchmark for safeguarding practice.
+
+Information about a young person’s sexual orientation or gender questioning should be handled sensitively and shared only where necessary and appropriate for safeguarding or support.
+
+### 19.5 Children affected by parental offending or custody
+
+Staff should be alert to the emotional, practical and safeguarding impact on children where a parent or carer is in custody or involved in offending.
+
+## 20. Mental health and safeguarding
+
+Mental health concerns can be an indicator that a child has suffered or is at risk of suffering abuse, neglect or exploitation. Equally, not every mental health need is a child protection concern.
+
+Staff should notice significant changes in presentation, mood, functioning, relationships or engagement.
+
+Only appropriately qualified professionals should diagnose mental health conditions. Concerns about self-harm, suicidal thoughts, significant deterioration or risk to others must be escalated promptly.
+
+Where there is immediate risk to life or serious injury, emergency services should be contacted.
+
+Safeguarding and mental health support should be coordinated where both are required. Staff should use trauma-informed, non-stigmatising language and should not make assumptions about intent.
+
+2 Department for Education, Keeping Children Safe in Education 2026, section on children who are questioning their gender.
+
+## 21. Attendance, non-engagement and children missing education
+
+Because Nudge Education works with young people who are chronically disengaged from education, non-attendance must be interpreted in context. It must never be normalised to the point that safeguarding indicators are missed.
+
+Repeated or prolonged absence, sudden changes in engagement, inability to see or speak with a young person, unexplained changes of address, patterns of cancelled sessions or information suggesting the child may be missing from home/care should trigger professional curiosity.
+
+The response should be based on risk and should not wait for a fixed threshold where safeguarding concerns arise. Staff and EICs should consider:
+
+- the young person’s known safeguarding history and current vulnerabilities
+
+- whether the absence is expected and explained
+
+- whether Nudge Education or another trusted professional has had recent direct contact with the young person
+
+- patterns or changes in attendance
+
+- known family, exploitation, domestic abuse or missing risks
+
+- whether the commissioner and wider professional network are aware
+
+- whether immediate welfare checks or statutory referrals are required.\\
+
+Safeguarding concerns arising from non-attendance or non-engagement must be acted upon as soon as they are identified. Where Nudge Education has been unable to see or speak directly with a young person for two consecutive planned sessions, a safeguarding concern must be raised with the RDSL unless their welfare and reason for absence have been satisfactorily established through the commissioner or by an Education Intervention Coordinator.
+
+Where Nudge Education cannot establish the young person’s welfare and there is safeguarding concern, this must be escalated to the RDSL without waiting for a set number of days or sessions. The commissioner should be informed promptly, and local children missing education, missing-from-home/care or social care procedures followed as appropriate.
+
+### 21.1 Young person leaving or going missing during a session
+
+Where a young person leaves a session unexpectedly or their whereabouts become unknown during planned Nudge Education delivery, the practitioner must consider the immediate level of risk and act in accordance with the young person’s risk assessment and agreed intervention arrangements.
+
+The practitioner should not place themselves or others at risk by attempting to physically prevent a young person from leaving or by pursuing them in circumstances where it would be unsafe to do so.
+
+The EIC must be informed promptly and the RDSL contacted where there is a safeguarding concern. Parents/carers, the commissioner, police or other statutory services should be contacted as appropriate to the circumstances and level of risk.
+
+Where there is immediate danger, significant vulnerability or reason to believe the young person may come to harm, staff must not delay necessary action while attempting to contact a particular individual within Nudge Education.
+
+The incident, actions taken and rationale for decisions must be recorded promptly, and the young person’s risk assessment and intervention arrangements reviewed before further delivery where appropriate.
+
+## 22. Physical intervention, professional touch and safe practice
+
+Nudge Education does not advocate physical contact, including hugging, as part of routine practice. Practitioners should use trauma-informed, non-physical de-escalation and relational approaches wherever possible.
+
+Where a young person has identified sensory, communication or regulation needs, appropriate resources and agreed strategies should be considered as part of intervention planning and risk assessment to reduce the need for physical intervention.
+
+Physical intervention may only be used as a last resort where it is lawful, necessary and proportionate to prevent harm, and only the minimum force necessary may be used. Staff expected to work in circumstances where physical intervention may reasonably be required must have appropriate training.
+
+Every use of physical intervention must be reported and recorded promptly.
+
+Any injury, distress, safeguarding concern or allegation arising from physical intervention must be escalated.
+
+Physical contact must always be professionally justifiable, appropriate to the young person’s needs and consistent with the Code of Conduct.
+
+Where practitioners transport young people as part of an intervention, they must follow Nudge Education’s requirements for safe transport, lone working and professional boundaries.
+
+### 22.1 Professional boundaries and positions of trust
+
+Nudge Education practitioners hold a position of trust in relation to the young people they work with. That trust arises from the practitioner's role, the young person's vulnerability and the unsupervised nature of much of Nudge Education's delivery, and it does not depend on the young person's age.
+
+Any sexual/romantic relationship or anything that may be judged to be a friendship which overreaches the boundaries expected and explained in the practitioner code of conduct, between a member of staff and a young person supported by Nudge Education is
+
+prohibited. This applies irrespective of the young person's age, irrespective of whether they are over 16 or over 18, and irrespective of apparent consent. Consent is not a defence to a breach of this policy. Staff must not pursue or encourage such a relationship, and must not use their role to create emotional dependency, favouritism or private contact outside agreed arrangements.
+
+The prohibition applies throughout the intervention and for a period of twelve months after Nudge Education's involvement with the young person ends.
+
+Where a member of staff has a pre-existing personal, family or social connection to a young person or their family, they must disclose it to their line manager and the RDSL before work begins, so that a decision can be taken about whether the allocation is appropriate. Where a relationship develops or an approach is made by a young person or a family member, the member of staff must report it immediately and must not continue delivery pending advice from the RDSL.
+
+Certain positions of trust are recognised in criminal law under the Sexual Offences Act 2003. Nudge Education's expectations do not depend on whether a criminal offence is made out. Conduct of this kind will always be treated as a safeguarding matter under Section 23 of this policy, will always be referred to the Local Authority Designated Officer, and may result in referral to the police, dismissal and referral to the Disclosure and Barring Service.
+
+## 23. Allegations and safeguarding concerns about adults working with children
+
+Nudge Education takes seriously any allegation or safeguarding concern about the conduct of a member of staff or practitioner working for or on behalf of Nudge Education. Concerns and allegations about adults working with children will be managed in accordance with this policy and the Managing Allegations Against Staff Policy.
+
+A concern may meet the harm threshold where an adult has:
+
+- behaved in a way that has harmed a child, or may have harmed a child
+
+- possibly committed a criminal offence against or related to a child
+
+- behaved towards a child or children in a way that indicates they may pose a risk of harm to children
+
+- behaved, or may have behaved, in a way that indicates they may not be suitable to work with children.
+
+Concerns may relate to conduct within or outside of Nudge Education. Behaviour outside of work should be considered where it may indicate a transferable risk to children.
+
+Any such concern must be reported immediately to the RDSL and appropriate senior leader. The RDSL will consider whether consultation or referral to the relevant Local Authority Designated Officer (LADO), commissioner safeguarding lead, police and/or children’s social care is required, involving the appropriate senior leader and escalating to the NDSL where necessary.
+
+Where the concern relates to an RDSL, it must be reported directly to the NDSL. Where the concern relates to the NDSL, it must be reported directly to the Chief Executive Officer. Where the concern relates to the Chief Executive Officer, it must be reported through the appropriate senior governance route. In all cases, consultation or referral to the LADO must take place where required.
+
+The welfare of the young person is the primary consideration. Nudge Education will take appropriate steps to protect the young person while ensuring that concerns are managed fairly, proportionately and without compromising any statutory investigation.
+
+Nudge Education will work with the LADO, commissioner, police, children’s social care, HR and other relevant agencies as appropriate. Internal investigation or disciplinary action must not prejudice a statutory safeguarding or criminal investigation.
+
+Concerns which do not meet the harm threshold will be managed in accordance with Section 24 of this policy.
+
+Where an allegation or safeguarding concern arises, the individual must provide Nudge Education with details of any other current employment or professional engagement involving work with children or adults at risk. This information will be considered as part of safeguarding decision-making and any necessary information sharing or referral to another organisation or statutory body.
+
+Where an individual is removed from regulated activity, or would have been removed had they resigned, ceased working or otherwise left Nudge Education, Nudge Education will make a referral to the Disclosure and Barring Service (DBS) where the statutory referral criteria are met.
+
+Where the individual is a teacher and the circumstances may amount to serious teacher misconduct, Nudge Education will also consider whether a referral to the Teaching Regulation Agency (TRA) is appropriate in accordance with current referral guidance. Referral to the DBS, TRA or another professional or regulatory body does not replace any requirement to notify or refer to the LADO, police, children’s social care, commissioner or other relevant safeguarding body.
+
+## 24. Low-level concerns
+
+A low-level concern is any concern, however small, that an adult working with children may have acted in a way that is inconsistent with the Code of Conduct, including inappropriate conduct outside work, even where the behaviour does not meet the harm threshold. Examples may include:
+
+- being over-friendly with a young person
+
+- having favourites or creating inappropriate dependency
+
+- taking photographs contrary to policy
+
+- engaging with a young person through personal social media or private messaging
+
+- using sexualised, humiliating, intimidating or inappropriate language
+
+- unnecessary or inappropriate physical contact
+
+- sharing personal information or behaving in a way that blurs professional boundaries.
+
+Low-level does not mean insignificant. Concerns must be reported promptly through the agreed safeguarding/management route so that patterns can be identified. Records will be reviewed to determine whether conduct, training, disciplinary, safeguarding or LADO action is required.
+
+## 25. Whistleblowing
+
+All staff have a responsibility to raise concerns about unsafe practice, safeguarding failures or the conduct of colleagues. Staff should use Nudge Education’s Whistleblowing Policy and safeguarding routes.
+
+Where a member of staff feels unable to raise a safeguarding concern internally, or believes a concern has not been addressed appropriately, they may use external whistleblowing routes, including the NSPCC Whistleblowing Advice Line where applicable.
+
+No member of staff should suffer detriment for raising a genuine safeguarding concern in good faith.
+
+## 26. Safer recruitment and ongoing suitability
+
+Nudge Education will maintain robust safer recruitment and suitability arrangements in accordance with its Safer Recruitment Policy and applicable law.
+
+- identity, right-to-work, employment history and reference checks
+
+- enhanced DBS and barred-list checks where the role is eligible/regulated activity
+
+- overseas checks where relevant
+
+- qualification/professional status checks where required
+
+- values-based and safeguarding-focused selection
+
+- consideration of publicly available online information where lawful, proportionate and relevant
+
+- appropriate recording of checks on the central recruitment record
+
+- ongoing expectations that staff disclose matters relevant to their suitability to work safely with children, in line with HR policy.
+
+- At least one person involved with the interviewing panel has completed safer recruitment training
+
+Changes to the legal definition and scope of regulated activity must be reflected in recruitment processes. Nudge Education will not rely on outdated assumptions about supervision removing the need for regulated-activity checks for staff and volunteers.
+
+Concerns arising after appointment will be considered under safeguarding, conduct, disciplinary and referral procedures as appropriate.
+
+## 27. Safeguarding adults
+
+Nudge Education primarily supports people under 18, but may work with young adults or encounter adults at risk within family homes or community contexts. An adult at risk is a person aged 18 or over who has needs for care and support, is experiencing or at risk of abuse or neglect, and as a result of those needs is unable to protect themselves against it. Such concerns must be reported to the RDSL and referred to the relevant local authority adult safeguarding team, which has a duty under section 42 of the Care Act 2014 to make enquiries. Where there is an immediate risk to an adult's safety, emergency services must be contacted. Adult safeguarding concerns must be recorded on approved Nudge Education systems in the same way as concerns about children.
+
+Staff whose role includes direct contact with adults at risk should receive adult safeguarding training appropriate to their role. Child and adult safeguarding concerns may overlap within the same household and should be considered together where relevant.
+
+## 28. Health and safety and intervention risk management
+
+Safeguarding and health and safety are connected but not interchangeable. Nudge Education’s Health and Safety, Lone Working and intervention risk-assessment arrangements support the safe delivery of interventions.
+
+Risk assessments should reflect the individual young person, location, activity, transport, known safeguarding considerations and practitioner factors relevant to safe delivery. Risk assessment is dynamic and should be updated when circumstances change. Environmental, community and online risks should be considered alongside risks within the home.
+
+Practitioners must not enter or deliver an intervention from within a young person’s bedroom. Where a young person is unable or unwilling to leave their bedroom, alternative arrangements may be agreed to enable safe engagement without the practitioner entering the room.
+
+Any such arrangement must be specifically agreed as part of the intervention arrangements, reflected within the risk assessment and supported by clear safeguarding, lone-working and professional-boundary mitigations. These mitigations must be followed at all times. Examples may include a practitioner engaging with the young person from outside the bedroom, such as from the landing or doorway, with another appropriate adult present throughout the interaction.
+
+Any change in circumstances or risk must be reported and the arrangements reviewed. Practitioners must comply with the Practitioner Code of Conduct and relevant lone-working requirements throughout.
+
+Near misses, incidents and changes in risk should be reported so that learning and controls can be updated.
+
+Where risk cannot be safely managed, staff should withdraw from the immediate situation and seek appropriate support rather than continuing an unsafe intervention.
+
+## 29. Monitoring, quality assurance and review
+
+The Directorate and safeguarding leadership will monitor the effectiveness of this policy and safeguarding practice using a range of evidence.
+
+- safeguarding records, themes and outcomes
+
+- referral and escalation activity
+
+- allegations and low-level concerns
+
+- training completion and learning
+
+- quality assurance/support visits
+
+- feedback from young people, parents/carers and commissioners
+
+- internal and external safeguarding audits
+
+- commissioner due-diligence and quality assurance
+
+- learning from incidents, complaints and near misses
+
+- changes in legislation, statutory guidance and national standards.
+
+The policy will be reviewed at least annually and earlier where required. Significant changes will be communicated to staff and embedded through training, briefings and operational guidance.
 
 This policy has been reviewed and Approved by:
 
-Chief Executive Officer
-
-Director of Operations - Nudge Education
-
-National contacts for Safeguarding:
-
-National Designated Safeguarding Lead
-
-emily.baty@nudgeeducation.co.uk
-
-Regional Designated Safeguarding Leads
-
-michelle.driskel@nudgeeducation.co.uk
-
-tracy.harrison@nudgeeducation.co.uk · 07931 506193 (business mobile)
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-Change History Record
+Diego Melo: Chief Executive Officer
 
-Version     Date                       Details of Change(s)             Approved By
-2.0         5/12/2025                  Implementation of V2 policy      Director of Operations
-2.1         27/4/2026                  Update to National DSL details   Director of Operations
-2.2         17/8/2026                  KCSIE 2026 citation uplift (part of the December 2026 review brought forward)   Director, NEO & Head of School
+Brian Mair: Director of Operations - Nudge Education
 
-Statutory guidance edition: this policy applies Keeping Children Safe in Education 2026
-(KCSIE 2026), in force from 1 September 2026, as the operative edition throughout. All
-staff read KCSIE 2026 Part One in full at induction and on each annual refresh; the
-condensed Annex A version has been withdrawn. If any residual reference to an earlier
-edition remains anywhere in this document, the statutory version in force prevails.
+Date: 15 September 2026
 
-Scope
-Nudge Education exists to eradicate chronic disengagement from Education and as such, we
-are often commissioned to work with some of the UK's most vulnerable young people. Our
-Child Protection and Safeguarding Policy has been drafted and approved by the Directorate of
-Nudge Education to ensure our staff, associates, young people and commissioners are fully
-aware of our commitment to Safeguarding under relevant legislation and guidance listed
-within this policy document.
-
-Background — recent editions of KCSIE:
-
-Recent editions of Keeping Children Safe in Education introduced changes that remain
-reflected in this policy, including the addition of 'exploitation' alongside 'abuse and
-neglect' in defining child protection concerns, vigilance against harm occurring both
-within and outside the home (including online), the importance of Contextual
-Safeguarding, and a definition of safeguarding that includes early intervention and
-protection from maltreatment in all environments. KCSIE 2026 additionally strengthens
-filtering and monitoring expectations (an annual effectiveness review led by a named
-senior leader, supported by the DSL and IT support, with documented device-level
-checks) and brings generative AI within scope.
-
-1. The content definition under online safety is expanded to include: "being exposed to
-illegal, inappropriate or harmful material , misinformation, disinformation (including fake
-news) and conspiracy theories." (Section 14)
-
-2. An update therefore took place to our Online Safety policy relating to the risks and usage
-of generative AI within our interventions.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-CONTENTS
-
-                                                   
-
-Statement of Intent
-## 1. Young Person Considerations                                  
-## 2. Early Help                                             
-## 3. Commissioner Specific Requirements                            
-## 4. Confidentiality Considerations                            
-## 5. Supporting Staff                                        
-## 6. Whistleblowing                                          
-## 7. Physical Intervention                                
-## 8. Anti-Bullying                                           
-## 9. Peer- on- Child Abuse                                    
-## 10. Prevent and Channel Duty                                 
-## 11. Health & Safety                                        
-## 12. Female Genital Mutilation (FGM) mandatory reporting duty            
-## 13. Forced marriage                                        
-## 14. Online Safety                                          
-## 15. Mental Health                                               
-## 16. Child Criminal & Child Sexual Exploitation (CCE & CSE)   
-## 17. Safeguarding of Adults                                  
-## 18. Domestic Abuse/Violence                   
-## 19. LGBTQIA+ Student considerations
-20.Recruitment considerations
-## 21. Data Protection
-22.Contextual Safeguarding
-      
-Annex A: Nudge Education Safeguarding Flowchart               
-Annex B: Nudge Education Direct Disclosure Guidance            
-Annex C: Nudge Education Safeguarding Guidance                
-Annex D: Expected Actions from Staff                               
-ANNEX E: Child Missing from Education Process                 
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-Statement of Intent
-
-This policy was drafted to ensure the principles of the following legislation and guidance are
-intrinsic to our ethos and practice:
-
-Children Act 1989
-
-Children Act 2004
-
-Working together to Safeguard Children 2023
+Version Control
 
-Framework for the Assessment of Children in Need and their Families' 2000 (Department of
-Health)
+Version Date Details of Change(s) Approved By 2.0 5/12/2025 Implementation of V2 policy Brian Mair 2.1 27/4/2026 Update to National DSL details Brian Mair 2.2 24/08/2026 Full rewrite: safeguarding-led structure; alignment to
 
-'What to do if you're worried a child is being abused' Advice for Practitioners 2015 (Department
-for Education)
-
-Keeping Children Safe in Education 2026
-
-(Herein referred to as KCSIE 2026)
-
-Equality Act 2010
-
-Education Act 2002
-
-Special Educational Needs Code of Practice 2015
-
-This policy aims to:
-
-- Support the young person's development in a method that will foster security,
-confidence and independence.
-- Provide an environment in which young people feel safe, secure, and respected, with the
-confidence to approach adults appropriately and ensure that their concerns are listened
-to.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-- Highlight to all Nudge Education staff of the need to safeguard children and young
-people, including their responsibilities in identifying and reporting suspicions of abuse.
-- Document the methods of monitoring young people thought to be at risk of harm and
-set in place suitable support systems.
-- Highlight the need for clear lines of communication at all levels of the organisation.
-- Develop and maintain effective working relationships with other agencies and
-organisations in relation to the safeguarding of young people i.e. police and local
-authorities.
-- Ensure that all Nudge Education staff who come into contact with young people and
-other vulnerable groups have been checked for role suitability including enhanced
-disclosure and barring scheme (DBS) checks and relevant training (specific to role), with
-a central record being kept for audit purposes and to make reports to authorities if those
-who are barred from working with young people or apply to work with us.
+KCSIE 2026, Working Together 2026 and current Nudge Education practice
 
-Definition of Safeguarding
+Pending
 
-For the purposes of this policy, Nudge Education will use the definition given in key
-government guidance documents: "Working Together to Safeguard Children 2023" and
-"Keeping Children Safe in Education 2026".
+## Annex 1. Staff safeguarding response
 
-"Safeguarding and promoting the welfare of children is defined for the purposes of this
-guidance as:
-
-- providing help and support to meet the needs of children as soon as problems emerge,
-- protecting children from maltreatment, whether that is within or outside the home,
-including online,
-- preventing the impairment of children's mental and physical health or development,
-- ensuring that children grow up in circumstances consistent with the provision of safe
-and effective care, and
-- taking action to enable all children to have the best outcomes."
-
-(Working Together To Safeguard Children Page 7)
-
-Monitoring and Evaluation
-
-Our Child Protection and Safeguarding Policy and Procedures will be monitored and evaluated
-by the Directorate of Nudge Education in coordination with our external advisors and the. We
-will use information such as:
-
-1. Minutes of meetings relating to child protection and safeguarding.
-2. Surveys and feedback from both young people, parents/carers and commissioners.
-3. Review of records of bullying/racist/sexually inappropriate incidents.
-4. Content of appropriate training courses.
-5. Observational data of education provision, for example drop in visits or support visits.
-6. Feedback from commissioners and external safeguarding agencies.
-## 7. Minutes from external advisor meetings
-8. Internal compliance audits.
-9. External commissioner quality assurance audits.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-In line with KCSIE 2026, there is also consideration for recording outcomes where no referral
-has been made. Those staff working with children and young people should record "all
-concerns, discussions and decisions made including the rationale for those decisions. These
-recordings should include instances where referrals were or were not made to another agency
-such as LA children's social care or the Prevent programme etc."
-
-Communication with Parents/Carers
-
-We recognise that good communication with parents is crucial in order to safeguard and
-promote the welfare of children effectively. We will always undertake appropriate discussion
-with parents/carers prior to involvement of another agency unless to do so would place the
-young person or an adult at further risk of harm or would impede a criminal investigation.
-
-We will ensure that parents/carers have an understanding of the responsibilities placed on
-Nudge Education and their staff to safeguard children and their duty to co-operate with other
-agencies in this respect.
-
-1.Young Person Considerations
-
-Nudge Education realises that any young people who are experiencing abuse, or are witness to
-abuse may not feel empowered to change their situation and indeed may not even realise that
-they are being abused.
-
-Nudge Education also understands that young people who are in this situation may display a
-range of behaviours.
+If you are worried about a young person:
 
-Nudge Education adheres to the protocol that we will notify the commissioner and relevant
-safeguarding bodies as soon as there is a concern about a young person and we will work with
-all parties to ensure that child protection processes are followed in a confidential manner. All
-staff should be aware that children may not feel ready or know how to tell someone that they
-are being abused, exploited, or neglected, and/or they may not recognise their experiences as
-harmful. This should not prevent staff from having a professional curiosity and speaking to the
-Regional Designated Safeguarding Lead (RDSL) if they have concerns about a young person.
+- Consider immediate safety. If there is immediate danger or urgent medical need, call 999.
 
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-Everyone working within Nudge Education will be aware of the definitions and signs and
-symptoms of abuse. Using the definitions from the guidance document "KCSIE 2026" we
-recognise there are five types of abuse:
+- Listen and observe. Do not investigate.
 
-Abuse: a form of maltreatment of a child. Somebody may abuse or neglect a child by inflicting
-harm or by failing to act to prevent harm. Children or young people may be abused in a family,
-institutional or community setting by those known to them or, more rarely, by others (e.g. via
-the internet). They may be abused by an adult,adults or by another child or children.
+- Record the concern factually and promptly.
 
-Physical abuse: a form of abuse which may involve hitting, shaking, throwing, poisoning,
-burning or scalding, drowning, suffocating or otherwise causing physical harm to a child.
+- Report the concern to the RDSL through the approved safeguarding route.
 
-Emotional abuse: the persistent emotional maltreatment of a child such as to cause severe
-and adverse effects on the child's emotional development.
+- Do not delay necessary action. If the concern is urgent and the appropriate safeguarding contact cannot be reached, contact the relevant statutory service directly where required and inform the RDSL or other appropriate safeguarding contact as soon as possible.
 
-Sexual abuse: involves forcing or enticing a child or young person to take part in sexual
-activities, not necessarily involving a high level of violence, whether or not the child is aware of
-what is happening.
+- Follow safeguarding advice regarding communication with the commissioner, parents/carers and statutory agencies.
 
-Neglect: the persistent failure to meet a child's basic physical and/or psychological needs, likely
-to result in the serious impairment of the child's health or development.
+- Do not wait for a weekly report or routine meeting where the concern requires same-day action.
 
-Underpinning all of the above points is our understanding that one of the reasons for a young
-person becoming disengaged from education is an underlying safeguarding concern and our
-policy, process and practice aims to make sure we address all concerns effectively.
+- Continue to support the young person and complete any agreed follow-up.
 
-## 2. Early Help
+There is no ‘low-risk list’ that overrides professional judgement. Several apparently minor concerns, a change from the young person’s usual presentation, or a concern combined with known vulnerability may require immediate safeguarding escalation.
 
-As the nature of our work means we come into contact with a lot of young people who may
-already have been subject to safeguarding investigations, we are vigilant in looking out for
-potential indicators of a safeguarding concern. In line with "Working Together to Safeguard
-Children" (2023) we put specific focus on those young people who:
+## Annex 2. Direct disclosure guidance
 
-- are disabled and have specific additional needs
-- have special educational needs (whether or not they have a statutory Education,
-Health and Care Plan)
-- are young carers
-- are showing signs of being drawn into anti-social or criminal behaviour, including
-gang involvement and association with organised crime groups
-- are frequently missing/go missing from care or from home
-- are at risk of modern slavery, trafficking or exploitation
-- are at risk of being radicalised or exploited
-- are in a family circumstance presenting challenges for the young person, such as
-drug and alcohol
-- misuse, adult mental health issues and domestic abuse
-- are misusing drugs or alcohol themselves
-- have returned home to their family from care
-- are a privately fostered child
+- Stay calm and listen.
 
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-Nudge Education will also follow official guidance on specific safeguarding matters to ensure
-all relevant people within or working with the organisation are up to date with recommended
-practices.
+- Believe the young person enough to act. You are not deciding whether an allegation is proven.
 
-In line with the KCSIE 2026 expectation that "staff should be alert to the potential need for Early Help for
-pupils who have 'experienced multiple suspensions, [are] at risk of being permanently
-excluded from schools, colleges and in Alternative Provision or a Pupil Referral Unit.'", we have
-adapted this to show where we start to experience changes in attendance or behaviour during
-an intervention, this may be an indication of an early help need.
+- Use the young person’s own language and avoid leading questions.
 
-There are a number of sources referenced in Annex A (further information) of KCSIE 2026 that we have used to
-inform this policy as well as some of the documents in the links below:
+- Do not ask ‘why’ questions that may feel blaming.
 
-https://www.gov.uk/government/publications/preventing-and-tackling-bullying
+- Do not promise to keep the information secret.
 
-https://www.gov.uk/government/publications/children-missing-education
+- Explain what will happen next in a way the young person can understand.
 
-https://www.gov.uk/government/publications/children-who-run-away-or-go-missing-fro
-m-home-or-care
+- Do not confront the person alleged to have caused harm.
 
-https://www.gov.uk/government/publications/what-to-do-if-you-suspect-a-child-is-being
--sexually-exploited
+- Write down what was said as soon as possible, separating fact from opinion.
 
-https://www.gov.uk/domestic-violence-and-abuse
+- Report immediately to safeguarding.
 
-https://www.gov.uk/government/publications/drugs-advice-for-schools
+- Seek advice before contacting parents/carers where this could increase risk.
 
-https://www.gov.uk/government/publications/safeguarding-children-in-whom-illness-is-f
-abricated-or-induced
+## Annex 3. Attendance/non-engagement safeguarding response
 
-https://www.gov.uk/government/publications/national-action-plan-to-tackle-child-abuse
--linked-to-faith-or-belief
+When a young person does not attend or repeatedly disengages:
 
-https://www.gov.uk/government/publications/multi-agency-statutory-guidance-on-fema
-le-genital-mutilation
+- Establish what is known: reason for absence, recent contact, known risks and whether another professional has seen/spoken with the young person.
 
-https://www.gov.uk/forced-marriage
+- Notify the EIC/commissioner in line with intervention arrangements.
 
-https://www.gov.uk/government/publications/advice-to-schools-and-colleges-on-gangs-
-and-youth-violence
+- Consider whether the pattern itself creates or increases safeguarding concern.
 
-http://educateagainsthate.com/
+- Escalate to the RDSL immediately where welfare cannot be established, the absence is unexplained in the context of vulnerability, or there are indicators of neglect, exploitation, domestic abuse, missing episodes or other harm.Where Nudge Education has been unable to see or speak directly with a young person for two consecutive planned session, a safeguarding concern must be raised with the RDSL unless their welfare and reason for absence have been satisfactorily established through the commissioner or an Education Intervention Coordinator.
 
-https://www.gov.uk/government/publications/mental-health-and-behaviour-in-schools--
+- Follow commissioner/local missing education, missing from home/care or social care procedures where relevant.
 
-https://www.gov.uk/government/publications/missing-children-and-adults-strategy
+- Record actions, decisions and rationale.
 
-https://www.gov.uk/government/publications/children-act-1989-private-fostering
+- Review risk and intervention arrangements before resuming delivery where circumstances have changed.
 
-https://www.disrespectnobody.co.uk/relationship-abuse/what-is-relationship-abuse/
+## Annex 4. Allegations and low-level concerns route
 
-https://www.gov.uk/government/groups/uk-council-for-child-internet-safety-ukccis
+| Concern | Immediate route | Possible next steps |
+|---|---|---|
+| May meet harm threshold | RDSL and appropriate senior leader, immediately | LADO consultation/referral; commissioner safeguarding lead; police/social care where required; HR; interim safeguarding measures; escalation to NDSL where necessary |
+| Does not appear to meet harm threshold / boundary concern | Report promptly through Nudge Education's low-level concern route | Record; pattern review; supervision/training/management action; LADO advice where the threshold is unclear or concerns increase |
+| Concern about an RDSL | NDSL, immediately | LADO consultation/referral where required; commissioner; police/social care where required; HR; interim safeguarding measures |
+| Concern about the NDSL | CEO, immediately | LADO consultation/referral where required; independent management of concern; statutory/HR action as required |
+| Concern about the CEO | Appropriate senior governance route, immediately | LADO consultation/referral where required; independent management of concern; statutory/HR action as required |
 
-https://www.gov.uk/government/publications/safeguarding-children-who-may-have-bee
-n-trafficked-practice-guidance
+## Annex 5. Key external guidance
 
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-Our Education Intervention Coordination (EIC) Team, Regional Leads, and Assistant Regional
-Leads support the Regional Designated Safeguarding Leads (RDSLs) by holding accredited
-Level 3 Safeguarding training as an addition to their Level 2 qualifications.
+Core documents used in this rewrite:
 
-## 3. Commissioner Specific Requirements
+- Keeping Children Safe in Education 2026 Department for Education
 
-As Nudge Education is a national intervention provider, we understand that processes and
-procedures will vary slightly from one local authority to the next so although this document
-specifically relates to Nudge Education's own Child Protection and Safeguarding processes, we
-endeavour to:
+- Working Together to Safeguard Children 2026 Department for Education
 
-- Familiarise ourselves with the contact information for the Local Authority Designated
-Officer (LADO) for each region
+- Non-school Alternative Provision: Voluntary National Standards Department for Education
 
-- Engage with training and resources from the Local Authority's Safeguarding Partnership
-(Formerly Local Safeguarding Children Boards)
+- Information Sharing Advice for Safeguarding Practitioners Department for Education
 
-- Identify a Single Point of Contact (SPoC) within each commissioner to refer day-to-day
-concerns to (this may be one person or a referral service such as safeguarding team)
+- Prevent Duty and Channel guidance
 
-- Undertake relevant audits required for due diligence, such as a Section 11 audit
+- UKCIS guidance on sharing nudes and semi-nudes
 
-- Refer directly to relevant 'front-door' services where this is stipulated in the referral form
-or communications with commissioner
+- Filtering and Monitoring Standards for Schools and Colleges, used as a benchmark where relevant to Nudge-managed technology
 
-## 4. Confidentiality Considerations
-
-Nudge Education understands that all matters relating to child protection are confidential and
-our Safeguarding Team will only disclose information about a young person to other members
-of staff on a need to know basis.
-Nudge Education informs staff members at induction and regularly updates throughout the
-year that they have a professional responsibility to share information with relevant agencies to
-safeguard young people who we are commissioned to work with.
-
-All staff are also made aware that a safeguarding disclosure by a young person or staff member
-means that they cannot promise to withhold information from relevant agencies that may
-compromise a young person's safety.
-
-At the point of initial assessment we inform both young person and parent/carer of the above
-considerations as well.
-
-## 5. Supporting Staff
-
-Nudge Education recognises that staff may develop personal attachments to the young people
-they support. While all staff are trained to maintain professional boundaries, we understand
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-that witnessing or becoming aware of instances of abuse or harm can have a significant
-emotional impact. In such cases, we are committed to supporting our staff by providing a
-confidential environment in which they can discuss their concerns and feelings with the
-Designated Safeguarding Lead (DSL), Deputy DSL, or their Line Manager.
-
-We understand that a young person may make an allegation against a member of staff and
-that in this instance the following process will be followed:
-
-## 1. Where there is a history of a young person making false allegations, it would be
-recommended that the intervention is staffed at a 2:1 ratio.
-## 2. If an allegation is made against a member of staff, the person who receives the
-information will immediately inform the NDSL or RDSL.
-3. The NDSL or RDSL will then discuss the details of the allegation with the relevant
-Local Authority Designated Officer (LADO) and other safeguarding contacts within
-our commissioner's organisation.
-## 4. If the allegation refers to the NDSL or RDSL then the person receiving the
-allegation will go straight to the LADO or equivalent, removing the NDSL or RDSL
-out of the communication process.
-5. Suspension of a staff member needs careful consideration. Nudge Education will
-review each case both internally and with the relevant local LADO before a
-decision is made.
-6. After the LADO investigation takes place, a formal HR investigation will then take
-place to cover any conduct and safeguarding concerns.
-
-Where referrals are made to the LADO, it is our role to manage these referrals in a timely and
-appropriate manner.
-
-## 6. Whistleblowing
-
-Nudge Education recognises that the young people we are commissioned to support may not
-be fully aware of the procedures for raising any concerns they might have. As such, it is vital
-that all staff understand their responsibility to report any safeguarding or child protection
-concerns. This includes concerns relating to the actions or behaviour of colleagues or
-associates.
-
-In the first instance, any concern should be reported to Nudge Education's Named Designated
-Safeguarding Lead (NDSL) or Regional Designated Safeguarding Lead (RDSL). Where
-appropriate, concerns should also be escalated to the Local Authority Designated Officer
-(LADO) for the area in which the staff member is working. Contact details for the relevant
-LADO can be found on the local authority's website or in the Nudge Education briefing pack
-provided for each young person.
-
-We will also, upon the advice of the LADO, make the relevant referral to the DBS and Teachers
-Service (https://www.gov.uk/guidance/teacher-status-checks-information-for-employers)
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-## 7. Physical Intervention
-
-Nudge Education believes that physical intervention with a young person should only be used
-as a last resort, when it is judged by a practitioner that the young person is endangering
-themselves or others and that it is the most minimal force necessary that must be applied in
-that instance.
-
-Every incident of physical intervention must be documented and sent to Nudge Education's
-NDSL/RDSL and signed by both the staff member involved and the RDSL/ NDSL.
-
-All staff members likely to be involved in the use of physical intervention will be a) already
-trained in CPI Safety Intervention Training or b) will receive this training prior to being matched
-with a young person where risk is identified as high.
-
-The concept of 'integrated experience', where the professional's behaviours and attitudes can
-have an impact on others runs throughout all of our interventions so we can spot early signs of
-escalation and take appropriate action without the need for physical intervention wherever
-possible.
-
-Nudge Education acknowledges that physical intervention that results in injury or distress to a
-young person may be considered under the disciplinary procedure if proved after investigation
-to be excessive force.
-
-Nudge Education acknowledges that professional touch is appropriate in the context of
-working with young people. All our staff have been given 'Safe Practice' Guidance based upon
-the Statutory guidance for schools and colleges (KCSIE 2026) to ensure that professional
-boundaries are clear.
-
-## 8. Anti-Bullying
-
-Nudge Education adheres to the belief that if bullying is allowed or condoned then this may be
-considered under child protection procedures. All records of bullying incidents will be logged
-centrally and passed back to the commissioner for review. Our primary intervention model sees
-us working with individual young people that are disengaged from school however we
-understand that bullying can still occur both to, and by our students, so we follow a set policy.
-
-We take into consideration many legislative guidance documents such as the Equality Act
-2010, Preventing and Tackling Bullying: Advice for School Leaders, Staff and Governing Bodies,
-October (2014) and KCSIE (2026).
-
-## 9. Peer-on-child Abuse
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-In line with the definition of safeguarding in KCSIE 2026, which includes
-'exploitation', Nudge Education remains committed to preventing all forms of child-on-child
-abuse, including those occurring outside the home. This contextual safeguarding approach
-recognises that abuse can take place in various settings, including online and in the
-community. The inclusion of exploitation emphasises the need to view all children involved in
-such incidents as potential victims rather than offenders, particularly in cases where they may
-have been groomed into harmful behaviours.
-
-The majority of our interventions are commissioned on an individual basis, where we work
-intensively with one young person to support their transition into a permanent setting. As a
-result, the risk of peer-on-peer abuse occurring during a Nudge intervention is limited.
-However, we remain fully aware of the importance of preparing young people for reintegration
-into group environments, and we remain alert to any concerns that may arise in relation to this
-transition.
-
-At Nudge Education, we continue to ensure that any form of abuse or harmful behaviour is
-dealt with immediately and consistently to reduce the extent of harm to the young person,
-with full consideration to impact on that individual child's emotional and mental health and
-wellbeing. It is also a consideration as part of KCSIE 2026 that all organisations should have a
-policy regarding child-on-child abuse.
-
-Types of abuse associated with child-on-child abuse:
-
-There are many forms of abuse that may occur between peers and this list is not exhaustive.
-Each form of abuse or prejudiced behaviour is described in detail followed by advice and
-support on actions to be taken. These could be primary factors behind a young person's
-disengagement from education so it is critical all people working with our young people are
-aware of them.
-
-9.1 Physical abuse e.g. (biting, hitting, kicking, hair pulling etc.)
-
-Physical abuse may include, hitting, kicking, nipping, shaking, biting, hair pulling, or otherwise
-causing physical harm to another person. There may be many reasons why a child harms
-another and it is important to understand why a young person has engaged in such behaviour,
-including accidently, before considering the action or punishment to be undertaken.
-
-9.2 Sexually harmful behaviour/sexual abuse e.g. (inappropriate sexual language, touching,
-sexual assault etc.)
-
-Sexually harmful behaviour from young people is not always contrived or with the intent to
-harm others. There may be many reasons why a young person engages in sexually harmful
-behaviour and it may be just as distressing to the young person who instigates it as well as the
-young person it is intended towards. Sexually harmful behaviour may range from inappropriate
-sexual language and inappropriate role play, to sexually touching another or sexual
-assault/abuse.
-
-### 9.3 Sexting
-
-Sexting is when someone sends or receives a sexually explicit text, image or video. This includes
-sending 'nude pics', 'rude pics' or 'nude selfies'. Pressuring someone into sending a nude
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-picture can happen in any relationship and to anyone, whatever their age, gender or sexual
-preference.
-
-However, once the image is taken and sent, the sender has lost control of the image and these
-images could end up anywhere. By having in their possession, or distributing, indecent images
-of a person under 18 on to someone else, young people are not even aware that they could be
-breaking the law as stated as these are offences under the Sexual Offences Act 2003.
-
-If a young person comes to you that has sent or received a photo or video of this nature, follow
-this process:
-
-- Never view, copy, print, share, store or save the imagery yourself, or ask a child to share or
-download – this is illegal.
-- If you have already viewed the imagery by accident (e.g. if a young person has shown it
-to you before you could ask them not to), report this to the NDSL/RDSL and seek
-support.
-- Do not delete the imagery or ask the young person to delete it.
-- Do not ask the child/children or young person(s) who are involved in the incident to
-disclose information regarding the imagery. This is the responsibility of the DSL (or
-equivalent).
-- Do not share information about the incident with other members of staff, the young
-person(s) it involves or their, or other, parents and/or carers.
-- Do not say or do anything to blame or shame any young people involved.
-- Do explain to them that you need to report it and reassure them that they will receive
-support and help from the DSL (or equivalent).
-
-### 9.4 Initiation/Hazing
-
-Hazing is a form of initiation which is used to induct newcomers into an organisation such as a
-private school, sports team etc. There are a number of different forms, from relatively mild
-rituals to severe and sometimes violent ceremonies.
-
-The idea behind this practice is that it tests newcomers by subjecting them to a series of trials
-which forms a bond between them. After the hazing is over, the newcomers also have
-something in common with older members of the organisation, because they all experienced
-it as part of a rite of passage. Many rituals involve humiliation, embarrassment, abuse, and
-harassment.
-
-### 9.5 Upskirting
-
-'Upskirting' typically involves taking a picture under a person's clothing without them knowing,
-with the intention of viewing their genitals or buttocks to obtain sexual gratification, or cause
-the victim humiliation, distress or alarm. It is now a criminal offence.
-
-### 9.6 Prejudiced Behaviour
-
-The term prejudice-related bullying refers to a range of hurtful behaviour, physical or emotional
-or both, which causes someone to feel powerless, worthless, excluded or marginalised, and
-which is connected with prejudices around belonging, identity and equality in wider society –
-in particular, prejudices to do with disabilities and special educational needs, ethnic, cultural
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-and religious backgrounds, gender identity, home life (for example in relation to issues of care,
-parental occupation, poverty and social class) and sexual orientation .
-
-### 9.7 Teenage relationship abuse
-
-Teenage relationship abuse is defined as a pattern of actual or threatened acts of physical,
-sexual, and/or emotional abuse, perpetrated by an adolescent (between the ages of 13 and 18)
-against a current or former partner. Abuse may include insults, coercion, social sabotage,
-sexual harassment, threats and/or acts of physical or sexual abuse. The alleged abuser uses this
-pattern of violent and coercive behaviour in order to gain power and maintain control over the
-partner.
-
-### 9.8 Prevention of child-on-child abuse
-
-Nudge Education recognises that we have a part to play in the prevention of harm to the
-young people we are commissioned to work with and will strive to create an environment
-where young people feel safe and are given an open forum in which to discuss their feelings or
-anxieties.
-
-Young people will also be made aware that there is an appropriate adult within the
-organisation whom they can approach with these concerns.
-
-Nudge Education will also provide guidance and qualifications where appropriate to ensure
-emotional and social personal development and to teach students the skills required to stay
-safe from harm.
-
-This includes safe usage of mobile and communication technologies and the highlighting of
-associated risks.
-
-## 10. Prevent and Channel Duty
-
-As part of the Counter-Terrorism and Security Act 2015, Nudge Education recognises their
-responsibilities in keeping young people safe from risk of radicalisation and away from
-exposure to extremist behaviour.
-
-Any acts that are perceived to indicate a young person has been radicalised' or is distributing
-extremist literature is to be reported to the relevant local LADO and local Prevent Duty
-authority (details of which will be available from Nudge Education's NDSL /RDSL.)
-
-All staff within Nudge Education are to be trained annually and given guidance in the Prevent
-Duty legislative advice.
-
-Channel duty is guidance given by the Government to protect vulnerable individuals and
-groups from becoming radicalised. Section 9 of this guide on safeguarding is particularly useful
-to our organisation:
-
-https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/
-file/964567/6.6271_HO_HMG_Channel_Duty_Guidance_v14_Web.pdf
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-Although we do not meet the criteria in Annex B of Channel guidance, we operate under the
-same principles of Working Together to Safeguard Children (2018) from a multi-agency
-approach and make our commissioners aware of any signs of extremism or radicalisation in our
-young people or their families.
-
-Indicators of potential radicalisation could be:
-
-- Isolating themselves from family and friends
-
-- Talking as if from a scripted speech
-
-- Unwillingness or inability to discuss their views
-
-- A sudden disrespectful attitude towards others
-
-- Increased levels of anger
-
-- Increased secretiveness, especially around internet use
-
-If any young people are displaying these behaviours, it should be raised to Nudge Education's
-Safeguarding Team via the safeguarding concerns form which is on the front page of every
-intervention pack.
-
-This would also be reported on the safeguarding section of the Weekly Session Evaluations
-that would be sent to the commissioner. If it felt that the matter required more urgent
-escalation this would be passed on via phone and email to the commissioner. It would also
-require a Prevent Referral to be made to the local police. The responsibility for this would be
-agreed between the commissioner and Nudge Education.
-
-As part of every Nudge intervention, learning around relationships, sex, health and education
-(RSHE) is embedded and age appropriate for young people to promote British values.
-
-## 11. Health & Safety
-
-Nudge Education's Health and Safety Policy is documented in full separately and is focussed on
-ensuring that our young people and staff are kept safe as far as practicable whilst working with
-us. This covers a range of academic and therapeutic activities as well as undertaking
-educational trips and visits.
-
-A thorough and robust risk assessment is carried out for each external visit and event taking
-into consideration each young person's individual needs and requirements.
-
-All staff will be given thorough training prior to beginning an intervention which will cover
-Health and Safety, Child Protection, Safeguarding, First Aid, De-escalation training and positive
-behaviour support training like CPI safety intervention training when required.
-
-## 12. Female Genital Mutilation (FGM) mandatory reporting duty
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-FGM comprises all procedures involving partial or total removal of the external female genitalia
-or other injury to the female genital organs. It is illegal in the UK and a form of child abuse with
-long-lasting harmful consequences.
-
-In line with Section 5B of the Female Genital Mutilation Act 2003 (as amended by the Serious
-Crime Act 2015), there is a legal duty on teachers, including Nudge Education Practitioners, and
-other regulated health and social care professionals in England and Wales to report to the
-police where they personally identify that FGM appears to have been carried out on a girl
-under the age of 18. This may be through a direct disclosure from the child or through visual
-evidence.
-
-While it is rare for teachers or education practitioners to see visual signs of FGM, and they are
-not expected to conduct any form of examination, the same standard applies to all
-professionals under this mandatory duty.
-
-A failure to comply with this duty could result in disciplinary action.
-
-Clear guidance on when and how to make a report is available in the government's publication
-Mandatory reporting of female genital mutilation procedural information.
-
-Nudge Education Practitioners have a legal duty to make a direct report to the police if they
-personally suspect or discover that FGM appears to have been carried out on a girl under the
-age of 18. This includes situations where the practitioner has either been told by the individual
-or has observed clear physical signs.
-
-Where possible and appropriate, the practitioner should also discuss the case with their
-Regional Designated Safeguarding Lead (DSL) and involve children's social care, unless there is
-a good reason not to do so.
-
-This mandatory duty does not apply in cases where there is only a risk of FGM, or where FGM is
-suspected but not personally observed or disclosed. It also does not apply where the individual
-is 18 or over. In such circumstances, concerns must still be taken seriously and responded to in
-line with local safeguarding procedures.
-
-A helpful summary of the FGM mandatory reporting duty is available here:
-
-FGM mandatory reporting duty:
-
-## 13. Forced marriage
-
-Forcing someone into marriage is a crime in England and Wales. A forced marriage is one in
-which one or both people do not or cannot give their full and free consent — often due to
-threats, pressure, or abuse. Coercion can include physical violence, emotional manipulation,
-psychological pressure, or threats to the person or their loved ones.
-
-A person may also be unable to give consent if they lack the capacity to do so, for example due
-to learning disabilities or mental health difficulties. In some cases, religious or cultural
-expectations may be misused to justify coercion, making it difficult for the individual to speak
-out or seek help.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-Warning signs of forced marriage may include:
-
-- Sudden or extended absence from school, particularly overseas travel.
-
-- A decline in behaviour, performance, or engagement in education.
-
-- Family history of older siblings leaving education early or entering early marriage.
-
-- Evidence of self-harm, depression, or isolation.
-
-- Concerns expressed by the child about an upcoming family holiday or event.
-
-- Surveillance by siblings or family members, or restrictions on freedom and autonomy.
-
-- Fear of being disowned, threatened, or shamed by the family or community.
-
-Nudge Education has an important role to play in identifying and responding to concerns
-about forced marriage. Practitioners should be alert to warning signs and take disclosures
-seriously, recognising that victims may be at significant risk and face complex barriers to
-seeking help.
-
-Practitioners can refer to the Forced Marriage Unit's Multi-agency Guidelines (pages 32–36
-focus on the role of schools and colleges). For support or guidance, the Forced Marriage Unit
-can be contacted on 020 7008 0151 or by email at fmu@fco.gov.uk.
-
-## 14. Online safety
-The use of technology has become a significant component of many safeguarding issues. Child
-sexual exploitation, radicalisation, sexual predation: technology often provides the platform
-that facilitates harm.
-An effective approach to online safety empowers Nudge Education to protect and educate the
-whole organisation in their use of technology and establishes mechanisms to identify,
-intervene in and escalate any incident where appropriate.
-The breadth of issues classified within online safety is considerable, but can be categorised into
-three areas of risk:
-- Content: being exposed to illegal, inappropriate or harmful material, misinformation,
-disinformation (including fake news) and conspiracy theories.
-- Contact: being subjected to harmful online interaction with other users.
-- Conduct: personal online behaviour that increases the likelihood of, or causes, harm.
-
-Filters and monitoring
-
-While Nudge Education does not operate education centres or provide on-site IT access to
-children, our staff often work with children in home environments, public spaces, or
-community settings, sometimes using Nudge-owned devices or personal devices for
-educational or safeguarding purposes.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-In line with the expectations set out in KCSIE (2026), Nudge Education is committed to doing
-all that is reasonably possible to limit children's exposure to online risks, including those related
-to content, contact, conduct, and commerce.
-
-To ensure this:
-
-- Staff will receive guidance and training on safe internet use, including expectations
-around supervision and device use when working with children in public or domestic
-settings.
-
-- Practitioners must avoid using unfiltered or unsecured public Wi-Fi when working
-with children, and are encouraged to use trusted networks with secure settings and
-VPNs where necessary.
-
-- Staff using personal devices for work purposes must ensure they are appropriately
-secured, with up-to-date antivirus software, privacy settings enabled, and any relevant
-safeguarding features in place.
-
-- The organisation will review filtering and monitoring arrangements annually,
-ensuring they remain effective, proportionate, and appropriate to the nature of the work.
-
-Nudge Education will also take into account the age, needs, and context of children supported,
-as well as the frequency and type of digital engagement, when determining safeguarding
-measures.
-
-Further guidance on what constitutes "appropriate" filtering and monitoring is available from:
-
-- UK Safer Internet Centre: Appropriate Filtering and Monitoring
-
-- National Education Network (NEN): E-security guidance for education providers
-
-Use of mobile technology
-Many children have unlimited and unrestricted access to the internet and Nudge Education
-will carefully consider how this is managed whilst working with a young person.
-Whilst it is essential that we ensure that appropriate filters and monitoring systems are in
-place, we should be careful that "over blocking" does not lead to unreasonable restrictions as to
-what young people can be taught.
-It is generally suggested that due to the intensive nature of our delivery models, and the nature
-of the young people we work with, young people will not be allowed unsupervised access to
-ICT or mobile technology whilst on a session with Nudge Education.
-Nudge Education works with external partners to review data and information security which
-incorporates online safety during intervention work. Government guidance around filtering
-and        monitoring     provides     information     for       schools and      colleges:
-https://www.gov.uk/guidance/meeting-digital-and-technology-standards-in-schools-and-colleg
-es/filtering-and-monitoring-standards-for-schools-and-colleges .
-Where devices are owned and managed by Nudge Education, we ensure that software is
-updated regularly, age-appropriate filters are in place and also known websites that may look
-to exploit vulnerable young people to engage in abusive or extremist behaviours are blocked.
-We are currently looking to embed a wide-ranging digital strategy which will be informed in
-part by this guidance from the UK Safer Internet Centre:
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-https://d1xsi6mgo67kia.cloudfront.net/uploads/2023/05/Appropriate-Monitoring-for-Schools.pdf
-
-Use of generative Artificial Intelligence (AI)
-
-Purpose and Scope
-
-This policy applies to all staff and young people engaging with generative AI tools as part of
-their work. It governs:
-
-- The use of AI platforms (e.g. text generators, image creation tools, chatbots)
-- Young person exposure to or interaction with AI content
-- Data input into generative AI tools
-- Use of AI for lesson planning, behaviour support, or assessment
-AI use in any safeguarding, emotional support, or decision-making context must always be
-critically reviewed and monitored by qualified professionals
-
-Safeguarding Principles
-
-Nudge Education applies the following guiding principles when engaging with generative AI:
-
-## 1. Selective Use with Supervision
-Generative AI tools are not used freely or without oversight. Staff may use them for professional
-tasks such as drafting teaching materials, supporting planning, or modelling content for critical
-evaluation. Young people may only engage with AI tools in pre-approved, supervised contexts
-and with clear learning objectives.
-## 2. Managing Risk of Harmful Content
-Generative AI systems can produce inappropriate, offensive, or misleading outputs. We
-mitigate these risks through careful tool selection, the use of safety filters where available, and
-clear protocols for prompt review and reporting of any harmful content generated.
-## 3. Protection of Personal and Sensitive Data
-No personal, identifying, or sensitive information about young people, families, or staff is
-entered into generative AI systems unless specifically approved and anonymised. AI tools may
-not be used to process safeguarding data, case notes, or private records.
-
-## 4. Promoting Critical Thinking and Digital Literacy
-Young people and staff are supported to understand that AI-generated content may be
-inaccurate, biased, or lacking context. We promote critical questioning, fact-checking, and
-ethical reflection on the role of AI in influencing opinions or behaviour.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-## 5. Staff Training and Governance
-All staff will receive guidance on safe and ethical AI use, including risks related to data
-protection, safeguarding, and misinformation. Any new use of AI tools within practice is subject
-to approval by the Senior Leadership Team, and subject to a safeguarding risk assessment. As
-the field of AI is rapidly changing, updates will be issued as we are made aware of them from
-best practice in the sector.
-## 6. Regular Review and Adaptability
-Given the rapid development of AI technologies, this policy is reviewed quarterly. Any
-significant incidents involving AI misuse or emerging risks are escalated to the Safeguarding
-Team and factored into policy updates.
-
-Unacceptable Uses of Generative AI
-
-To protect young people and uphold safeguarding integrity, the following uses are explicitly
-prohibited:
-
-- Using AI tools to simulate or impersonate others
-- Creating content that may humiliate, shame, or target individuals
-- Using AI to make behavioural or mental health assessments
-- Submitting AI-generated content as authentic student work without transparency
-- Entering person-specific, sensitive information (e.g. safeguarding disclosures) into AI
-tools
-- Allowing unsupervised young person use of AI platforms
-
-Violations may result in removal of access, disciplinary action, and safeguarding review.
-
-Reporting and Response
-
-Any concerns regarding misuse, inappropriate outputs, or data breaches involving AI tools
-must be reported immediately to the Safeguarding Team. These incidents will be logged,
-reviewed, and, where necessary, reported to the relevant authorities including the Information
-Commissioner's Office (ICO). Young people will be supported with clear explanations and
-emotional containment if exposed to harmful AI content.
-
-Staff training & associate guidance
-The government guidance document "Teaching online safety in schools" (DfE 2020) is to be
-used and adapted to the style of delivery that Nudge Education employs (i.e, the variety of
-venues that are used to carry out education interventions should be risk assessed in the same
-way as a school or college would be).
-Nudge Education will ensure that, as part of the requirement for staff to undergo regularly
-updated safeguarding training (paragraph 64) and the requirement to ensure children are
-taught about safeguarding, including online (paragraph 68), that online safety training for staff
-is integrated, aligned and considered as part of the overarching safeguarding approach.
-Information and support. There is a wealth of information available to support schools and
-colleges to keep children safe online. The following is not exhaustive but should provide a
-useful starting point:
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-www.thinkuknow.co.uk
-www.disrespectnobody.co.uk
-www.saferinternet.org.uk
-www.internetmatters.org
-www.childnet.com/cyberbullying-guidance
-www.pshe-association.org.uk
-www.educateagainsthate.com
-www.gov.uk/government/publications/the-use-of-social-media-for-online-radicalisation
-Education for a connected world (UKCCIS 2020)
-
-## 15. Mental Health - This section has been informed by KCSIE 2026 Part One, paragraphs 45-48
-
-All staff have a duty of care to remain vigilant and supportive of students who may be
-experiencing mental health difficulties. While only trained professionals should diagnose
-specific mental health conditions, staff should be attentive to changes or patterns in a
-student's day-to-day behaviour that may indicate a need for mental health support. Where
-concerns arise, these should be recorded and shared appropriately, in line with safeguarding
-procedures.
-
-We have access to a range of courses that professionals should undertake in areas such as
-adverse childhood experiences, mental health in children and adolescents to raise their
-awareness in such matters.
-
-If there are any concerns regarding a young person's mental health, staff and associates should
-raise this immediately to their Education Intervention Co-ordinator (EIC) or the Regional
-Designated Safeguarding Lead (RDSL) at Nudge Education.
-
-This section is also linked to the anti-bullying section (8) of this policy
-
-https://www.gov.uk/government/publications/mental-health-and-behaviour-in-schools--2 is a
-school-specific guidance document that has some useful information that can be applied in
-Nudge Education interventions and Public Health England has also produced some materials
-for their 'Rise Above' initiative that students may find helpful. 
-
-## 16. Child Criminal Exploitation (CCE) & Child Sexual Exploitation (CSE)
-
-Some specific forms of CCE can include children being forced or manipulated into transporting
-drugs or money through county lines, shoplifting or pickpocketing. They can also be forced or
-manipulated into committing vehicle crime or threatening/committing serious violence to
-others.
-Children can become trapped by this type of exploitation as perpetrators can threaten victims
-(and their families) with violence, or entrap and coerce them into debt. They may be coerced
-into carrying weapons such as knives or begin to carry a knife for a sense of protection from
-harm from others. As children involved in criminal exploitation often commit crimes
-themselves, their vulnerability as victims is not always recognised by adults and professionals,
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-(particularly older children), and they are not treated as victims despite the harm they have
-experienced. They may still have been criminally exploited even if the activity appears to be
-something they have agreed or consented to.
-It is important to note that the experience of girls who are criminally exploited can be very
-different to that of boys. The indicators may not be the same, however professionals should be
-aware that girls are at risk of criminal exploitation too. It is also important to note that both
-boys and girls being criminally exploited may be at higher risk of sexual exploitation.
-Some indicators of CCE and CSE are below, we recommend that all staff remain alert for these
-signs and also seek out additional support and training for further clarity from the NDSL/RDSL:
-- The young person may suffer from changes in mood and emotional wellbeing
-- A young person may misuse drugs and alcohol
-- They may go missing for periods of time or regularly come home late
-- Young people may regularly miss school, education or Nudge sessions
-- They may receive unexplained gifts, money or new possessions
-- Young people may also associate with other children involved in exploitation
-Young people who have been exploited will need additional support to help engage with
-education. CSE can be a one-off occurrence or a series of incidents over time, and range from
-opportunistic to complex organised abuse. It can involve force and/or enticement-based
-methods of compliance and may, or may not, be accompanied by violence or threats of
-violence.
-Some additional specific indicators that may be present in CSE are children who:
-- Have older boyfriends or girlfriends
-- Suffer from sexually transmitted infections
-- Display sexual behaviours beyond expected sexual development or become pregnant
-Further information on signs of a child's involvement in sexual exploitation is available in Home
-Office guidance: Child sexual exploitation: guide for practitioners
-This comes under the banner of contextual safeguarding, i.e. safeguarding concerns that occur
-outside the home or school. More information is here: https://contextualsafeguarding.org.uk/
-Advice and guidance around teaching of Relationships, Sex and Health (RSHE) is available here:
-https://www.gov.uk/guidance/teaching-about-relationships-sex-and-health
-In addition, research has shown that there are additional factors that may increase involvement
-in serious violence, these are:
-- Being male
-- Having been frequently absent or permanently excluded from school
-- Having experienced child maltreatment
-- Having been involved in offending, such as theft or robbery
-
-On a separate note, in line with KCSIE 2026, should a young person in our care be required to
-be interviewed by police, we must ensure that there is an appropriate adult in place
-throughout the interview. This can be a staff member of Nudge Education, but in the first
-instance we should contact the commissioner to identify a more suitable advocate such as a
-parent, carer or social worker.
-https://www.gov.uk/government/publications/pace-code-c-2019/pace-code-c-2019-accessible
-lays out the role a person takes when nominated as the appropriate adult.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-This process will also be followed should a young person under our care be required to be
-searched by police.
-
-## 17. Safeguarding of Adults
-
-Nudge Education primarily supports young people under the age of 18. In line with our
-safeguarding policy, no session will take place in a home environment unless another
-responsible adult is present with the young person.
-
-However, there may be occasions where a practitioner delivers support in a home where
-vulnerable adults are also present, or where the young person is over the age of 18. In such
-cases, safeguarding protocols may differ from those that apply to children and young people.
-Practitioners must be aware of, and follow, the relevant adult safeguarding procedures.
-
-Each local authority has its own safeguarding guidance and reporting protocols for adults.
-Practitioners are expected to familiarise themselves with the local procedures for the area they
-are working in.
-
-## 18. Domestic Violence/Abuse
-
-In line with KCSIE 2026, we know that research shows an increase in reported cases
-of domestic violence in recent years. The impact and trauma that this causes to a young
-person can be significant:
-
-"Domestic abuse…can [be] psychological, physical, sexual, financial or emotional. Children can
-be victims of domestic abuse. They may see, hear or experience the effects of abuse at home
-and/or suffer domestic abuse in their own intimate relationships (teenage relationship abuse).
-All of which can have a detrimental and long-term impact on their health, well-being,
-development, and ability to learn."
-
-KCSIE 2026, Part One
-
-In adult safeguarding there are ten types of abuse in comparison to the five under Children's
-safeguarding protocols. These are:
-
-- Physical
-- Sexual
-- Psychological/Emotional
-- Financial
-- Neglect
-- Self-Neglect
-- Organisational (i.e. care homes)
-- Discriminatory
-- Modern slavery
-- Domestic
-
-Any staff member that has direct contact with vulnerable adults via telephone or face-to-face
-meetings needs to undertake the "Safeguarding Vulnerable Adults" course via the Educare
-Portal. It is recommended that all staff and associates should undertake this training to
-improve their practice and knowledge on the subject.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-An Education Intervention Co-ordinator (EIC) will have the information for the local adult
-safeguarding partnership in the area you are working in, and should be contacted if more
-information is needed.
-
-## 19. LGBTQIA+ Young People
-
-Keeping Children Safe in Education uses the phrase "children who are lesbian, gay,
-bisexual, or gender questioning" (terminology adopted in a recent edition and retained in
-KCSIE 2026). This reflects current language in safeguarding and educational contexts.
-
-At Nudge Education, safeguarding policies and staff training reflect the importance of
-recognising and responding appropriately to the needs of all children and young people,
-including those who identify as LGBTQIA+ or who may be perceived as such.
-
-While identifying as LGBTQIA+ is not, in itself, a risk factor for harm, evidence indicates that
-LGBTQIA+ children and young people may face increased risks of bullying, discrimination, or
-social isolation. Additionally, children who are perceived to be LGBTQIA+ — regardless of
-whether this is accurate — may also be targeted.
-
-Safeguarding risks may be heightened where a child does not have access to a trusted adult or
-feels unable to speak openly about their identity or experiences. Staff should be aware of these
-potential vulnerabilities and take appropriate steps to ensure all young people are listened to,
-supported, and protected from harm.
-
-All senior staff at Nudge Education have completed training relating to LGBTQIA+ inclusion
-and safeguarding.
-
-## 20. Recruitment Considerations
-
-Nudge Education is committed to safeguarding and promoting the welfare of children and
-young people. As part of this commitment, we implement rigorous safer recruitment
-processes to ensure that all individuals working with or on behalf of Nudge Education are
-suitable, skilled, and aligned with our values and safeguarding responsibilities.
-
-In accordance with our Safer Recruitment Policy, all staff and practitioners undergo
-comprehensive pre-employment checks, including references, identity verification, enhanced
-DBS checks, and where applicable, checks on overseas criminal records. We also assess
-applicants' suitability to work with children and young people through values-based interviews
-and scenario-based safeguarding questions.
-
-As an additional safeguarding measure, Nudge Education may carry out a review of publicly
-available social media profiles and online activity for individuals being considered for roles
-involving direct contact with young people. This is to ensure that their public online presence
-reflects the professional and ethical standards expected in safeguarding roles and does not
-raise concerns about their suitability.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-If concerns arise from online content that may indicate a risk to the safety or welfare of children
-or vulnerable adults, this information may trigger a safeguarding investigation and/or be
-addressed through our disciplinary procedures, in line with both our Safeguarding and Child
-Protection Policy and Safer Recruitment Policy.
-
-All staff are reminded that their conduct online, even outside of work, must remain consistent
-with their safeguarding responsibilities and the standards outlined in the Staff Code of
-Conduct.
-
-## 21. Data Protection
-
-Nudge Education has a robust Data Protection Policy in place and works with external partners
-to identify improvements in how data is processed and managed across the organisation. In
-line with KCSIE 2026, we are committed to aligning with Government guidance on data
-protection in school with updating our processes and information governance to ensure that
-all staff throughout Nudge Education are aware of their responsibilities regarding data
-protection and processing.
-
-## 22. Contextual Safeguarding
-
-Throughout this policy, the focus around safeguarding young people within Nudge Education
-is directed towards working with young people in their environment, usually outside of school.
-This gives us a very privileged position as we get to work closely with young people and their
-families, and we are able to gain a vantage point to understand any contextual safeguarding
-concerns that may arise whilst we are working with them.
-
-All of our operational staff are trained in identifying contextual safeguarding concerns and
-reporting them to the relevant authorities, as outlined in Annex A : Safeguarding Flowchart.
-
-Some useful resources that we would refer to would regarding contextual safeguarding listed
-below:
-
-https://www.contextualsafeguarding.org.uk/
-
-https://learning.nspcc.org.uk/news/2019/october/what-is-contextual-safeguarding
-
-Annexes are located on subsequent pages
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-ANNEX A: Safeguarding Flowchart
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-Practitioner Simple reporting process:
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-ANNEX B: Process to follow in incident of direct disclosure
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-ANNEX C: Safeguarding reporting procedure guidance for staff
-All concerns are taken seriously. Below is an indication of the types of concerns that may
-appear and the relevant actions to take in each situation. Many of the lower risk concerns may
-be concurrent or indicative of higher risk concerns so if in doubt, speak to the Regional DSL or
-Education Intervention Co-ordinator (EIC).
-
-LOW RISK CONCERNS
-To be communicated in weekly report
-
-- Dirty clothes/appearance
-- Concerns around cleanliness of home
-- Verbal aggression towards Practitioner
-- Verbal disclosure of past engagement in risk taking behaviour
-- Vandalism - personal and Practitioner's possessions
-- Concerns around eating habits
-- Concerns around sleeping patterns
-- Concerns around lifestyle choices e.g. social choices/personal hygiene/smoking/vaping
-- Concerns around unhealthy or negative peer relationships
-
-MEDIUM RISK CONCERNS
-To be communicated on the day via email to commissioner and team around the student
-
-- Absence through refusal
-- Absence through illness
-- Absconding but student was found during session following absconding guidelines
-- Concerns around neglect from parent/guardian
-- Physical aggression by young person towards Practitioner(s)
-- Verbal aggression to a member of the public
-- CPI restraint technique used with young person
-- Verbal disclosure of intent to cause harm or engage in risk taking behaviour
-- Vandalism of public property
-- Concerns around emotional abuse from parent/guardian
-- Parent/guardian preventing young person from accessing education
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-HIGH RISK CONCERNS
-Immediate concerns around immediate safety of young person from themselves,family
-members, care team, professionals or peers should be escalated to Commissioner "Front Door
-Service" via phone & email as soon as possible. Also inform the regional DSL
-
-We will take appropriate action based on advice received through direct communication with
-the commissioner, via phone or email. Where relevant, we will also liaise with the wider team
-around the family including social workers, parents or carers, and CYPS (Children and Young
-People's Services) practitioners.
-
-Inclusive but NOT exhaustive:
-
-- Concerns around physical/sexual abuse towards young person
-- Concerns around domestic violence
-- Concerning bruising/marks on young person
-- Suicidal behaviour
-- Absconding and young person not found before end of session
-- Physical aggression by a young person towards a member of the public during
-commissioned hours
-- Refusal to go home after session
-
-WHO DO WE REPORT TO?
-
-YP    LIVING    WITH YP LIVING WITH FOSTER YP LIVING IN CARE HOME
-PARENT/GUARDIAN      CARER
-
-LOW: Weekly Session                  LOW: Weekly Session          LOW: Weekly Session
-Evaluation emailed to                Evaluation emailed to        Evaluation emailed to
-specified contacts as per            specified contacts as per    specified contacts as per
-individual commission.               individual commission.       individual commission.
-
-MEDIUM: Same day email               MEDIUM: Same day email       MEDIUM: Same day email
-to commissioner.                     to commissioner and          to commissioner and
-Social Worker.               Social Worker.
-
-HIGH:Phone call to           HIGH: Phone call to
-HIGH: Phone call to                  commissioner and social      commissioner and social
-commissioner Follow up               services. Follow up with     services. Follow up with
-with email. Alert                    email. Alert additional      email. Alert additional
-additional services as               services as required - 999   services as required - 999
-required - 999 or
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-Emergency social services            or Emergency services.       or Emergency services.
-number.
-
-ANNEX D: Expected action taken from all staff
-
-Although the type of abuse may have a varying effect on the victim and initiator of the harm,
-these simple steps can help clarify the situation and establish the facts before deciding the
-consequences for those involved in perpetrating harm.
-
-It is important to deal with a situation of peer abuse immediately and sensitively. It is necessary
-to gather the information as soon as possible to get the facts around what has occurred as
-soon after the child(ren) may have forgotten. It is equally important to deal with it sensitively
-and think about the language used and the impact of that language on both the children and
-the parents/carers when they become involved. For example, do not use the word perpetrator,
-this can quickly create a 'blame' culture.
-
-In all cases of child-on-child abuse it is necessary that all staff talk to young people and
-instigate immediate support in a calm and consistent manner. Staff should not be prejudiced,
-judgemental, dismissive or irresponsible in dealing with such sensitive matters. Support on
-how to do this can be sought from Regional DSLs, and Assistant Regional Leads
-
-- Gather the Facts: gain a statement of facts from them and use consistent language and
-open questions for each account. The easiest way to do this is not to have a line of
-questioning, but to ask the young people to tell you what happened. Only interrupt the
-young person from this to gain clarity with open questions, 'where, when, why, who'.
-(What happened? Who observed the incident? What was seen? What was heard? Did
-anyone intervene?)
-- Consider the Intent: begin to risk assess. Has this been a deliberate or contrived situation
-for a young person to be able to harm another?
-- Decide on your next course of action
-
-If, from the information that you gather you believe any young person to be at risk of
-significant harm you must report this to your nominated Education Intervention Co-ordinator
-(EIC) or Regional DSL for the region if you cannot get in touch with Education Intervention
-Co-ordinator, who will make a safeguarding referral to the commissioner, and if necessary,
-Social Services immediately. Where a crime has been committed, the police should be involved
-also. If this is the case, once the commissioner has been contacted and made a decision on
-what will happen next then you will be informed on your next steps.
-
-The Regional DSL will review all safeguarding reports.
-
-If Social Services and the police intend to pursue this further they may ask to interview the
-young people in education It is important to be prepared for every situation and the potential
-time it may take.
-
-Points to consider:
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-What are the ages of the children involved?
-
-How old are the young people involved in the incident and is there any age difference between
-those involved? (In relation to sexual exploration, children under the age of 5, in particular 1-4
-year olds who are learning toileting skills may show a particular interest in exploration at
-around this stage. This, however, should not be overlooked if other issues arise (see following).
-
-Where did the incident or incidents take place?
-
-Was the incident in an open, visible place to others? If so, was it observed? If not, is more
-supervision required within this particular area?
-
-What is the young person's own understanding of what occurred?
-
-Does the young person know/understand what they are doing? E.g. do they have knowledge of
-body parts, of privacy and that it is inappropriate to touch? Is the young person's explanation in
-relation to something they may have heard or been learning about that has prompted the
-behaviour? Is the behaviour deliberate and contrived? Does the young person have an
-understanding of the impact of their behaviour on the other person?
-
-In dealing with an incident of this nature the answers are not always clear cut. If you are
-concerned or unsure as to whether or not there is any risk involved, please seek advice from
-Children's Services Social Care.
-
-Repetition
-
-Has the behaviour been repeated to an individual on more than one occasion? In the same
-way it must be considered, has the behaviour persisted to an individual after the issue has
-already been discussed or dealt with and appropriately resolved?
-
-Next Steps
-
-Once the outcome of the incident(s) has been established it is necessary to ensure future
-incidents of abuse do not occur again and consider the support and intervention required for
-those involved.
-
-If it has been the young person who has been harmed
-
-What support they require depends on the individual young person. It may be that they wish
-to seek counselling. It may also be that they feel able to deal with the incident(s) on their own
-or with support of family and friends. In which case it is necessary that this young person
-continues to be monitored and offered support should they require it in the future. If the
-incidents are of a bullying nature, the young person may need support in improving peer
-groups/relationships with other young people as a focus on the intervention that is being
-delivered by Nudge Education.
-
-If the young person feels particularly vulnerable it may be that a risk assessment can be put in
-place for them whilst on an intervention with Nudge Education so that they have someone
-named that they can talk to, support strategies for managing future issues and identified
-services to offer additional support.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-If it was the young person who has displayed harmful behaviour
-
-In this circumstance it is important to find out why the young person has behaved in such a
-way. It may be that the young person is experiencing their own difficulties and may even have
-harmed themselves in a similar way. In such cases support such as counselling may also be
-necessary. Particular support from identified services may be necessary through a
-CAF/strengthening families/early help referral and the young person may require additional
-support from family members.
-
-Once the support required to meet the individual needs of the young person has been met,
-Nudge Education may help facilitate a restorative justice exercise at the request of the
-commissioner. In the cases of sexually harmful behaviour it may be a requirement for the
-young person to engage in 1:1 work with a particular service or agency (if a crime has been
-committed this may be through the police or youth offending service).
-
-Even following the conclusion of any investigation the behaviour that the young person has
-displayed may continue to pose a risk to others in which case an individual risk assessment
-may be required. This should be completed via a multi-agency response to ensure that the
-needs of the young person and the risks towards others are measured by all of those agencies
-involved including the young person and their parents. This may mean increasing the staffing
-ratio of the young person or protective strategies if the young person feels at risk of engaging
-in further inappropriate or harmful behaviour.
-
-After-care
-
-It is important that following the incident the young people involved continue to feel
-supported and receive help even if they have stated that they are managing the incident.
-Sometimes the feelings of remorse, regret or unhappiness may occur at a much later stage
-than the incident. It is important to ensure that the young people do not engage in any further
-harmful behaviour either towards someone else or to themselves as a way of coping (e.g.
-self-harm). In which case, regular reviews with the young people following the incident(s) are
-imperative.
-
-Preventative Strategies
-
-It is important to develop appropriate strategies in order to prevent the issue of child-on-child
-abuse rather than manage the issues in a reactive way. This will be done by thorough ongoing
-assessment and feedback involving all appropriate professionals and stakeholders.
-
-- Firstly, recognition that child-on-child abuse can occur on any site even with the most
-stringent of policies and support mechanisms. In which case it is important to continue
-to recognise and manage such risks and learn how to improve and move forward with
-strategies in order to support young people to talk about any issues and through sharing
-information with relevant staff.
-- Nudge Education has an open environment where young people feel safe to share
-information about anything that is upsetting or worrying them. This can be
-strengthened through strong and positive PHSE/SMSC activities and projects that
-tackle such issues as prejudiced behaviour and gives children an open forum to talk
-things through. With the UK Government making it compulsory to teach young people
-about Relationships Education for primary-aged children and Relationships and Sex
-Education (RSE) for secondary-aged children from September 2020 (Guidance
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-Document here), it will be at the heart of our interventions to ensure that young people
-have relevant opportunities to learn and discuss relationships and sex in an open forum
-to ensure that respect and understanding is fostered. Should any safeguarding concerns
-arise as a result of these conversations, relevant stakeholders will be informed, should it
-be judged that the young person will not be put at further risk of harm by doing so.
-- To enable such an open and honest environment it is necessary to ensure the whole
-workforce feels confident and enabled to talk about issues and challenge perceptions of
-young people including use of inappropriate language and behaviour towards one
-another. In order to create such an environment, it is necessary for all staff to be trained
-and CPD around abusive behaviours and talking to young people in a way that
-continues to create an open and honest environment without prejudice. It is incredibly
-important that staff do not dismiss issues as 'banter' or 'growing up' or compare them to
-their own experiences of childhood. It is necessary that staff consider each issue and
-each individual in their own right before taking action. If staff minimise the concerns
-raised it may result in a young person seeking no further help or advice.
-- It is important that signposting is available to young people in the event that they don't
-feel confident raising an issue to staff or a peer. It is useful to have a resource board with
-support services on a wide range of issues so young people can seek their own solutions
-should they wish to. In the same way external services or support programmes could be
-brought in to talk to young people about specific issues in support of the prevention of
-child-on-child abuse.
-- Finally, it is useful to ensure young people are part of changing their circumstances and
-that of the procedures within communities and the wider environment.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-ANNEX E: Children Missing Education Process
-
-As an organisation that aims to serve children that are chronically disengaged from education,
-our thresholds for what constitutes 'missing from education' differs from schools and statutory
-settings, however, as part of a team of stakeholders that are working to safeguard children
-from harm we take any intervention that we are unable to secure engagement very seriously.
-
-We have taken best practice examples from existing commissioner policies as well as
-Government Guidance: Children Missing Education and Missing Children and Adults Strategy
-
-We find there are several reasons why a child would persistently be absent from our sessions:
-
-SAFEGUARDING CONCERNS
-
-Non-attendance to sessions may be a warning sign of safeguarding concerns such as neglect,
-abuse or exploitation. Where we are unable to physically see or speak with a young person for
-two calendar weeks, then a safeguarding concern should be raised unless we have prior
-information from a commissioner or appropriate person (e.g youth justice, CAMHS
-professional) confirming this would be unnecessary. In this instance, the process in Annex A as
-per any safeguarding concern would be followed.
-
-PARENTAL SUPERVISION/ENGAGEMENT
-
-Where we can ascertain that non-engagement is due to parental engagement and we do not
-feel that this is a safeguarding concern the following process would be followed:
-
-1. Education Intervention Co-ordinator (EIC) to report non-engagement and attendance to
-the commissioner.
-2. Where advised, we will also reach out to the relevant Children Missing Education(CME)
-officer in the Local Authority.
-3. We will work with parents/carers to help promote positive modelling of the education
-intervention process.
-
-CHANGE OF ADDRESS
-
-This is particularly common where we work with Looked-After Children (LAC) or those with
-known, live safeguarding concerns.
-
-Where we are unable to access a young person at the registered home address for two
-consecutive sessions, or where we find out that the young person address has changed, we
-will:
-
-1. Collect new address where possible and collect name and contact details of person who
-gives us this information and pass this on to the commissioner.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-2. Check with the commissioner that they have updated information which would allow us
-to continue the intervention.
-3. If neither Nudge Education or the commissioner has the updated address information,
-we will follow the commissioner's Child Missing Education policy.
-4. If we are able to continue with current practitioner then this will be arranged, if the child
-has moved out of the local area, online support will be offered until we can find a new
-member of staff, should this support be needed.
-
-Nudge Education Child Protection and Safeguarding Policy Dec 25
-
----
+- Local multi-agency safeguarding arrangements and commissioner procedures
 
 ## NEO Online Addendum
 
@@ -1711,7 +1126,7 @@ Updated to Keeping Children Safe in Education 2026 (in force 1 September 2026) o
 
 | Field | Value |
 |---|---|
-| Version | Dec 2025 (NEO addendum v07.26) |
-| Owner | DSL |
+| Version | Sept 2026 (NEO addendum v07.26) |
+| Owner | National DSL |
 | Status | live |
-| Source file | `5. Nudge Education - Documentation for Commissioning Purposes/Nudge Education Child Protection and Safeguarding Policy December 25 (3).pdf` |
+| Source file | `5. Nudge Education - Documentation for Commissioning Purposes/Sept 2026 Nudge Education Safeguarding Policy (Including Child Protection) .pdf` |

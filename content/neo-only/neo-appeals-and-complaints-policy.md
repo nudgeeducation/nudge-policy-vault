@@ -5,19 +5,20 @@ groups: [all-staff, qualified-teachers, learners, parents-carers, commissioners]
 provision: neo
 type: standalone-neo
 status: live
-version: v08.26
-review_date: 2027-08
+version: v09.26
+review_date: 2027-09
 owner_role: Director NEO & Head of School
 neo_addendum: false
-last_reviewed: 2026-08
-source_file: NEO Policies/NEO - Appeals and Complaints Policy v08.26.docx
+last_reviewed: 2026-09
+related_policies: [complaints-policy, neo-home-school-agreement, neo-terms-and-conditions-parents-carers, neo-appeals-procedure]
+source_file: NEO Policies/NEO - Appeals and Complaints Policy v09.26.docx
 ---
-| **Date**        | August 2026                   |
+| **Date**        | September 2026                |
 |-----------------|-------------------------------|
-| **Review Date** | August 2027                   |
+| **Review Date** | September 2027                |
 | **Owner**       | Director NEO & Head of School |
 | **Approved by** | Diego Melo, Proprietor        |
-| **Version**     | v08.26                        |
+| **Version**     | v09.26                        |
 
 *A fully online school for learners aged 11–18*
 
@@ -56,12 +57,16 @@ Concerns can be raised with the relevant member of staff, the learner's named Pr
 
 ### 4.2 The stages
 
-| **Stage**                          | **What happens**                                                                                                                                                                                                                                                                                                                                                                          |
-|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Informal resolution                | The concern is acknowledged within two working days and resolved as quickly as possible through dialogue, with the family kept informed throughout.                                                                                                                                                                                                                                       |
-| Stage 1 — Formal written complaint | A written complaint to the Director NEO & Head of School (or nominated senior member of staff). Acknowledged within five working days; investigated by someone independent of the matter; a written outcome — upheld, partially upheld or not upheld — with reasons within 20 working days.                                                                                               |
-| Stage 2 — Panel hearing            | If dissatisfied, the complainant may request a hearing before a panel of at least three people, including one member independent of NEO's management and governance. Hearing within 20 working days of the request; written decision within 10 working days of the hearing.                                                                                                               |
-| External escalation                | If still unresolved: the commissioning body (for commissioned places); the Local Authority Designated Officer (LADO) for concerns about the conduct of staff towards a young person; or the Information Commissioner's Office (ICO) for data protection matters. During the pre-accreditation period NEO also welcomes concerns being copied to the commissioning authority at any stage. |
+NEO follows the Nudge Education [[../01-all-company/complaints-policy|Complaints Policy]] (September 2026): one formal outcome, then one review.
+
+| **Stage** | **What happens** |
+|---|---|
+| Early resolution | The concern is acknowledged within two working days and resolved as quickly as possible through conversation, with the family kept informed throughout. |
+| Formal complaint | A written complaint to talktonudge@nudgeeducation.co.uk or by post. Acknowledged within five working days; investigated by someone not directly involved; decided by the Director NEO & Head of School (or a nominated senior colleague). A written outcome, with reasons and any actions, normally within 15 working days. |
+| Review | If still dissatisfied, the complainant may ask for one review, in writing, within 10 working days of the outcome, saying why it should be reviewed. At NEO the review is carried out by a panel of at least three people not involved in the original investigation, at least one of whom is independent of NEO's management and running. The complainant may attend and be accompanied. A written final response normally within 15 working days of the request. |
+| External escalation | Once the review has concluded: the commissioning body (for commissioned places); the Local Authority Designated Officer (LADO) for concerns about the conduct of an adult towards a young person; or the Information Commissioner's Office (ICO) for data protection matters. During the pre-accreditation period NEO also welcomes concerns being copied to the commissioning authority at any stage. |
+
+Where a timescale cannot be met, the complainant is told why and given an expected date.
 
 Complaints about the Proprietor are raised in writing to the Designated Safeguarding Lead, who determines independently how the complaint is investigated. Complaints about the Director NEO & Head of School are raised in writing to the Proprietor. Where a complaint concerns the commissioning body itself rather than the school, the complainant is directed to that body.
 
@@ -89,7 +94,7 @@ A written log of all formal complaints and appeals, their handling and their out
 | **Role**                       | **Responsibility**                                                                                                    |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | Proprietor                     | Overall accountability; receives complaints about the Director NEO & Head of School; sighted on outcomes and themes.  |
-| Director NEO & Head of School  | Owns this policy; decides Stage 1 complaints and entry/tier/access-arrangement appeals; convenes Stage 2 panels.      |
+| Director NEO & Head of School  | Owns this policy; decides formal complaints and entry/tier/access-arrangement appeals; convenes review panels.      |
 | Designated Safeguarding Lead   | Receives safeguarding concerns directly; determines the handling of complaints about the Proprietor.                  |
 | Exams Officer                  | First point of contact for all examination and assessment appeals; deadlines, records and post-results co-ordination. |
 | Practitioner-Mentors and staff | First port of call for informal concerns; early, honest resolution wherever possible.                                 |
@@ -108,3 +113,10 @@ This policy and the documents it incorporates are published and available to lea
 ## 10. Review
 
 This policy is reviewed annually by the Director NEO & Head of School, alongside the Complaints Policy and Appeals Procedure, and whenever the school's procedures, JCQ regulations or awarding organisation requirements change.
+
+## 11. Document Control
+
+| **Version** | **Date** | **Changes** |
+|---|---|---|
+| v08.26 | August 2026 | First combined appeals and complaints policy. |
+| v09.26 | September 2026 | Complaints route re-aligned with the Nudge Education Complaints Policy v2.0: one formal outcome and one review replace Stage 1 / Stage 2; outcome and review each normally within 15 working days; 10 working days to request a review. NEO's review keeps a panel with an independent member. |

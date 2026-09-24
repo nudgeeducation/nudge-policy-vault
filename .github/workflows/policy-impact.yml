@@ -1,0 +1,41 @@
+name: Policy impact alert
+
+# When a policy changes on main, open a GitHub issue listing the other published
+# policies linked to it, grouped by owner role, and flag any that still use wording
+# the change removed. The issue is assigned to the policy-site owner, so GitHub
+# emails them. Script: scripts/policy_impact.py
+
+on:
+  push:
+    branches: [main]
+    paths: ["content/**.md"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+env:
+  ALERT_ASSIGNEE: lilithandeve
+
+jobs:
+  impact:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Work out which policies are affected
+        run: python3 scripts/policy_impact.py "${{ github.event.before }}" "${{ github.sha }}" > impact.md
+      - name: Open an issue (GitHub emails the assignee)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ ! -s impact.md ]; then echo "No linked policies affected."; exit 0; fi
+          gh label create policy-impact --color 2AB3A0 --description "Linked policies to check after a change" --force
+          changed=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- content | grep '\.md$' | grep -v -E '(index|change-log)\.md$' | xargs -n1 basename | sed 's/\.md$//' | paste -sd ',' - | sed 's/,/, /g')
+          gh issue create \
+            --title "Policy change ${GITHUB_SHA::7}: check linked policies (${changed})" \
+            --body-file impact.md \
+            --label policy-impact \
+            --assignee "$ALERT_ASSIGNEE"

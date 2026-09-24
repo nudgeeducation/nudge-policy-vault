@@ -9,6 +9,7 @@ version: v09.26
 owner_role: Director NEO & Head of School
 neo_addendum: false
 source_file: NEO Policies/NEO - Home-School Agreement v09.26.docx
+related_policies: [complaints-policy, neo-appeals-and-complaints-policy, neo-terms-and-conditions-parents-carers, neo-withdrawal-policy, child-protection-and-safeguarding-policy]
 ---
 > **Operated by:** Nudge Education Ltd · **Version:** v09.26 · **Owner:** Director NEO & Head of School
 
@@ -98,7 +99,7 @@ As a parent or carer of a NEO learner, I will:
 
 If anyone feels this agreement is not being honoured, talk to the Practitioner-Mentor or the Head of School first; most things are resolved there. A concern raised informally is acknowledged within two working days.
 
-If that does not settle it, the [[neo-appeals-and-complaints-policy|NEO Appeals and Complaints Policy]] applies. A formal written complaint is acknowledged within five working days and answered in writing, with reasons, within 20 working days. Complaints can be sent to talktonudge@nudgeeducation.co.uk. Concerns about personal information can go to privacy@nudgeeducation.co.uk at any time.
+If that does not settle it, the [[neo-appeals-and-complaints-policy|NEO Appeals and Complaints Policy]] applies. A formal written complaint is acknowledged within five working days and answered in writing, with reasons, normally within 15 working days. If you are still unhappy, you can ask for one review within 10 working days of that answer; it is carried out by a panel that includes someone independent of NEO's management, and you receive a final written response normally within 15 working days. Complaints can be sent to talktonudge@nudgeeducation.co.uk. Concerns about personal information can go to privacy@nudgeeducation.co.uk at any time.
 
 Safeguarding concerns are handled separately, straight away, under the [[child-protection-and-safeguarding-policy|Child Protection and Safeguarding Policy]].
 
@@ -134,6 +135,7 @@ Safeguarding concerns are handled separately, straight away, under the [[child-p
 | Next Review | September 2027 |
 | Owner | Director, Nudge Education Online & Head of School |
 | Approver | Proprietor (Diego Melo) |
+| Amended | 24 September 2026 — section 6 complaint timescales aligned with the Nudge Education Complaints Policy v2.0 (outcome and review each within 15 working days; one review, by a panel with an independent member) |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 | Changes | Aligned with the Terms and Conditions for Parents and Carers and the Billing and Payment Rules v0.3: contract relationship, notice, payment, VAT, home environment, devices, recordings, missed lessons, complaints timeframes and children missing education. Signing moved to the electronic Parent and Carer Agreement. Terminology updated to Practitioner-Mentor. |
 

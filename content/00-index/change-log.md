@@ -8,6 +8,15 @@ status: live
 ---
 A running log of structural changes, policy additions, and version uplifts.
 
+## 2026-09-24 — Complaints re-aligned; Safeguarding Sept 2026; policy impact alerts
+
+- **Complaints Policy** replaced with the Nudge Education **Sept 2026 v2.0** (Executive Team approval 23 September 2026; Service Director sign-off date to be confirmed): one formal outcome, then one review, replacing the three stages; outcome and review each normally within 15 working days; 10 working days to request a review. Owner now Service Director
+- **NEO complaints procedure** (addendum to the Complaints Policy) rewritten as v09.26 to follow the Nudge structure and timescales. NEO's review keeps a panel of at least three with a member independent of NEO's management, as a safeguard for OEAS
+- **NEO Appeals and Complaints Policy** uplifted to v09.26 (complaints route re-aligned; appeals route unchanged). **NEO Home-School Agreement** v09.26 amended 24 September 2026: section 6 timescales aligned
+- **Child Protection and Safeguarding Policy**: canonical policy replaced with the **Sept 2026 Nudge Education Safeguarding Policy (Including Child Protection)** — a full rewrite (29 sections and five annexes). Staff contact details replaced with role titles; the Annex 4 table was rebuilt from a garbled PDF extraction and should be checked against the source. NEO Online Addendum v07.26 unchanged (DSL countersignature still pending)
+- **Policy impact alerts**: new workflow (`.github/workflows/policy-impact.yml`, `scripts/policy_impact.py`). When a policy changes, a GitHub issue lists the published policies linked to it (by wikilink or `related_policies` front-matter), grouped by owner role, and flags any that still use timescales or stage names the change removed. The issue is assigned to the policy-site owner, so GitHub emails them. `related_policies` added to the four policies above
+- Known follow-up: **NEO Terms and Conditions for Parents and Carers** §11.2 still states 20 working days and a panel hearing — to update with the pending Billing Rules edits
+
 ## 2026-09-23 — NEO Home-School Agreement v09.26
 
 - **NEO Home-School Agreement** uplifted from v04.26 to **v09.26** (Proprietor-approved, September 2026) and aligned with the NEO Terms and Conditions for Parents and Carers and the Billing and Payment Rules v0.3: which Terms form the contract (Parents & Carers vs Commissioned), and that the Terms prevail on fees, payment, notice and ending a placement; notice one calendar month from receipt, email is enough; monthly-in-advance direct debit and VAT; home-environment duties (responsible adult, safe space, smoke alarm); NEO device return within 14 days; missed lessons not rescheduled; lesson-recording commitment; complaints timeframes; children-missing-education notification; under-13 consent

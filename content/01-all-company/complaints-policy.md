@@ -5,363 +5,246 @@ groups: [all-staff, commissioners, parents-carers]
 provision: all
 type: core
 status: live
-version: Jul 2026
-owner_role: Director of Operations
+version: Sept 2026 v2.0 (NEO addendum v09.26)
+owner_role: Service Director
 neo_addendum: true
-source_file: 1. All Company/Complaints Policy - Dec 25.docx (2).pdf
+source_file: Draft Complaints Policy & Procedure Sept 2026 (Google Doc, Exec-approved 23 Sep 2026)
+related_policies: [neo-appeals-and-complaints-policy, neo-home-school-agreement, neo-terms-and-conditions-parents-carers, neo-terms-of-business-commissioned, child-protection-and-safeguarding-policy, whistleblowing-policy, grievance-and-dispute-policy, data-protection-and-information-security]
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** Jul 2026 · **Owner:** Director of Operations
+> **Operated by:** Nudge Education Ltd · **Version:** Sept 2026 v2.0, review Sept 2027 (NEO addendum v09.26) · **Owner:** Service Director · Approved by the Executive Team on 23 September 2026; Service Director sign-off date to be confirmed
 
-COMPLAINTS POLICY & PROCEDURE
-DEC 2025
-Review date: DEC 2026
+## Scope
 
-SCOPE
+Nudge Education delivers bespoke interventions to support young people academically, socially and emotionally, helping them progress toward their next steps; whether that is reintegration into school, transition to a new provision, or entering the world of work. We strive to meet the highest standards in all aspects of our work and to provide an exceptional level of service through our trained professionals and resources.
 
-Nudge Education delivers bespoke interventions to support young people
-academically, socially and emotionally, helping them progress toward their next
-steps; whether that is reintegration into school, transition to a new provision, or
-entering the world of work. We strive to meet the highest standards in all aspects
-of our work and to provide an exceptional level of service through our trained
-professionals and resources.
+We recognise that concerns may arise about the services we provide. We welcome feedback and complaints as an opportunity to listen, resolve concerns and improve our services.
 
-However, we recognise that concerns may occasionally arise. This policy sets out
-the process to be followed when a young person, parent/carer, commissioning
-body or anyone else wishes to raise a complaint about any aspect of our services.
+This policy explains how complaints from external parties will be managed fairly, consistently and as promptly as reasonably practicable.
 
-This Complaints Policy applies to all external stakeholders. Employees of Nudge
-Education should refer to the organisation's Grievance Policy for matters relating
-to internal employment concerns.
+This policy applies to complaints about services provided by Nudge Education from:
 
-This policy should also be read in conjunction with our Whistleblowing Policy,
-which outlines procedures for reporting serious concerns that fall outside the
-scope of this document.
+- young people;
+- parents and carers;
+- commissioning bodies;
+- schools and referring organisations;
+- professionals involved with a young person; and
+- other relevant external stakeholders.
 
-STATEMENT OF INTENT
-It is vitally important to us that there are open lines of feedback for anyone to
-have their voice heard should they experience any problems whilst partnering
-with Nudge Education.
+Where a complaint relates to a decision or service provided by a commissioning body rather than Nudge Education, the complainant may be directed to the relevant commissioning body.
 
-We place great value in learning from challenges and obstacles that we come
-across as this will allow us to improve our practices and make sure that we have a
-culture of openness and fairness in everything that we do.
+Where a contract or commissioning arrangement specifies a particular complaints process, that process will be followed where applicable.
 
-We aim to address complaints and feedback as swiftly as possible to ensure the
-person making the complaint is reassured we are striving to improve their
-situation.
+## Matters managed under other procedures
 
-We strongly believe in the power of human connection and believe that open
-conversation can resolve many uncertainties or queries. This policy relates to a
-party wishing to make a formal complaint if an informal resolution has not been
-reached.
+### Safeguarding and child protection
 
-COMPLAINTS PROCEDURE A flowchart of this process is in Appendix A
+Any concern relating to the safety or welfare of a child or young person will be dealt with under Nudge Education's [[../03-service-delivery/child-protection-and-safeguarding-policy|Safeguarding and Child Protection]] procedures.
 
-A complaint should be made within a reasonable timeframe as to allow us to
-gather valid information. To this extent, we may not recognise a complaint made
-after three months of an incident or grievance occurring.
+Where appropriate, concerns may also be referred to the relevant Local Authority or other statutory agency.
 
-If the complaint relates directly to a commissioning body rather than Nudge
-Education, we will advise you to contact them directly.
+### Whistleblowing
 
-We have two methods of making a complaint at the time this policy has been
-written:
+Concerns about serious wrongdoing, malpractice or other matters covered by whistleblowing arrangements should be raised under the [[whistleblowing-policy|Whistleblowing Policy]].
 
-Email: Contact talktonudge@nudgeeducation.co.uk
+### Employment matters
 
-Writing: Send a letter to the Nudge Education office at:
+Concerns raised by Nudge Education employees about their employment should be dealt with under the [[../02-hr-employee-relations/grievance-and-dispute-policy|Grievance Policy]] or another relevant HR procedure.
 
-FAO: Complaints at Nudge Education
-2 Sirius House
-Amethyst Road
-Newcastle Upon Tyne
-NE4 7YL
+### Data protection
 
-We will not respond to any complaints in a public forum such as social media
-platforms. 
+Complaints specifically concerning data protection or the handling of personal information will be managed under Nudge Education's [[data-protection-and-information-security|data protection procedures]] and, where appropriate, may be referred to the Information Commissioner's Office (ICO).
 
-We will respond in writing or by email and may call or arrange a meeting to
-gather further clarifications if required.
+## How to make a complaint
 
-We will always make a written log of formal complaints for our own quality
-assurance and compliance purposes. These will be stored on a secure system with
-limited access to the documents.
+Complaints can be made by email or post.
 
-We will initially respond within ten working days of a complaint being received as
-this will allow us time to investigate and collect relevant information. If the
-investigation cannot be concluded within this timeframe, a holding response will
-be sent out giving an update and estimated date of final response.
+**Email:** talktonudge@nudgeeducation.co.uk
 
-As part of the investigation, we will need to speak with the complainant directly. If
-the complainant is a young person, we would always ask that they be
-accompanied by an independent advocate or family member/carer where
-appropriate.
+**Post:** FAO: Complaints, Nudge Education, 2 Sirius House, Amethyst Road, Newcastle upon Tyne, NE4 7YL
 
-If an advocate cannot be sought, we would look to delay the investigation until
-one is found. Local independent advocacy services can be found online or by
-speaking with your local authority social services commissioning team.
+## Formal complaint
 
-The person(s) who undertakes the investigation will be completely independent
-of the matters related to the complaint.
+A formal complaint should provide, where possible:
 
-On completion of the investigation, the lead investigator will communicate the
-outcome of the complaint to the complainant as either:
+- details of the concern;
+- what happened and relevant dates;
+- who was involved, if known;
+- any relevant information or evidence; and
+- the outcome the complainant is seeking, if applicable.
 
-- Upheld
-- Partially Upheld
-- Not Upheld
+We will acknowledge the complaint has been received.
 
-This outcome will be communicated in writing.
+### Complaint investigation
 
-Where the outcome will lead to disciplinary or similar actions, there may be a
-restricted response due to confidentiality issues.
+A suitable person will be appointed to investigate the complaint. The complaint will be handled fairly and impartially, and, wherever reasonably practicable, the person investigating will not have been directly involved in the circumstances giving rise to the complaint. Where this is not reasonably practicable due to the nature or size of the organisation, appropriate steps will be taken to ensure the complaint is considered objectively and without bias.
 
-STAGES OF THE COMPLAINT PROCESS
+We will not respond to any complaints in a public forum such as social media platforms.
 
-Stage 1 of the complaint process is triggered on the day that a Regional Lead
-receives the complaint. The Regional Lead then begins the initial investigation
-and will respond to the complainant within 10 working days. The Regional Lead
-then confirms with rationale whether the complaint is Upheld, Partially Upheld or
-Not Upheld.
+We will respond in writing or by email and may call or arrange a meeting to gather further clarifications if required.
 
-If the complainant is not satisfied with the confirmed outcome at stage 1, they
-have 10 working days to escalate a challenge. If we receive written and/or email
-confirmation challenging the complaint outcome, this is then escalated to the
-Operations Manager/Service Manager as appropriate to investigate and respond.
-If 10 working delays elapse without response, the Regional Lead will close the
-complaint.
+We will always make a written log of formal complaints for our own quality assurance and compliance purposes. These will be stored on a secure system.
 
-Stage 2 of the complaint process is triggered on the day (via writing or an email),
-the relevant Regional Lead receives the challenge to the initial Stage 1 decision.
-The Operations Manager/Service Manager will then have 10 working days to
-investigate this escalated complaint. The Operations Manager/Service Manager
-then confirms with rationale whether the complaint is Upheld, Partially Upheld or
-Not Upheld.
+As part of the investigation, we may need to speak with the complainant directly. If the complainant is a young person, we would always ask that they be accompanied by an appropriate independent advocate, family member or carer who is able to support them through the process. Where appropriate support is not immediately available, we will consider how best to enable the young person to participate safely and meaningfully in the process. This may include delaying the investigation until appropriate support can be arranged. Local independent advocacy services can be found online or by speaking with your local authority social services commissioning team.
 
-Stage 3 of the complaint process is triggered on the day (via writing or an email)
-the relevant Operations Manager/Service Manager receives the challenge to the
-initial Stage 2 decision. The Operations Director/Director of Partnerships will then
-have 10 working days to investigate this escalated complaint. The Director then
-confirms with rationale whether the complaint is Upheld, Partially Upheld or Not
+We will consider older complaints on a case by case basis. We may be unable to investigate a complaint where the passage of time means that relevant information or evidence is no longer available.
 
-Upheld.
+We will gather any relevant information by speaking with relevant staff or other individuals, reviewing relevant records and documentation, and considering any other relevant information or evidence.
 
-This ends the internal complaints process.
+We will normally provide a written outcome within 15 working days of receiving the formal complaint.
 
-What to do if you remain dissatisfied (External Escalation)
-Stage 3 marks the end of Nudge Education's internal complaints process. If you feel
-your complaint has not been resolved to your satisfaction after this final review, you
-have the right to escalate your concerns externally.
-Depending on the nature of your complaint, you may contact the following external
-or regulatory bodies:
-- The Commissioning Body: Because Nudge Education delivers commissioned
-services, you may escalate your concerns to the specific body that funded and
-requested the intervention (e.g., the Local Authority, Virtual School, or referring
-mainstream school).
-- The Local Authority Designated Officer (LADO): For unresolved complaints
-regarding safeguarding concerns, child protection, or the professional conduct
-of a staff member towards a child or young person.
-- The Information Commissioner's Office (ICO): For unresolved complaints
-regarding data protection, privacy, or the handling of your personal
-information
+Where this is not reasonably practicable, the complainant will be informed of the reason for the delay and given an expected date for the response.
 
-COMPLAINTS ABOUT HOW WE USE PERSONAL INFORMATION
+## Complaint outcome and actions
 
-If your complaint is about how we have used your or your child's personal
-information, you can raise it electronically at any time by emailing
-privacy@nudgeeducation.co.uk or talktonudge@nudgeeducation.co.uk (or by any
-route in this policy). In line with the Data (Use and Access) Act 2025, we will
-acknowledge a data protection complaint within 30 days and respond without
-undue delay — in practice we follow the faster response times set out in this
-policy. You do not have to complain to us first, but we would welcome the chance
-to put things right: you can contact the Information Commissioner's Office at
-ico.org.uk or on 0303 123 1113 at any time.
+Following the investigation, Nudge Education will provide the complainant with a written response explaining the outcome of the complaint.
 
-ACCESSIBILITY OF POLICY
+The response will, where appropriate:
 
-This policy is openly available via our website to young people, parents (including
-Corporate Parents for Looked After Children), carers, commissioners and
-associates of Nudge Education as well as any representatives from Awarding
-Bodies (e.g. ASDAN, NCFE, City & Guilds) and Regulatory Bodies (such as OFSTED
-or ISI). 
+- summarise the concerns raised;
+- explain what was considered as part of the investigation;
+- provide the outcome and reasons for the decision;
+- confirm any actions Nudge Education will take as a result; and
+- explain how the complainant can request a review if they remain dissatisfied.
 
-Appendix A - Flowchart of Complaints and Appeals Process
+The action taken will depend on the circumstances of the complaint and may include clarification, an apology, changes to the service or intervention, additional support, staff guidance or other appropriate action.
 
-STAGE 1
+Where a complaint identifies wider learning or improvement opportunities, these will be considered through Nudge Education's quality assurance processes.
 
-STAGE 2
+Nudge Education may be unable to provide details of confidential employment, disciplinary, safeguarding or other action taken in relation to another individual; this is protected under data protection law.
 
-STAGE 3
+## Review of a complaint outcome
 
-STAGE 4
+If a complainant remains dissatisfied following the formal complaint outcome, they may request one review.
 
-This policy has been signed off by the Nudge Education Directorate.
-Director of Partnerships & Services
-5 Dec 2025
+A review should normally be requested within 10 working days of receiving the complaint outcome and should explain why the complainant believes the outcome should be reviewed.
+
+A review may be appropriate where:
+
+- relevant information was not considered;
+- the complaints procedure was not followed appropriately; or
+- the outcome does not appear reasonable based on the evidence available.
+
+The review will normally be undertaken by a suitably senior person who was not involved in the original investigation.
+
+The review will consider whether the original complaint was investigated and determined appropriately. It will not normally involve a complete reinvestigation unless there is a clear reason to do so.
+
+A written final response will normally be provided within 15 working days of receiving the review request. Where additional time is required, the complainant will be informed.
+
+The outcome of the review is the final response from Nudge Education under this complaints procedure.
+
+## Unreasonable or persistent complaints
+
+Nudge Education will seek to deal fairly with all complaints. However, we may take reasonable steps to manage complaints that are abusive, threatening, discriminatory, excessively repetitive or otherwise unreasonable.
+
+This may include:
+
+- limiting communication to a named contact;
+- requiring communication to be in writing;
+- limiting the frequency or method of contact; or
+- explaining that no further response will be provided where the complaint has already been fully considered.
+
+Any decision to restrict communication will be proportionate and will take account of the circumstances of the individual complaint.
+
+## External escalation
+
+Once Nudge Education's internal complaints process has concluded, the complainant may have the option of raising their concerns with another organisation, depending on the nature of the complaint.
+
+This may include:
+
+- the relevant commissioning body, such as a Local Authority, Virtual School or referring school;
+- the relevant Local Authority or statutory safeguarding agency where a safeguarding concern exists;
+- the Information Commissioner's Office where the complaint concerns data protection; or
+- another relevant regulatory or statutory body, where applicable.
+
+Where appropriate, Nudge Education will cooperate with any external investigation or request for information.
+
+## Complaints involving children and young people
+
+Young people will be supported to raise concerns in a way that is accessible and appropriate to them, including through opportunities throughout their intervention to share their views directly with Nudge Education staff.
+
+When a young person makes a complaint, we will consider their age, understanding and individual circumstances when deciding how the complaint should be managed.
+
+A young person does not need to make a complaint through a parent or carer where it is appropriate for them to raise the concern themselves.
+
+Reasonable adjustments and appropriate support will be considered where required.
+
+## Recording and learning
+
+Formal complaints will be recorded securely on the Nudge Education complaints log.
+
+Access to complaint records will be limited to those who need the information to manage the complaint or for appropriate quality assurance purposes.
+
+Complaint information will be reviewed to identify themes, risks and opportunities for improvement.
+
+Where appropriate, actions arising from complaints will be monitored to ensure that agreed improvements are implemented.
+
+## Accessibility
+
+This policy is available to young people, parents, carers, commissioners, schools and other relevant external stakeholders.
+
+Nudge Education will consider reasonable adjustments to the complaints process where required to enable individuals to raise and participate in a complaint.
+
+## Policy approval
+
+| Version | Date | Summary of changes | Approved by |
+|---|---|---|---|
+| 1.0 | Dec 2025 | Original policy | Director of Partnerships & Services |
+| 2.0 | Sept 2026 | Reviewed and updated to reflect current organisational structures and provide greater clarity across the complaints and review process. | Service Director (Executive Team approval 23 September 2026) |
+
+This policy has been approved by the Nudge Education Directorate.
 
 ---
 
 ## NEO Online Addendum
 
-_This addendum applies the canonical Nudge Education policy above to the online provision context of Nudge Education Online (NEO). It is sourced from `NEO - Complaints Procedure v04.26.docx`._
-
-NEO BY NUDGE EDUCATION
-
-Complaints Procedure
-Nudge Education Online
+_This addendum applies the Nudge Education Complaints Policy above to Nudge Education Online (NEO). NEO follows the same structure and timescales: a formal complaint outcome, followed by one review. It adds only what the online setting needs, and one safeguard: at NEO the review is carried out by a panel that includes a member independent of NEO's management, in line with the complaints standard for accredited online education providers. The summary for families is in the [[../neo-only/neo-appeals-and-complaints-policy|NEO Appeals and Complaints Policy]]._
 
 | Policy Owner | Director, Nudge Education Online & Head of School |
 |---|---|
-| Approved | April 2026 |
-| Review Date | April 2027 |
-| Version | 04.26 |
+| Approved | September 2026 |
+| Review Date | September 2027, or sooner if the Nudge Education Complaints Policy changes |
+| Version | 09.26 (replaces 04.26) |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
-| Proprietor | Proprietor, Nudge Education Ltd |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
 
-This policy applies to all learners, staff, practitioners, contractors, volunteers and visitors of Nudge Education Online (NEO). NEO is a fully online alternative provision for learners aged 11–18, operated by Nudge Education Ltd.
-NEO is not a DfE-registered independent school and is not subject to Independent Schools Inspectorate (ISI) inspection. NEO is pursuing OEAS accreditation only.
-## 1. Policy Statement and Purpose
-Nudge Education Online (NEO) is committed to listening to learners, parents and carers, and commissioning partners. NEO welcomes feedback and treats complaints as an opportunity to learn, improve, and strengthen trust.
-This procedure provides a clear, fair, and accessible route for raising and resolving concerns. It is designed to meet OEAS accreditation expectations for complaints handling and to satisfy commissioner due diligence.
-NEO aims to:
-Resolve concerns quickly, informally, and at the earliest possible stage.
-Handle formal complaints thoroughly, fairly, and transparently.
-Ensure that complainants are not penalised for raising legitimate concerns.
-Use the outcomes of complaints to improve NEO's provision and practice.
-NEO is not a DfE-registered independent school and is not subject to ISI inspection. Accordingly, references below to ISI as an external escalation route do not apply to NEO; the relevant external routes are listed in Section 7.
-## 2. Scope
-This procedure applies to complaints from parents, carers, learners, and external partners including local authorities and referring schools.
-It covers complaints about NEO's provision, policies, staff conduct, or the application of NEO procedures.
-It does not apply to staff employment matters, which are covered under the NEO Grievance and Disciplinary Policy (in development).
-Safeguarding concerns must be referred directly to the Designated Safeguarding Lead (DSL) and are handled under the NEO Child Protection and Safeguarding Policy, not under this procedure.
-Complaints about the Proprietor should be raised in writing to the DSL, who will consult independently and determine how the complaint is investigated, ensuring no conflict of interest.
-Complaints about the Director / Head of School should be raised in writing to the Proprietor.
-## 3. Summary of Stages
+NEO is a fully online alternative provision for learners aged 11–18, operated by Nudge Education Ltd. NEO is not a DfE-registered independent school and is not subject to Independent Schools Inspectorate (ISI) inspection. NEO is pursuing OEAS accreditation only.
 
-| Stage | What Happens | Timeline |
+## 1. How the Nudge procedure applies at NEO
+
+| Step | At NEO | Timescale |
 |---|---|---|
-| Informal Resolution | Concern raised with the relevant member of staff, the learner's named practitioner, or the DSL. NEO aims to resolve the issue promptly through dialogue. | As quickly as possible |
-| Stage 1: Formal Complaint | Written complaint submitted to the Director / Head of School. Acknowledged within 5 working days. Investigation and written response provided. | Response within 20 working days |
-| Stage 2: Panel Hearing | Complainant requests a hearing before a panel of at least three people, including one member independent of NEO's management and governance. | Hearing within 20 working days of request; decision within 10 working days of the hearing |
-| Further Escalation | If still unresolved, the complainant may escalate to an appropriate external body (see Section 7). | No fixed timeline |
+| Early resolution | Raise the concern with the learner's Practitioner-Mentor, the relevant member of staff or the Director NEO & Head of School — by email, telephone, at a review meeting or via neo@nudgeeducation.co.uk. Most concerns are resolved here. | Acknowledged within 2 working days |
+| Formal complaint | In writing to talktonudge@nudgeeducation.co.uk or by post (details above). NEO complaints are investigated by someone not directly involved, and decided by the Director NEO & Head of School or a nominated senior colleague. | Acknowledged within 5 working days; written outcome normally within 15 working days |
+| Review | Requested in writing, explaining why the outcome should be reviewed. Carried out by a panel of at least three people not involved in the original investigation, at least one of whom is independent of NEO's management and running. The panel normally meets on Google Meet; the complainant may attend and be accompanied. | Request within 10 working days of the outcome; written final response normally within 15 working days of the request |
+| External escalation | As set out in the Nudge policy above. For NEO this includes the commissioning body for commissioned places, the Local Authority Designated Officer (LADO) for concerns about an adult's conduct towards a young person, and the ICO for data protection. | — |
 
-## 4. Informal Resolution
-NEO encourages parents, carers, and learners to raise concerns as early as possible so that they can be resolved quickly and informally. Many concerns can be addressed through a conversation with the relevant member of staff or the learner's named practitioner.
-Concerns may be raised:
-By email or telephone to the relevant member of staff, the named practitioner, or the DSL.
-During a scheduled review meeting or parent consultation.
-Via NEO's general contact email (neo@nudgeeducation.co.uk).
-The member of staff will aim to acknowledge the concern within two working days and to resolve it as quickly as possible, keeping the parent or carer informed throughout.
-If the concern cannot be resolved informally, or if the complainant is not satisfied with the outcome, they may proceed to Stage 1.
-## 5. Stage 1: Formal Written Complaint
-If the concern has not been resolved through informal discussion, the complainant may submit a formal complaint in writing to the Director / Head of School (or a nominated senior member of staff). The complaint should include:
-The complainant's name and contact details.
-A clear description of the concern or complaint.
-What has already been done to try to resolve it.
-What outcome the complainant is seeking.
-Complaints may be submitted by email or letter. NEO will provide assistance with putting a complaint in writing if requested.
-### 5.1 Acknowledgement
-The Director / Head of School (or nominee) will acknowledge receipt of the complaint in writing within five working days. The acknowledgement will confirm who is investigating the complaint and the expected timeline for a response.
-### 5.2 Investigation
-The investigating officer will:
-Review all relevant information and records.
-Speak with the complainant to clarify the concern if necessary.
-Speak with any staff, learners, or other parties relevant to the complaint.
-Consider the complaint in the context of NEO's policies and procedures.
-The investigation is conducted impartially and without prejudice.
-### 5.3 Response
-A written response is provided within 20 working days of receipt of the formal complaint. The response will include:
-A summary of the complaint as understood by NEO.
-The findings of the investigation.
-The conclusion and the reasons for it.
-Any actions NEO will take as a result.
-Information about how to escalate the complaint to Stage 2 if the complainant is not satisfied.
-## 6. Stage 2: Panel Hearing
-If the complainant is not satisfied with the outcome of Stage 1, they may request a panel hearing by writing to the Director / Head of School within 10 working days of receiving the Stage 1 response.
-### 6.1 Panel Composition
-The panel consists of at least three people who have not been directly involved in the matters detailed in the complaint. At least one member of the panel is independent of NEO's management and governance. NEO takes reasonable steps to ensure that the independent member has no connection to NEO that might compromise their impartiality.
-### 6.2 Hearing Arrangements
-The panel hearing is convened within 20 working days of the request. As NEO is a fully online provision, hearings are normally conducted via Google Meet unless the complainant requests an alternative arrangement. Reasonable adjustments are made where needed.
-The complainant is informed in advance of:
-The date, time, and format of the hearing.
-The names and roles of the panel members.
-Their right to be accompanied by a friend, family member, or advocate (but not a legal representative acting in that capacity).
-The procedure to be followed during the hearing.
-### 6.3 The Hearing
-At the hearing:
-The complainant is invited to explain their complaint and the outcome they are seeking.
-NEO presents its response and the findings of the Stage 1 investigation.
-The panel may ask questions of both parties.
-Both parties have the opportunity to make a closing statement.
-### 6.4 Panel Decision
-The panel reaches a decision and communicates it in writing to the complainant within 10 working days of the hearing. The written decision includes:
-A summary of the complaint and the issues considered.
-The panel's findings of fact.
-The panel's conclusion, with reasons.
-Any recommendations or actions NEO should take.
-The panel's decision is the final stage of NEO's internal complaints procedure.
-## 7. Further Escalation
-If the complainant remains dissatisfied after the panel hearing, they may escalate their complaint to the appropriate external body. Depending on the nature of the complaint, this may include:
-OEAS (Online Education Accreditation Scheme) — for complaints about NEO's compliance with OEAS accreditation criteria once NEO is accredited. Until accreditation is confirmed, unresolved complaints of this kind may be raised with the Proprietor and, where relevant, the Department for Education (see below).
-The Department for Education (DfE) — for complaints relating to statutory duties applicable to alternative provision.
-The relevant local authority — for complaints relating to a commissioned placement or EHCP provision.
-The Information Commissioner's Office (ICO) — for complaints about data protection, privacy, or children's data rights under the ICO Children's Code. Data protection complaints can also be made to NEO electronically at any time (privacy@nudgeeducation.co.uk); in line with the Data (Use and Access) Act 2025 NEO acknowledges these within 30 days — in practice within the faster timescales in Section 3 — and responds without undue delay.
-The First-tier Tribunal (SEND) — for appeals relating to EHCP decisions.
-Ofcom — for complaints relating to online safety obligations under the Online Safety Act 2023.
-The Disclosure and Barring Service (DBS) — for concerns about the suitability of adults working with children.
-NEO will provide, on request, contact details for the appropriate external body.
-## 8. Timeframes
-NEO is committed to responding to complaints within the published timeframes. Where a complaint is particularly complex and a longer investigation period is needed, NEO notifies the complainant in writing, explains the reason for the delay, and provides an updated timeline.
-## 9. Serial or Unreasonable Complaints
-NEO is committed to dealing with all complaints fairly and respectfully. However, where a complaint has been fully investigated and the complaints procedure has been exhausted, NEO is not obliged to reinvestigate the same complaint.
-Where a complainant's behaviour becomes unreasonable, abusive, or places undue demands on staff, the Proprietor or the Director / Head of School may invoke NEO's procedure for managing unreasonable complaints. This may include:
-Limiting the complainant to a single named point of contact.
-Restricting the method of communication (for example, written only).
-Declining to engage with further correspondence on the same matter.
-Any decision to restrict contact is communicated in writing with a clear explanation of the reasons and a route for review.
-## 10. Confidentiality
-All complaints are handled with discretion. Information about a complaint is shared only with those who need to know in order to investigate and resolve it. NEO complies with data protection laws (the UK GDPR, the Data Protection Act 2018 and the Data (Use and Access) Act 2025) and the ICO Children's Code in all handling of complaint-related data.
-Complainants should be aware that where a complaint involves allegations about a specific member of staff, NEO has a duty of care to that individual as well as to the complainant. Information about the investigation and its outcome may be shared with the staff member concerned.
-## 11. Record Keeping
-All formal complaints (Stage 1 and above) are logged in the NEO complaints register.
-The register records the date, subject, stage reached, outcome, and any actions taken.
-Records are retained for a minimum of three years in line with NEO's retention schedule.
-The Proprietor reviews anonymised complaint data annually to identify patterns and inform NEO improvement planning.
-The number of complaints registered under the formal procedure during the preceding academic year is made available to OEAS on request.
-## 12. Complaints from Learners
-NEO takes learner voice seriously. Learners are encouraged to raise concerns and are supported to do so. Concerns from learners may be raised:
-Directly with a trusted member of staff, their named practitioner, or the DSL.
-Via NEO's anonymous reporting routes.
-Through a parent, carer, or advocate on their behalf.
-Where a learner wishes to make a formal complaint, NEO provides age-appropriate support and ensures that the process is accessible and not intimidating. The learner may be accompanied by a parent, carer, or other trusted adult at any stage.
-## 13. Complaints About Safeguarding
-Complaints that include a safeguarding allegation are referred immediately to the DSL and handled in accordance with the NEO Child Protection and Safeguarding Policy. The complaints procedure is paused where necessary to allow safeguarding processes to take priority. The complainant is kept informed to the extent possible without compromising the safety of any child.
-## 14. Monitoring and Review
-The DSL conducts a termly review of the complaints log to identify patterns and ensure that responses have been proportionate and timely.
-The Proprietor reviews complaints data annually as part of OEAS-aligned governance oversight.
-This procedure is reviewed annually, or sooner if statutory guidance or OEAS criteria change.
-The procedure is made available to parents on request, provided at admission, and published on the NEO website.
-### Related Policies
-This policy should be read alongside:
-NEO Child Protection and Safeguarding Policy
-NEO Behaviour and Regulation Policy
-NEO Data Protection, Confidentiality and Privacy Policy
-NEO Equal Opportunities, Equality and Diversity Policy
-NEO SEND Policy
-NEO Admissions Policy
-NEO Online Safety and Acceptable Use Policy
-NEO Terms and Conditions
+Where a timescale cannot be met, the complainant is told why and given an expected date, as the Nudge policy requires.
+
+## 2. NEO-specific points
+
+- **Safeguarding first.** A complaint that includes a safeguarding concern goes straight to NEO's Designated Safeguarding Lead under the [[../03-service-delivery/child-protection-and-safeguarding-policy|Safeguarding Policy]]. The complaint is paused where necessary so that safeguarding takes priority.
+- **Complaints about senior people.** A complaint about the Director NEO & Head of School is made to the Proprietor. A complaint about the Proprietor is made to the Designated Safeguarding Lead, who decides independently how it is investigated.
+- **Learner voice.** Learners may raise a concern themselves, through a trusted adult, their Practitioner-Mentor or NEO's anonymous reporting route, and may be accompanied at any stage.
+- **Online access.** Meetings and panel reviews take place on Google Meet unless the complainant asks for another arrangement; reasonable adjustments are made where needed.
+- **Personal information.** A complaint about how personal information has been used can be made to privacy@nudgeeducation.co.uk at any time. In line with the Data (Use and Access) Act 2025 it is acknowledged within 30 days and answered without undue delay.
+- **Records.** Formal complaints and reviews are logged in NEO's complaints register, recording whether each was resolved at the formal stage or went to review, and the action taken. The number of formal complaints in the previous academic year is available to OEAS on request. The Proprietor reviews anonymised complaint themes annually.
+- **Examination appeals** follow the [[../neo-only/neo-appeals-procedure|NEO Appeals Procedure]], not this procedure.
+
+## 3. Related documents
+
+- [[../neo-only/neo-appeals-and-complaints-policy|NEO — Appeals and Complaints Policy]]
+- [[../neo-only/neo-home-school-agreement|NEO — Home-School Agreement]]
+- [[../neo-only/neo-terms-and-conditions-parents-carers|NEO — Terms and Conditions for Parents and Carers]]
+- [[../03-service-delivery/child-protection-and-safeguarding-policy|Safeguarding Policy]] (NEO Online Addendum)
 
 ### Document Control
 
-| Version | 04.26 |
+| Version | 09.26 |
 |---|---|
-| Approved | April 2026 |
-| Next Review | April 2027 |
+| Replaces | 04.26 (April 2026) |
+| Approved | September 2026 — Director, NEO & Head of School |
 | Owner | Director, Nudge Education Online & Head of School |
-| Approver | Proprietor |
-| Operating Company | Nudge Education Ltd (Company Number 10192753) |
+| Changes | Re-aligned with the Nudge Education Complaints Policy v2.0 (Sept 2026): one formal outcome and one review replace the former two formal stages; timescales now 15 working days for the outcome, 10 to request a review and 15 for the review. NEO keeps an independent member on its review panel. |
 
 ---
 
@@ -369,7 +252,7 @@ NEO Terms and Conditions
 
 | Field | Value |
 |---|---|
-| Version | Jul 2026 |
-| Owner | Director of Operations |
+| Version | Sept 2026 v2.0 (NEO addendum v09.26) |
+| Owner | Service Director |
 | Status | live |
-| Source file | `1. All Company/Complaints Policy - Dec 25.docx (2).pdf` |
+| Source file | `Draft Complaints Policy & Procedure Sept 2026` (Google Doc) |
