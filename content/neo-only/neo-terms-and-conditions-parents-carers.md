@@ -8,7 +8,7 @@ status: live
 review_date: 2027-08
 owner_role: Director NEO & Head of School
 neo_addendum: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 | | |
@@ -20,6 +20,7 @@ last_reviewed: 2026-08
 | **Companion documents** | [[neo-withdrawal-policy|Withdrawal Policy]] · [[neo-appeals-and-complaints-policy|Appeals and Complaints Policy]] · [[neo-privacy-notice-learners|Privacy Notice for Learners]] · [[../03-service-delivery/attendance-policy|Attendance Policy & Procedures]] |
 | **Owner** | Director, Nudge Education Online & Head of School |
 | **Published** | August 2026 |
+| **Updated** | September 2026 — places, prices, timetable and billing; complaints timescales |
 | **Review** | August 2027 |
 
 ## The three things to know before you read on
@@ -38,7 +39,7 @@ last_reviewed: 2026-08
 
 ## 2. Words we use
 
-“Your child” or “the learner” — the young person you enrol. “A place” — a full-time, short-term or transitional enrolment at NEO. “Tuition” — one-to-one online tuition (one subject = 2 hours a week; two subjects = 4 hours a week), where your child stays on roll at their current school. “Practitioner-Mentor” — your child's named mentor and your single point of contact; they do not teach lessons — qualified subject-specialist teachers do. “The Six Cornerstones” — the framework behind our Friday programme: Connection, Movement, Creativity, Reflection, Rest and Nutrition. “Intervention Plan” — the plan we agree with you setting out your child's timetable, subjects and support.
+“Your child” or “the learner” — the young person you enrol. “A place” — a small-group place at NEO of 12 hours a week (Monday to Thursday) or 15 hours a week (adding the Friday Cornerstones day), an Intensive place, or a short-term or transitional version of either. “Tuition” — one-to-one online tuition with a subject-specialist teacher (one subject = 2 hours a week; two subjects = 4 hours a week), where your child stays on roll at their current school. “Practitioner-Mentor” — your child's named mentor and your single point of contact; they do not teach lessons — qualified subject-specialist teachers do. “The Six Cornerstones” — the framework behind our Friday programme: Connection, Movement, Creativity, Reflection, Rest and Nutrition. “Intervention Plan” — the plan we agree with you setting out your child's timetable, subjects and support.
 
 ## 3. How the contract between us is formed
 
@@ -58,7 +59,7 @@ last_reviewed: 2026-08
 
 ## 5. What we provide
 
-5.1 For a place: a full online timetable Monday to Thursday — four 45-minute live lessons a day taught by qualified subject-specialist teachers over Google Meet — and a Friday Cornerstones day; a named Practitioner-Mentor; small groups; real-time progress tracking you can see; and qualification pathways (Pearson Edexcel International GCSEs, Functional Skills, ASDAN). Learners not yet ready for a full timetable may start in our Discovery Phase, with named goals and a supported route in.
+5.1 For a place: a live online timetable Monday to Thursday — 45-minute lessons from 10:00 taught by qualified subject-specialist teachers in small groups over Google Meet, a 9:30 mentor group and a 13:00 check-in (12 hours a week) — with the Friday Cornerstones day added on a 15-hour place; a named Practitioner-Mentor; real-time progress tracking you can see; and qualification pathways (Pearson Edexcel International GCSEs, Functional Skills, ASDAN). Learners not yet ready for a full timetable may start in our Discovery Phase, with named goals and a supported route in.
 
 5.2 For Tuition: one-to-one lessons with a qualified subject specialist, in the afternoon, term-time only. Tuition does not include a Practitioner-Mentor, the Friday programme or NEO enrolment.
 
@@ -66,9 +67,9 @@ last_reviewed: 2026-08
 
 ## 6. Fees and payment
 
-6.1 Prices: Standard place £18,000 a year; Intensive place £22,000 a year; Tuition £70 an hour. All shown exclusive of VAT, which is added where chargeable. Registration £250 per year — credited back if your child steps up from Tuition to a full place.
+6.1 Prices: a 12-hour place is £40 an hour (£480 a week); a 15-hour place is £30 an hour (£450 a week); an Intensive place is £22,000 a year; the Discovery Phase is £370 for five weeks; Tuition is £70 an hour. All shown exclusive of VAT, which is added at 20% — so, for example, the Discovery Phase is £444 including VAT. Registration £250 per year (not charged for the Discovery Phase) — credited back if your child steps up from Tuition to a place.
 
-6.2 You pay monthly in advance — one-tenth of the annual fee each month from September to June, by direct debit, collected before the month begins. You pay nothing in July and August. Your first payment (first month + registration) is made before your child starts; if your child joins mid-year, you simply pay from their start month to June.
+6.2 For a place you pay monthly in advance — one-tenth of the year's fee (the weekly price multiplied by the teaching weeks in your child's Intervention Plan) each month from September to June, by direct debit. We invoice on the 25th of the month before, and collect by direct debit on the 1st of the month it covers. You pay nothing in July and August. Your first payment (first month + registration) is made before your child starts; if your child joins mid-year, you simply pay from their start month to June.
 
 6.3 Exam entry fees are separate: they are paid directly to our exam-centre partner, who enters your child as a private candidate (section 9).
 
@@ -110,7 +111,7 @@ last_reviewed: 2026-08
 
 11.1 Talk to your Practitioner-Mentor or the Head of School first — most things are resolved there. If that does not settle it, our [[neo-appeals-and-complaints-policy|Appeals and Complaints Policy]] applies, together with the [[../01-all-company/complaints-policy|Complaints Policy]] it incorporates; both are published at policies.nudgeeducation.online.
 
-11.2 A concern raised informally is acknowledged within two working days. A formal written complaint is acknowledged within five working days and answered in writing, with reasons, within 20 working days. If you remain dissatisfied you may ask for a panel hearing, which includes at least one person independent of NEO's management and governance.
+11.2 A concern raised informally is acknowledged within two working days. A formal written complaint is acknowledged within five working days and answered in writing, with reasons, normally within 15 working days. If you are still unhappy, you can ask for one review, in writing, within 10 working days of that answer; it is carried out by a panel of at least three people, including at least one person independent of NEO's management, and you receive a final written response normally within 15 working days.
 
 11.3 You can complain by email to talktonudge@nudgeeducation.co.uk, or in writing to FAO: Complaints at Nudge Education, 2 Sirius House, Amethyst Road, Newcastle upon Tyne, NE4 7YL. Complaints about how we have used personal information can be sent to privacy@nudgeeducation.co.uk at any time, and you may also contact the Information Commissioner's Office (ico.org.uk, 0303 123 1113).
 

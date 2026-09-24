@@ -8,7 +8,7 @@ status: live
 review_date: 2027-08
 owner_role: Director NEO & Head of School
 neo_addendum: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 | | |
@@ -19,6 +19,7 @@ last_reviewed: 2026-08
 | **Companion documents** | [[neo-terms-and-conditions-parents-carers\|Consumer Terms and Conditions (parents and carers)]] · Framework Services Agreement · Billing & Payment Rules · Intervention Plan template · [[neo-withdrawal-policy|Withdrawal Policy]] · [[neo-appeals-and-complaints-policy|Appeals and Complaints Policy]] |
 | **Owner** | Director, Nudge Education Online & Head of School |
 | **Published** | August 2026 |
+| **Updated** | September 2026 — services, fees, timetable and invoicing |
 | **Review** | August 2027 |
 
 ## 1. Definitions and interpretation
@@ -30,14 +31,14 @@ last_reviewed: 2026-08
 | Commissioner / you | The Local Authority, school or other body purchasing a Placement or Tuition Package, named in the Purchase Order. |
 | NEO / we / us | Nudge Education Ltd (Company No. 10192753), trading as Nudge Education Online, operating fully online alternative provision for Learners aged 11–18. |
 | Learner | The young person for whom a Placement or Tuition Package is purchased. |
-| Placement | A Full-Time, Short-Term/Transitional or Curriculum Access placement, as described in Schedule 1. |
-| Tuition Package | One-to-one online tuition of 2 or 4 one-hour sessions per week, as described in Schedule 1. |
+| Placement | A Discovery Phase, Small-Group Place (12 or 15 hours), Intensive Place, Short-Term/Transitional Place or Curriculum Access, as described in Schedule 1. |
+| Tuition Package | One-to-one online tuition with a subject-specialist teacher, of 2 or 4 one-hour sessions per week, as described in Schedule 1. |
 | Intervention Plan | The plan agreed at referral recording the Learner's placement type, subjects, timetable, support needs and review points. |
 | Framework Services Agreement (FSA) | The overarching commissioning agreement between Nudge Education Ltd and the Commissioner, where one is in place. |
 | Purchase Order (PO) | The Commissioner's purchase order covering the commissioned period and fees. |
 | Platforms | NEO's learning, communication, progress-tracking and payment systems, including Google Workspace, Classroom and Meet. |
 | The Six Cornerstones | NEO's pedagogical framework: Connection, Movement, Creativity, Reflection, Rest and Nutrition, delivered principally through the Friday Cornerstones day. |
-| Practitioner-Mentor | The Learner's named mentor and single point of contact. The Practitioner-Mentor does not deliver lessons; qualified subject-specialist teachers deliver all live lessons. |
+| Practitioner-Mentor | The Learner's named mentor and single point of contact. The Practitioner-Mentor does not deliver lessons; qualified subject-specialist educators deliver all live lessons. |
 | DSL | NEO's Designated Safeguarding Lead. |
 | KCSIE | Keeping Children Safe in Education, as amended from time to time (currently the 2026 edition, effective 1 September 2026). |
 | Policy Library | NEO's published policies at policies.nudgeeducation.online, as updated from time to time. |
@@ -56,7 +57,7 @@ last_reviewed: 2026-08
 
 3.1 NEO shall provide the Placement or Tuition Package described in Schedule 1 and the Intervention Plan, with reasonable skill and care, delivered by appropriately qualified staff.
 
-3.2 The core timetable runs Monday to Thursday (four 45-minute live sessions per day via Google Meet, delivered by qualified subject-specialist teachers), with Friday delivered as the Cornerstones day. Each Learner has a named Practitioner-Mentor. Groups are deliberately small.
+3.2 The core timetable runs Monday to Thursday (live 45-minute lessons via Google Meet from 10:00, delivered by qualified subject specialists in deliberately small groups, with a mentor group at 9:30 and a Practitioner-Mentor check-in at 13:00), comprising 12 hours per week. A 15-hour Place adds the Friday Cornerstones Day. Each Learner on a Place has a named Practitioner-Mentor.
 
 3.3 Tuition Packages are delivered one-to-one, outside the core timetable (afternoons), term-time only, and do not include a Practitioner-Mentor, the Cornerstones day or NEO enrolment. Tuition Learners remain on roll at their existing setting.
 
@@ -72,7 +73,7 @@ last_reviewed: 2026-08
 
 5.1 Fees are as set out in Schedule 2 or the FSA, exclusive of VAT (added where chargeable).
 
-5.2 Invoicing is monthly in advance of the delivery month, over ten months (September to June), at one-tenth of the annual fee, as a drawdown against the PO. No invoices are raised for July or August. The first invoice includes the £250 registration fee and any pro-rated part-month (Learners start on a Monday; part-months pro-rated by teaching weeks).
+5.2 For Places, invoicing is monthly in advance of the delivery month, over ten months (September to June), at one-tenth of the annual fee calculated as the weekly fee in Schedule 2 multiplied by the number of teaching weeks in the Intervention Plan, as a drawdown against the PO. Tuition Packages and Nudge Education practitioner hours are invoiced monthly in advance on the sessions booked. No invoices are raised for July or August. The first invoice includes the £250 registration fee and any pro-rated part-month (Learners start on a Monday; part-months pro-rated by teaching weeks).
 
 5.3 Payment is due within 7 days of invoice unless otherwise agreed in writing. NEO may charge interest and recovery costs on overdue sums under the Late Payment of Commercial Debts (Interest) Act 1998, at 8% per year above the Bank of England base rate.
 
@@ -176,22 +177,30 @@ last_reviewed: 2026-08
 
 | **Service** | **Description** |
 |---|---|
-| Full-Time Placement | Full online timetable Mon–Thu + Cornerstones Friday; Pearson Edexcel International GCSE (iGCSE), Functional Skills and ASDAN pathways; named Practitioner-Mentor; real-time progress tracking; Standard or Intensive tier. |
-| Short-Term / Transitional Placement | As Full-Time, for a defined shorter period (e.g. post-care, safety relocation, awaiting mainstream placement). |
-| Discovery Phase | For Learners not yet ready for a full timetable; named goals and measured progress toward one. |
-| Curriculum Access (bolt-on) | Curriculum and self-paced resources for Learners with an existing Nudge Education one-to-one practitioner. |
-| Tuition Package | 1:1 subject-specialist tuition: one subject (2 × 1hr/week) or two subjects (4 × 1hr/week); term-time, afternoons; Learner remains on roll elsewhere. |
+| Discovery Phase | Five weeks of two 45-minute live sessions per week with a consistent educator; interest-led project; the "Me" strand; WHO-5 wellbeing measure; Learning Passport; exit conversation. No registration fee. For Learners not yet ready for a timetable. |
+| Small-Group Place — 12 hours | Monday–Thursday live timetable (12 hours per week); Pearson Edexcel International GCSE (iGCSE), Functional Skills and ASDAN pathways; named Practitioner-Mentor; real-time progress tracking; weekly reporting; NEO-managed device. |
+| Small-Group Place — 15 hours | As the 12-hour Place, plus the Friday Cornerstones Day (15 hours per week). |
+| Intensive Place | The 15-hour Place plus an enhanced one-to-one Practitioner-Mentor beside the Learner while they access online sessions (a blend of online and face-to-face support) and bespoke timetable adaptations. |
+| Short-Term / Transitional Place | Any of the above for a defined shorter period (e.g. post-care, safety relocation, awaiting a school place). |
+| Curriculum Access | Curriculum and self-paced resources for Learners with an existing Nudge Education one-to-one practitioner. Not NEO enrolment. |
+| Tuition Package | One-to-one online tuition with a subject-specialist teacher: one subject (2 × 1 hr/week) or two subjects (4 × 1 hr/week); term time, afternoons; Learner remains on roll elsewhere; no Practitioner-Mentor. |
+| Nudge Education practitioner (add-on) | Face-to-face practitioner support in the home or community, at the hours agreed in the Intervention Plan, delivered by Nudge Education Ltd under the same agreement. |
 
 ## Schedule 2 — Fees (ex VAT)
 
 | **Item** | **Fee** |
 |---|---|
-| Standard Placement | £18,000 per year — £1,800 per month, invoiced September to June |
-| Intensive Placement | £22,000 per year — £2,200 per month, invoiced September to June |
-| Tuition Package | £70 per hour (one subject ≈ £140/week; two subjects ≈ £280/week, term-time) |
-| Registration fee | £250 per Learner per year, on the first invoice; credited on step-up from Tuition to a Placement |
+| Discovery Phase | £370 per five-week phase; a second phase £370 |
+| Small-Group Place — 12 hours | £40 per hour — £480 per week; invoiced monthly in advance at one-tenth of the annual fee, September to June |
+| Small-Group Place — 15 hours | £30 per hour — £450 per week; invoiced monthly in advance at one-tenth of the annual fee, September to June |
+| Intensive Place | £22,000 per year — £2,200 per month, invoiced September to June |
+| Curriculum Access | £250 per year |
+| Tuition Package | £70 per hour (one subject ≈ £140/week; two subjects ≈ £280/week, term time) |
+| Nudge Education practitioner (add-on) | £65 per one-hour session |
+| Registration fee | £250 per Learner per year, on the first invoice; not charged for Discovery Phase or Curriculum Access; credited on step-up from a Tuition Package to a Place |
 | Device (NEO-funded, unreturned/lost) | Depreciated value, not exceeding £350 |
 | Examination entry fees | Payable directly to the exam-centre partner; not included above |
+| VAT | Charged at 20% on every fee above |
 
 ## Schedule 3 — Examinations (private candidate entries)
 

@@ -8,6 +8,15 @@ status: live
 ---
 A running log of structural changes, policy additions, and version uplifts.
 
+## 2026-09-24 (ii) — NEO Terms: places, prices and timetable
+
+- **NEO Terms and Conditions for Parents and Carers** and **NEO Terms of Business (Commissioned Placements)** merged with the approved Google Doc versions: the Docs' products, prices, timetable and invoicing adopted; the published legal clauses kept (data protection, liability, late payment, device return, records transfer, KCSIE citation, policy links)
+- Places are now Small-Group 12 hours (£40/hr, £480 a week, Monday to Thursday) and 15 hours (£30/hr, £450 a week, adding the Friday Cornerstones day), replacing the single £18,000 Standard place. The 15-hour weekly price is lower by design: the same annual price spread over five days rather than four
+- Commissioned Terms Schedules 1 and 2 now list the Discovery Phase (£370), Intensive Place, Curriculum Access (£250 a year), Tuition (£70/hr) and the Nudge practitioner add-on (£65); VAT at 20%; registration not charged for Discovery Phase or Curriculum Access
+- Timetable: lessons from 10:00, a 9:30 mentor group and a 13:00 check-in (replaces "four lessons a day")
+- Parents and Carers Terms §11.2 complaints timescales aligned with the Complaints Policy v2.0 (closes the follow-up noted below)
+- Not yet included: card payment (Stripe), pending Finance agreement
+
 ## 2026-09-24 — Complaints re-aligned; Safeguarding Sept 2026; policy impact alerts
 
 - **Complaints Policy** replaced with the Nudge Education **Sept 2026 v2.0** (Executive Team approval 23 September 2026; Service Director sign-off date to be confirmed): one formal outcome, then one review, replacing the three stages; outcome and review each normally within 15 working days; 10 working days to request a review. Owner now Service Director
