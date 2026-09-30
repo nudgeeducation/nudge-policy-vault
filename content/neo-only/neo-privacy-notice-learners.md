@@ -8,14 +8,16 @@ status: live
 review_date: 2027-08
 owner_role: Data Protection Officer (function held by Director NEO & Head of School during the initial period)
 neo_addendum: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
+version: 0.3
 ---
 How we look after your information — for learners aged 13–18
 
 | **Operating entity** | Nudge Education Ltd (Company Number 10192753)                                  |
 |----------------------|--------------------------------------------------------------------------------|
 | **For**              | NEO learners aged 13–18                                                        |
-| **Status**           | Approved                                                                       |
+| **Status**           | Approved (v0.2, reviewed by Data Protection People Ltd); v0.3 amendments 30 Sep 2026 |
+| **Version**          | 0.3 — 30 September 2026                                                        |
 | **Owner**            | Data Protection Officer (function held by Director, NEO during initial period) |
 | **Where it goes**    | Before sign-up/sign-in; footer of NEO and Nudge websites                       |
 
@@ -50,6 +52,7 @@ We only ask for what we need to support you well. This can include:
 - If we are ever worried that you, or someone else, might be in danger, then we may ask you for information about this.
 - Sometimes information about any criminal records you may have, but only if we need it to keep someone safe.
 - Information created as you learn online, like attendance, work you have done, messages in your Google Classroom, and lesson transcripts (see below).
+- Anything you choose to tell us through the **Tell someone** page, and your daily **Cornerstones check-in** scores (see below).
 
 ### Where we get it from
 
@@ -76,16 +79,22 @@ NEO is built with a strict AI policy. Here is what that means for you:
 
 - AI is not used to make decisions about you. Where AI is used at all, a qualified person checks the result and stays responsible for it.
 - AI tools are not given your personal information unless we have done a formal data-protection check (a DPIA) and our Data Protection Officer has approved it. When AI helps staff plan lessons, it works from general material, not from information that identifies you.
-- The AI assistant built into our staff Google tools (Gemini) is switched on only for teachers and senior staff, and is switched off by default for learners.
+- The AI assistant built into our staff Google tools (Gemini) is switched on only for teachers and senior staff, and is switched off for learners. The one place it handles your information is lesson transcription, explained below.
 - We use AI mainly to help build and check the systems that keep you safe, not to interact with you directly.
 - We will tell you and your family whenever AI is used in a way that genuinely affects you.
 
-## Lesson recordings and transcripts
+## Lesson transcripts
 
-- Live lessons may be recorded and transcribed (turned into written text). Recordings mainly capture the teacher and the lesson, not learners.
-- We use recordings and transcripts for safeguarding, quality and staff training — not for anything else, and never shared publicly.
+- Live lessons are **not recorded**. Recording is switched off across NEO, and learners cannot record lessons either.
+- Instead, some live lessons may be **transcribed** (turned into written text) by the note-taking tool built into our staff Google tools (Gemini). Only the teacher hosting the lesson can switch it on; it is never available to learners. When it is on, it turns what is said in the lesson — including what you say — into text.
+- We use transcripts for safeguarding, quality and staff training — not for anything else, and never shared publicly.
 - Transcripts help us understand how lessons are going. We are careful about what we read into them, and a person — not a machine — makes any judgement.
-- We normally keep transcripts and recordings for one school term, unless we need to keep them longer for a safeguarding reason.
+- We normally keep transcripts for one school term, unless we need to keep them longer for a safeguarding reason.
+
+## Tell someone, and your daily check-in
+
+- **Tell someone** is a page in NEO where you can tell a member of staff if something is worrying you — about you or about someone else. You choose who to tell; our Designated Safeguarding Lead always sees it too, so that you get help. You can send it without your name. If you choose that, we do not store, email or log which account it came from.
+- **Your daily check-in (the Cornerstones)** asks you to score how you're doing on six things — connection, movement, creativity, reflection, rest and nutrition — from 1 to 5. It is optional, you can see your own scores, and there are no streaks, reminders or nudges. Your Practitioner-Mentor and the Designated Safeguarding Lead can see your scores so they can support you; no computer makes decisions from them. We keep them only for as long as we need them to support you, and we will set out the exact period here once our data-protection advisers have confirmed it.
 
 ## Keeping you safe online
 
@@ -103,7 +112,7 @@ We share only what's necessary, with:
 ## How long we keep your information
 
 - We usually keep your main learning and safeguarding records until your 25th birthday, because guidance for education and safeguarding asks us to.
-- Lesson transcripts and recordings: about one school term (longer only if needed for safeguarding).
+- Lesson transcripts: about one school term (longer only if needed for safeguarding).
 - If a referral doesn't go ahead, we delete the information within a short period.
 
 When information reaches the end of that time, we delete or destroy it securely.
