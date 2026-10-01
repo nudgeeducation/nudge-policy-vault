@@ -5,13 +5,13 @@ groups: [parents-carers, learners]
 provision: neo
 type: standalone-neo
 status: live
-version: v09.26
+version: v10.26
 owner_role: Director NEO & Head of School
 neo_addendum: false
 source_file: NEO Policies/NEO - Home-School Agreement v09.26.docx
 related_policies: [complaints-policy, neo-appeals-and-complaints-policy, neo-terms-and-conditions-parents-carers, neo-withdrawal-policy, child-protection-and-safeguarding-policy]
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** v09.26 · **Owner:** Director NEO & Head of School
+> **Operated by:** Nudge Education Ltd · **Version:** v10.26 · **Owner:** Director NEO & Head of School
 
 NEO BY NUDGE EDUCATION
 
@@ -48,7 +48,7 @@ NEO will:
 - Deliver live lessons through qualified subject-specialist teachers, and give your child a named Practitioner-Mentor, who is their mentor and your single point of contact. Practitioner-Mentors do not teach lessons.
 - Plan learning around your child's strengths, needs and aspirations in an Intervention Plan, and review it with you at least termly.
 - Keep your child safe online by using only approved platforms (Google Classroom, Google Meet and Google Workspace), and by filtering and monitoring any device your child uses for NEO through Smoothwall, in line with Keeping Children Safe in Education (currently the 2026 edition).
-- Record live lessons only for safeguarding, quality assurance and teacher training. Recordings are normally kept for one school term, longer only where a safeguarding reason requires it, and are never shared with anyone — including parents and carers — or posted or distributed. If information from a lesson is needed, we provide a written note or transcript.
+- Not record live lessons: recording is switched off across NEO. Some lessons may be transcribed (turned into written text) by the note-taking tool built into our staff Google tools, switched on only by the teacher hosting the lesson, for safeguarding, quality assurance and teacher training. Transcripts are normally kept for one school term, longer only where a safeguarding reason requires it, and are never shared publicly, posted or distributed. If information from a lesson is needed, we provide a written note or an extract from the transcript.
 - Handle personal information in line with UK GDPR, the Data Protection Act 2018 and the ICO Children's Code, and publish privacy notices for parents and for learners.
 - Share progress openly, through real-time progress tracking you can see, written reports and review meetings.
 - Make reasonable adjustments for special educational needs and disabilities, and provide pastoral support for learners experiencing emotionally based school non-attendance (EBSNA) or anxiety.
@@ -135,9 +135,10 @@ Safeguarding concerns are handled separately, straight away, under the [[child-p
 | Next Review | September 2027 |
 | Owner | Director, Nudge Education Online & Head of School |
 | Approver | Proprietor (Diego Melo) |
+| Amended | 1 October 2026 — v10.26: lesson recording withdrawn; lessons are not recorded and may be transcribed instead (section 3). For Proprietor approval at the NEO board on 8 October 2026 |
 | Amended | 24 September 2026 — section 6 complaint timescales aligned with the Nudge Education Complaints Policy v2.0 (outcome and review each within 15 working days; one review, by a panel with an independent member) |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
-| Changes | Aligned with the Terms and Conditions for Parents and Carers and the Billing and Payment Rules v0.3: contract relationship, notice, payment, VAT, home environment, devices, recordings, missed lessons, complaints timeframes and children missing education. Signing moved to the electronic Parent and Carer Agreement. Terminology updated to Practitioner-Mentor. |
+| Changes | Aligned with the Terms and Conditions for Parents and Carers and the Billing and Payment Rules v0.3: contract relationship, notice, payment, VAT, home environment, devices, lesson transcripts (not recordings), missed lessons, complaints timeframes and children missing education. Signing moved to the electronic Parent and Carer Agreement. Terminology updated to Practitioner-Mentor. |
 
 ---
 

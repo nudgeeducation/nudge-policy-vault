@@ -133,7 +133,7 @@ All tiers prioritise understanding and repair over punishment.
 ## 12. Preventing Harmful Content Online
 NEO maintains safe digital spaces through:
 Platform moderation — only approved, age-appropriate platforms are used.
-Session recording and monitoring — recordings may be reviewed for safeguarding and quality assurance in line with the Online Safety and Acceptable Use Policy and the Data Protection, Confidentiality and Privacy Policy.
+Session transcription and monitoring — live lessons are not recorded; where the hosting educator enables transcription, transcripts may be reviewed for safeguarding and quality assurance in line with the Online Safety and Acceptable Use Policy and the Privacy Notice for Learners.
 Filtering and supervision — inappropriate content is blocked and reported.
 Staff training — all teachers and practitioners are trained in online safety and the Prevent Duty.
 Immediate reporting — any harmful, sexualised, extremist, or discriminatory content triggers DSL escalation and, where appropriate, LADO contact.

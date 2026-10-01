@@ -103,7 +103,7 @@ last_reviewed: 2026-09
 
 8.2 All staff delivering provision hold enhanced DBS checks (with children's barred-list checks), prohibition checks where applicable, and receive mandatory safeguarding training; a staffing matrix is available on written request.
 
-8.3 Safeguarding escalation routes are agreed at referral. Concerns are reported to the DSL; where appropriate, to the LADO or relevant agencies. Lesson recordings are made for safeguarding, quality assurance and educator-training purposes only, are normally retained for one school term (longer only where a safeguarding reason requires it), and are never shared with any party, including the Commissioner; written or transcript-based notes are provided where session information is required.
+8.3 Safeguarding escalation routes are agreed at referral. Concerns are reported to the DSL; where appropriate, to the LADO or relevant agencies. Live lessons are not recorded. Lessons may be transcribed by the note-taking tool in NEO's staff Google Workspace, enabled only by the hosting educator, for safeguarding, quality assurance and educator-training purposes only; transcripts are normally retained for one school term (longer only where a safeguarding reason requires it) and are not shared with any party, including the Commissioner, except where a safeguarding duty requires disclosure to statutory agencies. Written notes or transcript extracts are provided where session information is required.
 
 8.4 The Commissioner shall share promptly all information reasonably necessary for NEO to keep the Learner safe, including safeguarding history, EHCP documentation and changes in circumstances.
 

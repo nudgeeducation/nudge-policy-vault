@@ -887,7 +887,7 @@ Name, date of birth, address, and contact details
 SEND information, EHCP documentation, and health or medical needs
 Attendance, engagement, and academic progress records
 Safeguarding records and referrals
-Session recordings (primarily the educator/lesson feed; see Section 16)
+Lesson transcripts (produced only where the hosting educator enables transcription; lessons are not recorded — see Section 16)
 Behavioural logs and pastoral notes
 EBSNA history and relevant context shared at admission
 ### 5.2 Parent and Carer Data
@@ -906,7 +906,7 @@ Where NEO processes special category data (for example health information, SEND 
 Confidentiality is never absolute where safeguarding concerns exist. The safety of the child always takes precedence.
 Information is shared on a need-to-know basis and in line with DfE (2018) Information Sharing: Advice for Practitioners and the seven Caldicott principles.
 Learners are informed, in age-appropriate ways, that safeguarding may override confidentiality.
-Personal images, video, or voice recordings are never shared publicly without explicit parental consent. Session recordings primarily capture the educator/lesson feed; if recordings need to be shared for safeguarding reasons, the identity of learners not related to the incident is obscured wherever technically possible.
+Personal images, video, or voice recordings are never shared publicly without explicit parental consent. Live lessons are not recorded; where a lesson transcript needs to be shared for safeguarding reasons, references to learners not related to the incident are redacted wherever possible.
 Only secure, approved platforms are used for processing and storing personal data (see Section 7).
 Termly joint DSL and DPO reviews monitor confidentiality practices and identify any breaches or areas for improvement.
 ## 7. Roles and Responsibilities
@@ -926,7 +926,7 @@ NEO processes personal data across the following approved platforms:
 | Platform | Purpose | Security Controls |
 |---|---|---|
 | Google Classroom | Curriculum delivery, assignments, resources, learner communication. | Role-based access; managed accounts; assignment privacy settings. |
-| Google Meet | Live lessons, tutorials, pastoral meetings. | Host controls; waiting rooms; recording controls; encrypted in transit. |
+| Google Meet | Live lessons, tutorials, pastoral meetings. | Host controls; waiting rooms; recording disabled; transcription host-enabled only; encrypted in transit. |
 | Google Workspace (Gmail, Drive, Docs, Sheets, Forms) | Communication, document collaboration, safeguarding records, registers. | Encrypted at rest and in transit; managed accounts; access controls; audit logs; DLP. |
 | Secure cloud storage | Safeguarding records, EHCP evidence, sensitive files. | Encrypted; access restricted to DSL, DPO, and authorised staff. |
 | Smoothwall | Filtering and monitoring of NEO-managed accounts and enrolled devices for safeguarding (KCSIE 2026). | Data processing agreement in place; alert access restricted to the DSL and designated triage staff; DPIA completed before go-live. |
@@ -1003,14 +1003,14 @@ Personal data is retained only for as long as necessary to fulfil the purpose fo
 | Learner records (general) | Until the learner's 25th birthday | DfE retention guidance. |
 | Safeguarding records | Until the learner's 25th birthday (or longer if required) | KCSIE 2026; local safeguarding partner guidance. |
 | EHCP documentation | Until the learner's 25th birthday | SEND Code of Practice 2015. |
-| Session recordings | Retained for one academic term, unless required for safeguarding | Proportionality and data minimisation. |
+| Lesson transcripts | Retained for one academic term, unless required for safeguarding | Proportionality and data minimisation. |
 | Staff employment records | Six years after leaving employment | HMRC and employment law requirements. |
 | DBS certificates | Securely destroyed once checked and recorded on the Single Central Record | DBS Code of Practice. |
 | Financial and payroll data | Six years from the end of the financial year | HMRC requirements. |
 
 Data that has reached the end of its retention period is securely deleted or destroyed. The DPO conducts an annual review of retained data to ensure compliance.
 ## 17. Images, Recordings, and Publication
-Session recordings primarily capture the educator/lesson feed and are used for training, quality assurance, and safeguarding.
+Live lessons are not recorded. Lesson transcripts, produced by the Google Workspace note-taking tool only when the hosting educator enables it, are used for safeguarding, quality assurance and training.
 Learner voices and images may be captured incidentally but are not identified or published.
 Explicit parental consent is obtained before any publication of images, recordings, or identifying information relating to a learner.
 Photographs or recordings taken during enrichment activities are governed by the same consent requirements.

@@ -24,6 +24,7 @@ Policies that are genuinely specific to **Nudge Education Online (NEO)** — the
 - [[neo-privacy-notice-learners|NEO — Privacy Notice for Learners]]
 - [[neo-terms-of-business-commissioned|NEO — Terms of Business (Commissioned Placements)]]
 - [[neo-terms-and-conditions-parents-carers|NEO — Terms and Conditions for Parents and Carers]]
+- [[neo-governor-code-of-conduct|NEO — Governor Code of Conduct]] — *board members; for adoption 8 October 2026*
 
 The NEO curriculum itself — key stages, qualification pathways and schemes — is published at [curriculum.nudgeeducation.online](https://curriculum.nudgeeducation.online).
 

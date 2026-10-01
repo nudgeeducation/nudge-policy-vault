@@ -5,13 +5,13 @@ groups: [all-staff, dsl-safeguarding, slt-directors, commissioners, parents-care
 provision: all
 type: core
 status: live
-version: Sept 2026 (NEO addendum v07.26)
+version: Sept 2026 (NEO addendum v10.26)
 owner_role: National DSL
 neo_addendum: true
 source_file: 5. Nudge Education - Documentation for Commissioning Purposes/Sept 2026 Nudge Education Safeguarding Policy (Including Child Protection) .pdf
 related_policies: [neo-online-safety-and-acceptable-use-policy, neo-artificial-intelligence-policy, complaints-policy, neo-appeals-and-complaints-policy, neo-home-school-agreement]
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** Sept 2026, review Sept 2027 (NEO addendum v07.26) · **Owner:** National Designated Safeguarding Lead
+> **Operated by:** Nudge Education Ltd · **Version:** Sept 2026, review Sept 2027 (NEO addendum v10.26) · **Owner:** National Designated Safeguarding Lead
 
 Safeguarding Policy (Including Child Protection Procedures) — September 2026. Review date: September 2027.
 
@@ -885,18 +885,18 @@ Core documents used in this rewrite:
 
 ## NEO Online Addendum
 
-_This addendum applies the canonical Nudge Education policy above to the online provision context of Nudge Education Online (NEO). Updated to Keeping Children Safe in Education 2026 and approved by the Director, NEO & Head of School on 16 July 2026; to be reviewed and countersigned by the Designated Safeguarding Lead (appointed 26 August 2026; review in progress)._
+_This addendum applies the canonical Nudge Education policy above to the online provision context of Nudge Education Online (NEO). Updated to Keeping Children Safe in Education 2026 and approved by the Director, NEO & Head of School on 16 July 2026 and reviewed by the Designated Safeguarding Lead (in post from 26 August 2026) in October 2026; v10.26 is presented for sign-off at the NEO board on 8 October 2026._
 
 NEO BY NUDGE EDUCATION
 
 Child Protection and Safeguarding Policy
 Nudge Education Online
 
-| Policy Owner | Designated Safeguarding Lead (DSL) — in post from 26 August 2026; countersignature in progress |
+| Policy Owner | Designated Safeguarding Lead (DSL) — in post from 26 August 2026 |
 |---|---|
-| Approved | 16 July 2026 — Director, NEO & Head of School |
-| Review Date | DSL review September 2026 (in progress), then July 2027 |
-| Version | 07.26 |
+| Approved | 16 July 2026 — Director, NEO & Head of School; reviewed by the DSL October 2026; for sign-off at the NEO board 8 October 2026 |
+| Review Date | July 2027, or sooner if KCSIE or OEAS guidance changes |
+| Version | 10.26 |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 | Proprietor | Proprietor, Nudge Education Ltd |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
@@ -1027,9 +1027,9 @@ Observed impact on the learner
 Immediate actions taken
 Who was informed or to whom the concern was escalated
 Staff must not store safeguarding notes on personal devices or send them via personal email. All records must be factual, dated, stored securely in compliance with UK GDPR and the ICO Children's Code, and reviewed termly by the DSL. Relevant screenshots, links, and session recording timestamps should be uploaded as supporting evidence. Patterns of recurring concern are flagged for early intervention.
-## 11. Session Recordings as Evidence
-Live sessions may be recorded for quality assurance, training, and safeguarding purposes. Where a safeguarding concern arises, the DSL may extract, secure, and disclose relevant recordings as evidence to statutory agencies (for example MASH/Front Door, police) or the LADO for allegations about adults who work with children.
-Access to recordings is strictly controlled. Retention follows the NEO Data Protection, Confidentiality and Privacy Policy schedule in compliance with UK GDPR, the Data Protection Act 2018, and the ICO Children's Code.
+## 11. Lesson Transcripts as Evidence
+Live lessons are not recorded: recording is switched off across NEO and learners cannot record. Lessons may be transcribed by the Google Workspace note-taking tool (Gemini), enabled only by the hosting educator, for safeguarding, quality assurance and training purposes. Where a safeguarding concern arises, the DSL may secure and disclose relevant transcripts as evidence to statutory agencies (for example MASH/Front Door, police) or the LADO for allegations about adults who work with children. A concern observed live is recorded contemporaneously in the NEO safeguarding log by the member of staff who observed it; the transcript supports that record and never replaces it.
+Access to transcripts is strictly controlled; staff must not store transcripts on personal devices or send them by personal email. Transcripts are retained for one school term unless a safeguarding reason requires longer, as set out in the NEO Privacy Notice for Learners, in compliance with UK GDPR, the Data Protection Act 2018 and the ICO Children's Code.
 ## 12. Escalation Pathways
 The DSL (or Deputy DSL) will:
 Child protection referrals: contact MASH/Front Door via published routes and thresholds, follow local procedures, and record all actions and decisions.
@@ -1079,7 +1079,7 @@ AI safety, deepfakes, and generative-AI-related harms
 ### 17.2 Learner Induction
 All learners receive safeguarding information during induction, including:
 Education on staying safe online and recognising digital risks
-Information about session recording, data privacy, and their rights under the ICO Children's Code
+Information about lesson transcription, data privacy, and their rights under the ICO Children's Code
 Clear explanation of how to report concerns and access support within the online learning environment
 ## 18. Attendance and Engagement
 NEO distinguishes between absence and children missing from education. The DSL maintains oversight to ensure consistent risk assessment and prompt communication with families and commissioners. EBSNA patterns are monitored and escalated appropriately. Where learners are also registered with a referring school or local authority, attendance information is shared as part of the safeguarding partnership.
@@ -1110,10 +1110,10 @@ Recruitment, Selection and Sub-Contracting Policy (canonical, with NEO addendum)
 
 ### Document Control
 
-| Version | 07.26 |
+| Version | 10.26 |
 |---|---|
-| Approved | 16 July 2026 — Director, NEO & Head of School (Acting DSL pending DSL appointment) |
-| Next Review | On DSL appointment (September 2026), then July 2027 |
+| Approved | 16 July 2026 — Director, NEO & Head of School; reviewed by the DSL October 2026; for sign-off at the NEO board 8 October 2026 |
+| Next Review | July 2027 |
 | Owner | Director, Nudge Education Online & Head of School |
 | Approver | Proprietor |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |

@@ -91,7 +91,7 @@ last_reviewed: 2026-09
 
 8.2 Because learning happens in your home, you are responsible for your child's physical environment: a responsible adult available during live sessions, a safe working space, and a working smoke alarm. If we become aware of unsafe conditions we may pause sessions until resolved, and we will work with you to resolve them.
 
-8.3 Live lessons may be recorded for safeguarding, quality assurance and teacher-training purposes only. Recordings are normally kept for one school term, and longer only where a safeguarding reason requires it. They are never shared with anyone — including parents and carers — and never posted or distributed. If information from a lesson is needed, we provide a written note or transcript.
+8.3 Live lessons are not recorded: recording is switched off across NEO, and learners cannot record lessons either. Some lessons may be transcribed (turned into written text) by the note-taking tool built into our staff Google tools, switched on only by the teacher hosting the lesson, for safeguarding, quality assurance and teacher-training purposes only. Transcripts are normally kept for one school term, longer only where a safeguarding reason requires it, and are never shared publicly, posted or distributed. If information from a lesson is needed, we provide a written note or an extract from the transcript.
 
 8.4 If you are worried about your child's safety or an adult's conduct, contact our Designated Safeguarding Lead straight away — contact details are given at enrolment and published on our website.
 

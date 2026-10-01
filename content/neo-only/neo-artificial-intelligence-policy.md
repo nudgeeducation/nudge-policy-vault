@@ -147,7 +147,7 @@ Therapeutic, counselling, or pastoral wellbeing sessions.
 Disciplinary, restorative, or other sensitive conversations.
 Conversations about mental health, self-harm, suicide, bereavement, or trauma.
 Any interaction where a learner, family member, or member of staff requests AI-free communication.
-In a Null Zone: session recording auto-summarisation, AI captioning, AI sentiment analysis, and any other AI inference tool are turned off. Where a platform cannot be configured to suspend AI processing, that platform is not used for Null Zone contexts.
+In a Null Zone: lesson transcription, auto-summarisation, AI captioning, AI sentiment analysis, and any other AI inference tool are turned off. Where a platform cannot be configured to suspend AI processing, that platform is not used for Null Zone contexts.
 Staff are trained to recognise when Null Zones are appropriate and how to activate them. The named practitioner is the default authoriser of Null Zone status for a conversation; the DSL is the default authoriser for safeguarding contexts.
 ## 11. Alignment with NEO's Ten Design Principles
 This policy is continuous with NEO's infrastructure design. The three agentic-AI pillars (Principles 8, 9, 10) are the operational spine of the Diamond Standard at NEO:

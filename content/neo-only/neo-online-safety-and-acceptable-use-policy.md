@@ -48,7 +48,7 @@ NEO uses a restricted, approved set of platforms. The use of unapproved platform
 | Platform | Purpose | Safeguarding controls |
 |---|---|---|
 | Google Classroom | Curriculum delivery, assignments, resources, feedback, and class communication | Role-based access; managed accounts; assignment privacy settings; guardian summaries |
-| Google Meet | Live online teaching, tutorials, pastoral sessions, and meetings | Host controls; waiting rooms; chat moderation; recording controls; screen-share permissions |
+| Google Meet | Live online teaching, tutorials, pastoral sessions, and meetings | Host controls; waiting rooms; chat moderation; recording disabled; transcription (host-enabled only); screen-share permissions |
 | Google Workspace (Gmail, Drive, Docs, Sheets, Forms) | Official communication, document collaboration, safeguarding records, registers, and administration | Encrypted at rest and in transit; managed accounts; access controls; audit logs; data loss prevention |
 
 ### 3.2 Communication channels
@@ -63,7 +63,7 @@ NEO uses a restricted, approved set of platforms. The use of unapproved platform
 - Online examination platforms where applicable, subject to DPIA.
 - Payment and commissioning systems for invoicing and reporting, with access restricted to the NEO finance function.
 
-This policy applies to all use of the above platforms, whether during teaching, preparation, recording, or communication.
+This policy applies to all use of the above platforms, whether during teaching, preparation, transcription, or communication.
 
 ## 4. Roles and responsibilities
 
@@ -136,7 +136,7 @@ NEO undertakes proportionate due diligence to ensure all platforms are safe and 
 
 ## 6. Monitoring and oversight
 
-- All live lessons are supervised and moderated by staff. Session recordings may be reviewed for safeguarding and quality assurance purposes.
+- All live lessons are supervised and moderated by staff. Live lessons are not recorded: recording is disabled across NEO and learners cannot record. Lessons may be transcribed by the Google Workspace note-taking tool (Gemini), enabled only by the hosting educator; transcripts may be reviewed for safeguarding and quality assurance purposes and are retained for one school term unless a safeguarding reason requires longer. Where a concern is observed live, staff record it contemporaneously in the NEO safeguarding log — the transcript is supporting evidence, not the record.
 - Platform features such as chat, breakout rooms, and permissions are configured proportionately to balance safeguarding with learner agency.
 - Concerns arising from platform use are recorded on the NEO safeguarding log and reviewed by the DSL.
 - Patterns of concern are analysed termly and used to inform training, platform settings, or policy review.

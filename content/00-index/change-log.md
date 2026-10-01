@@ -8,6 +8,13 @@ status: live
 ---
 A running log of structural changes, policy additions, and version uplifts.
 
+## 2026-10-01 — Lesson recording withdrawn; transcription; DSL review of the safeguarding addendum
+
+- Decision: live lessons are **not recorded** by default; recording is switched off across NEO. Lessons may be **transcribed** by the Google Workspace note-taking tool (Gemini), host-enabled only, for safeguarding and lesson reporting. Aligned to the Privacy Notice for Learners v0.3 (30 Sep) in: **Home-School Agreement** (v10.26 — for Proprietor approval at the NEO board 8 Oct), **Terms and Conditions for Parents and Carers** §8.3, **Terms of Business** §8.3, **Online Safety and Acceptable Use Policy** (platform table, scope, live-lesson supervision), **Behaviour and Regulation Policy** §12, **Artificial Intelligence Policy** (Null Zone), **Child Protection and Safeguarding Policy** NEO addendum §11 (now "Lesson Transcripts as Evidence"), **Data Protection and Information Security** NEO addendum (data categories, §17, retention table, platform table)
+- **Child Protection and Safeguarding Policy — NEO addendum v10.26**: reviewed by the DSL (October 2026); presented for sign-off at the NEO board 8 October 2026. "Countersignature in progress" markers removed
+- **NEO Governor Code of Conduct v10.26** added to the NEO standalone list (rebranded from the Nudge Access draft; ISI/ISS references removed; OEAS, KCSIE 2026 annual filtering-and-monitoring review, counts-only board papers and AI-tool rule added). For adoption at the NEO board 8 October 2026
+- Known follow-up: families who signed the Parent and Carer Agreement against HSA v09.26 should be told of the change (recording → transcription) — a notice, not a re-sign
+
 ## 2026-09-24 (ii) — NEO Terms: places, prices and timetable
 
 - **NEO Terms and Conditions for Parents and Carers** and **NEO Terms of Business (Commissioned Placements)** merged with the approved Google Doc versions: the Docs' products, prices, timetable and invoicing adopted; the published legal clauses kept (data protection, liability, late payment, device return, records transfer, KCSIE citation, policy links)
