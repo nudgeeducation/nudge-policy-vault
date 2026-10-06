@@ -6,6 +6,8 @@ provision: neo
 type: standalone-neo
 status: live
 version: v04.26
+review_date: 2027-03
+last_reviewed: 2026-10
 owner_role: Director NEO & Head of School + DSL
 neo_addendum: false
 source_file: NEO Policies/NEO - Behaviour and Regulation Policy v04.26.docx
@@ -20,10 +22,10 @@ Nudge Education Online
 | Policy Owner | Designated Safeguarding Lead (DSL), countersigned by Director, NEO & Head of School |
 |---|---|
 | Approved | April 2026 |
-| Review Date | April 2027 |
-| Version | 04.26 |
+| Review Date | 25 March 2027 (Spring 2 NEO board — curriculum and AI focus) |
+| Version | 04.26 (content confirmed 6 October 2026; for Proprietor ratification at the NEO board 8 October 2026) |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
-| Proprietor | Diego Melo |
+| Proprietor | Proprietor, Nudge Education Ltd (CEO) |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
 
 This policy applies to all learners, staff, practitioners, contractors, volunteers and visitors of Nudge Education Online (NEO). NEO is a fully online alternative provision for learners aged 11–18, operated by Nudge Education Ltd.
@@ -219,7 +221,7 @@ NEO Teaching and Learning Policy
 
 ### Document Control
 
-| Version | 04.26 |
+| Version | 04.26 (content confirmed 6 October 2026; for Proprietor ratification at the NEO board 8 October 2026) |
 |---|---|
 | Approved | April 2026 |
 | Next Review | April 2027 |

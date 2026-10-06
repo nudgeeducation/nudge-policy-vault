@@ -885,7 +885,7 @@ Core documents used in this rewrite:
 
 ## NEO Online Addendum
 
-_This addendum applies the canonical Nudge Education policy above to the online provision context of Nudge Education Online (NEO). Updated to Keeping Children Safe in Education 2026 and approved by the Director, NEO & Head of School on 16 July 2026 and reviewed by the Designated Safeguarding Lead (in post from 26 August 2026) in October 2026; v10.26 is presented for sign-off at the NEO board on 8 October 2026._
+_This addendum applies the canonical Nudge Education policy above to the online provision context of Nudge Education Online (NEO). Updated to Keeping Children Safe in Education 2026, approved by the Director, NEO & Head of School on 16 July 2026 and reviewed and countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026; v10.26 is presented for Proprietor sign-off at the NEO board on 8 October 2026._
 
 NEO BY NUDGE EDUCATION
 
@@ -894,7 +894,7 @@ Nudge Education Online
 
 | Policy Owner | Designated Safeguarding Lead (DSL) — in post from 26 August 2026 |
 |---|---|
-| Approved | 16 July 2026 — Director, NEO & Head of School; reviewed by the DSL October 2026; for sign-off at the NEO board 8 October 2026 |
+| Approved | 16 July 2026 — Director, NEO & Head of School; countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026; for Proprietor sign-off at the NEO board 8 October 2026 |
 | Review Date | July 2027, or sooner if KCSIE or OEAS guidance changes |
 | Version | 10.26 |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
@@ -1112,13 +1112,13 @@ Recruitment, Selection and Sub-Contracting Policy (canonical, with NEO addendum)
 
 | Version | 10.26 |
 |---|---|
-| Approved | 16 July 2026 — Director, NEO & Head of School; reviewed by the DSL October 2026; for sign-off at the NEO board 8 October 2026 |
+| Approved | 16 July 2026 — Director, NEO & Head of School; countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026; for Proprietor sign-off at the NEO board 8 October 2026 |
 | Next Review | July 2027 |
-| Owner | Director, Nudge Education Online & Head of School |
+| Owner | Designated Safeguarding Lead (NEO), with the Director, Nudge Education Online & Head of School |
 | Approver | Proprietor |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 
-Updated to Keeping Children Safe in Education 2026 (in force 1 September 2026) on 16 July 2026. This addendum is in force. The incoming Designated Safeguarding Lead reviews and countersigns it on appointment in September 2026, and that countersignature is recorded here.
+Updated to Keeping Children Safe in Education 2026 (in force 1 September 2026) on 16 July 2026. This addendum is in force. Reviewed and countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026 (v10.26). Presented for Proprietor sign-off, with the annual filtering and monitoring review, at the NEO board on 8 October 2026.
 
 ---
 
@@ -1126,7 +1126,7 @@ Updated to Keeping Children Safe in Education 2026 (in force 1 September 2026) o
 
 | Field | Value |
 |---|---|
-| Version | Sept 2026 (NEO addendum v07.26) |
+| Version | Sept 2026 (NEO addendum v10.26) |
 | Owner | National DSL |
 | Status | live |
 | Source file | `5. Nudge Education - Documentation for Commissioning Purposes/Sept 2026 Nudge Education Safeguarding Policy (Including Child Protection) .pdf` |

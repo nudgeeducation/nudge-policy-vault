@@ -6,6 +6,8 @@ provision: neo
 type: standalone-neo
 status: live
 version: v04.26
+review_date: 2027-03
+last_reviewed: 2026-10
 owner_role: Director NEO & Head of School
 neo_addendum: false
 source_file: NEO Policies/NEO - Teaching and Learning Policy v04.26.docx
@@ -20,16 +22,16 @@ Nudge Education Online
 | Policy Owner | Director, Nudge Education Online & Head of School |
 |---|---|
 | Approved | April 2026 |
-| Review Date | April 2027 |
-| Version | 04.26 |
+| Review Date | 25 March 2027 (Spring 2 NEO board — curriculum and AI focus) |
+| Version | 04.26 (content confirmed 6 October 2026; for Proprietor ratification at the NEO board 8 October 2026) |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
-| Proprietor | Diego Melo |
+| Proprietor | Proprietor, Nudge Education Ltd (CEO) |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
 
 This policy applies to all learners, staff, practitioners, contractors, volunteers and visitors of Nudge Education Online (NEO). NEO is a fully online alternative provision for learners aged 11–18, operated by Nudge Education Ltd.
 NEO is not a DfE-registered independent school and is not subject to Independent Schools Inspectorate (ISI) inspection. NEO is pursuing OEAS accreditation only.
 ## 1. Purpose and Ethos
-Nudge Education Online (NEO) exists to provide a trauma-informed, neurodivergent-affirming, and relational online education for learners aged 11–18 (Key Stage 3, 4, and 5). Teaching and learning practices are grounded in the six Cornerstones — Connection, Movement, Creativity, Reflection, Rest, and Nutrition — and are designed to:
+Nudge Education Online (NEO) exists to provide a trauma-informed, neurodivergent-affirming, and relational online education for learners aged 11–18, grouped by stage — Foundation (broadly Key Stage 3), Intermediate (broadly Key Stage 4) and Advanced (post-16) — never by the year group a birthday says they should be in. Teaching and learning practices are grounded in the six Cornerstones — Connection, Movement, Creativity, Reflection, Rest, and Nutrition — and are designed to:
 Create a safe, welcoming digital environment where every learner feels seen, heard, and valued.
 Focus on learner strengths, interests, and agency as starting points for growth.
 Remove the barriers of traditional schooling by using flexible models of live, asynchronous, and independent learning.
@@ -58,6 +60,12 @@ Careers education, information, advice, and guidance (CEIAG)
 Where learners are working towards formal qualifications, NEO supports preparation for GCSE, IGCSE, Functional Skills, and other accredited pathways as appropriate. Public examination entry fees are charged separately to families or commissioners (see NEO Admissions Policy and Terms and Conditions).
 ### 2.2 Spiritual, Moral, Social, and Cultural Development (SMSC)
 The curriculum actively promotes learners' spiritual, moral, social, and cultural development. Learners are encouraged to explore fundamental British values — democracy, the rule of law, individual liberty, and mutual respect and tolerance — through discussion, debate, and reflective practice. SMSC is woven into pastoral interactions, RSHE, and the broader curriculum rather than delivered as standalone lessons.
+### 2.4 Stages, groupings and the timetable
+
+Learners are grouped by **stage**, not year group: Foundation (broadly Key Stage 3), Intermediate (broadly Key Stage 4) and Advanced (post-16). Placement in a stage follows the Initial Assessment and the baseline taken by Heads of Subject in the first lessons, and is reviewed each half-term; older learners are never grouped with younger ones. Foundation and Intermediate are open at launch; Advanced opens when a viable group exists.
+
+The **interim timetable** (from 14 September 2026, until the Qualified Educator pool is signed off; reviewed at each half-term) runs Monday to Thursday: assembly or mentor group at 09:30, live 45-minute lessons from 10:00 with a break between each, and the Practitioner-Mentor check-in at 13:00 followed by self-paced work in Google Classroom. Friday is Cornerstones Day, led by the Practitioner-Mentor. Monday to Thursday is 12 hours a week of live provision; with Cornerstones Day, 15. Launch capacity is two stage groups of up to ten, taught by the two Heads of Subject; English Language is taught to both groups, International GCSE English Literature to Intermediate, and Maths and Science to both. Art joins the live grid when an art educator is signed off. Until then the Head of Science covers maths and the Head of English covers art as interim arrangements. Each group of ten beyond the first twenty needs a signed-off Qualified Educator, so admissions follow sign-off, not the other way round. Qualified Educators deliver every live lesson; Practitioner-Mentors do not teach.
+
 ## 3. Modes of Teaching and Learning
 Teaching and learning at NEO take place across three complementary modes. Live lessons are delivered by qualified subject-specialist teachers. Pastoral continuity across all three modes is provided by the learner's named practitioner (mentor), who is a single point of contact rather than a lesson deliverer.
 
@@ -184,7 +192,7 @@ NEO Terms and Conditions
 
 ### Document Control
 
-| Version | 04.26 |
+| Version | 04.26 (content confirmed 6 October 2026; for Proprietor ratification at the NEO board 8 October 2026) |
 |---|---|
 | Approved | April 2026 |
 | Next Review | April 2027 |

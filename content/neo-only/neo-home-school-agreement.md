@@ -134,8 +134,8 @@ Safeguarding concerns are handled separately, straight away, under the [[child-p
 | Approved | September 2026 |
 | Next Review | September 2027 |
 | Owner | Director, Nudge Education Online & Head of School |
-| Approver | Proprietor (Diego Melo) |
-| Amended | 1 October 2026 — v10.26: lesson recording withdrawn; lessons are not recorded and may be transcribed instead (section 3). For Proprietor approval at the NEO board on 8 October 2026 |
+| Approver | Proprietor (CEO of Nudge Education Ltd) |
+| Amended | 1 October 2026 — v10.26: lesson recording withdrawn; lessons are not recorded and may be transcribed instead (section 3). Change note re-approved by the Proprietor on 6 October 2026 |
 | Amended | 24 September 2026 — section 6 complaint timescales aligned with the Nudge Education Complaints Policy v2.0 (outcome and review each within 15 working days; one review, by a panel with an independent member) |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 | Changes | Aligned with the Terms and Conditions for Parents and Carers and the Billing and Payment Rules v0.3: contract relationship, notice, payment, VAT, home environment, devices, lesson transcripts (not recordings), missed lessons, complaints timeframes and children missing education. Signing moved to the electronic Parent and Carer Agreement. Terminology updated to Practitioner-Mentor. |

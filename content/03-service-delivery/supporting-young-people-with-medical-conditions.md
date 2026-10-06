@@ -538,9 +538,9 @@ NUDGE EDUCATION 2025                                      13
 
 ---
 
-## NEO Online Addendum  — DRAFT
+## NEO Online Addendum
 
-> **Status:** This NEO online addendum is newly drafted and pending review by the Director of Operations and Designated Safeguarding Lead before it goes live. The canonical Nudge Education Supporting Young People with Medical Conditions Policy above continues to apply.
+> **Status:** This NEO online addendum was approved by the Director, NEO & Head of School on 6 October 2026 (reviewed with the Designated Safeguarding Lead) and is in force; presented for Proprietor ratification at the NEO board on 8 October 2026. The canonical Nudge Education Supporting Young People with Medical Conditions Policy above continues to apply.
 
 ### Scope of this addendum
 
