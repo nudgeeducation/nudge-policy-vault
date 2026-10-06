@@ -5,17 +5,17 @@ groups: [parents-carers, learners]
 provision: all
 type: core
 status: live
-version: Jul 2026
+version: Oct 2026
 owner_role: Data Protection Officer
 neo_addendum: false
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** Jul 2026 · **Owner:** Data Protection Officer
+> **Operated by:** Nudge Education Ltd · **Version:** Oct 2026 · **Owner:** Data Protection Officer
 
-Privacy Policy: Parents and Students Last Updated: 22/7/2026
+Privacy Policy: Parents and Students Last Updated: 6/10/2026
 
 Date of next review: 6/12/2026
 
-Version: v1.2 Classification: Public Author: Data Protection Lead
+Version: v1.3 Classification: Public Author: Data Protection Lead
 
 Who we are
 We're Nudge Education Limited. We help young people get back into learning. We are
@@ -72,7 +72,16 @@ deliver appropriate help;
 
 - in an emergency, we can share information to protect someone's life.
 
-We don't rely on a contract with the student or parent for our core work.
+We don't rely on a contract with the student or parent for our core work — the
+assessment, support, teaching and safeguarding described above.
+
+Where you fund a place yourself (for example a family-funded NEO placement or
+tuition), there is also a contract between you and Nudge Education Ltd — the terms
+and conditions you accept when the place is confirmed. We use your contact and
+billing details, and the details of the place (hours, dates, fees), because we need
+them to perform that contract: to confirm the place, invoice you, and deal with
+notice, changes and any refunds. This does not change how we use information about
+your child's needs, learning or safety, which stays on the bases above.
 
 Photos/testimonials for publicity are optional. We only use them with your consent. You
 can say no, or change your mind later.
@@ -138,6 +147,6 @@ on our website.
 
 | Field | Value |
 |---|---|
-| Version | Jul 2026 (v1.2) |
+| Version | Oct 2026 (v1.3) — adds the contract basis for self-funded places; v1.2 (Jul 2026) reviewed by the external data protection adviser |
 | Owner | Data Protection Officer |
 | Status | live |
