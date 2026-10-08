@@ -36,4 +36,4 @@ Where a Nudge Education policy already covers the topic, the **NEO Online Addend
 
 ---
 
-**Last updated:** 18 May 2026 · **Operated by:** Nudge Education Ltd (Company Number 10192753)
+**Last updated:** 8 October 2026 · **Operated by:** Nudge Education Ltd (Company Number 10192753)
