@@ -4,18 +4,18 @@ audience: both
 groups: [all-staff, qualified-teachers, learners, parents-carers, commissioners]
 provision: neo
 type: standalone-neo
-status: for-approval
+status: live
 version: v10.26
-review_date: 2027-10
+review_date: 2026-12
 owner_role: RSHE Lead & Head of School
 neo_addendum: false
 last_reviewed: 2026-10
 ---
-| **Date**        | October 2026                                                      |
+| **Date**        | 14 October 2026                                                      |
 |-----------------|-------------------------------------------------------------------|
-| **Review Date** | October 2027, after the annual parent and carer consultation       |
-| **Owner**       | RSHE Lead (Head of English), with the SENCo and the Director, NEO & Head of School |
-| **Approved by** | For approval by the Proprietor (CEO of Nudge Education Ltd) — NEO board, 8 October 2026 |
+| **Review Date** | December 2026, then annually, or sooner if practice or legislation changes       |
+| **Owner**       | RSHE Lead (the Nudge Education National Designated Safeguarding Lead during the initial period), with the SENCo and the Director, NEO & Head of School |
+| **Approved by** | Approved by the Director, NEO & Head of School on 14 October 2026 under authority delegated by the Proprietor (CEO of Nudge Education Ltd) on 13 October 2026; for noting at the NEO board on 3 December 2026 |
 | **Version**     | v10.26                                                            |
 
 *A fully online alternative provision for learners aged 11–18*
@@ -46,7 +46,15 @@ NEO consults parents and carers on this policy and the RSHE curriculum each autu
 
 ## 6. Right to request withdrawal
 
-Parents and carers may request that their child be withdrawn from some or all of **sex education** delivered as part of RSE. They may not withdraw their child from relationships education or health education, and NEO will not withdraw a learner from the sex education element of the science curriculum. A request is made in writing to the Head of School, who discusses it with the parent or carer, and with the learner where appropriate, before granting it. The guidance provides that a parent's request is granted except where the learner, in the three terms before they turn 16, asks to receive sex education; from that point NEO arranges for the learner to receive it. Withdrawn learners receive alternative learning during the sessions concerned.
+NEO adopts the withdrawal arrangements set out in the DfE's statutory RSHE guidance as its own standard, given that it is not a registered school.
+
+Parents and carers may request that their child be withdrawn from some or all of the **sex education** delivered as part of RSE. This does not extend to relationships education, health education or relevant content taught as part of the science curriculum.
+
+Requests should be made in writing to the Head of School, who will discuss the request with the parent or carer and, where appropriate, the learner. This discussion will consider the reasons for the request, the benefits of sex education and any potential impact of withdrawal. Requests will normally be granted, although the Head of School may decline a request in exceptional circumstances, including where there are safeguarding concerns or particular vulnerabilities. Discussions and decisions will be recorded.
+
+From three terms before a learner turns 16, they may choose to receive sex education even where a parent or carer has previously requested withdrawal. NEO will ensure learners are aware of this option and make appropriate arrangements for them to access the education.
+
+Where withdrawal is agreed, NEO will provide appropriate, purposeful alternative learning during the relevant sessions.
 
 ## 7. Equality, SEND and inclusion
 
@@ -65,4 +73,3 @@ The RSHE Lead keeps the scheme of work and records coverage by stage. Learner vo
 - [[../03-service-delivery/send-policy|SEND Policy]] with NEO Online Addendum
 - [[../01-all-company/equality-diversity-and-inclusion|Equality, Diversity and Inclusion Policy]]
 
-*Section 6 should be checked against the withdrawal provisions in the 2025 guidance before this policy is minuted.*

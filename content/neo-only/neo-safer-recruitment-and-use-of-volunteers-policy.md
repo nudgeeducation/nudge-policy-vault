@@ -4,18 +4,18 @@ audience: internal
 groups: [all-staff, office-staff, qualified-teachers, commissioners]
 provision: neo
 type: standalone-neo
-status: for-approval
+status: live
 version: v10.26
-review_date: 2027-04
-owner_role: Director NEO & Head of School, with the DSL
+review_date: 2026-12
+owner_role: Director NEO & Head of School, with HR and compliance
 neo_addendum: false
 last_reviewed: 2026-10
 ---
-| **Date**        | October 2026                                                      |
+| **Date**        | 14 October 2026                                                      |
 |-----------------|-------------------------------------------------------------------|
-| **Review Date** | April 2027, with the NEO addendum it points to                    |
-| **Owner**       | Director, Nudge Education Online & Head of School, jointly with the Designated Safeguarding Lead |
-| **Approved by** | For approval by the Proprietor (CEO of Nudge Education Ltd) — NEO board, 8 October 2026 |
+| **Review Date** | December 2026, then annually, or sooner if practice or legislation changes                    |
+| **Owner**       | Director, Nudge Education Online & Head of School, with Nudge Education HR and compliance; the Designated Safeguarding Lead (NEO) and the Nudge Education National Designated Safeguarding Lead are consulted |
+| **Approved by** | Approved by the Director, NEO & Head of School on 14 October 2026 under authority delegated by the Proprietor (CEO of Nudge Education Ltd) on 13 October 2026; for noting at the NEO board on 3 December 2026 |
 | **Version**     | v10.26                                                            |
 
 *A fully online alternative provision for learners aged 11–18*

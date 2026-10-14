@@ -4,18 +4,18 @@ audience: both
 groups: [all-staff, qualified-teachers, learners, parents-carers, commissioners]
 provision: neo
 type: standalone-neo
-status: for-approval
+status: live
 version: v10.26
-review_date: 2027-10
+review_date: 2026-12
 owner_role: Designated Safeguarding Lead & SENCo
 neo_addendum: false
 last_reviewed: 2026-10
 ---
-| **Date**        | October 2026                                                      |
+| **Date**        | 14 October 2026                                                      |
 |-----------------|-------------------------------------------------------------------|
-| **Review Date** | October 2027                                                      |
+| **Review Date** | December 2026, then annually, or sooner if practice or legislation changes                                                      |
 | **Owner**       | Designated Safeguarding Lead and SENCo, with the Director, NEO & Head of School |
-| **Approved by** | For approval by the Proprietor (CEO of Nudge Education Ltd) — NEO board, 8 October 2026 |
+| **Approved by** | Approved by the Director, NEO & Head of School on 14 October 2026 under authority delegated by the Proprietor (CEO of Nudge Education Ltd) on 13 October 2026; for noting at the NEO board on 3 December 2026 |
 | **Version**     | v10.26                                                            |
 
 *A fully online alternative provision for learners aged 11–18*
@@ -36,11 +36,13 @@ Every learner completes the WHO-5 Wellbeing Index at the Initial Assessment and 
 
 Support is graduated. Universal: the Cornerstones, the RSHE and Relational Intelligence curriculum, a named Practitioner-Mentor, small groups, cameras-off as a regulation strategy, a breakout room with the mentor available in every session, and the "Tell someone" routes in the [[neo-privacy-notice-learners|NEO — Privacy Notice for Learners]]. Targeted: a support plan agreed with the learner, family and SENCo (adjusted timetable, check-in frequency, sensory and screen adjustments, work in Google Classroom when live sessions are too much), reviewed each half-term. Specialist: where a learner needs more than an education setting can provide, the DSL and SENCo work with the family, the commissioner and the home local authority to secure it (GP, CAMHS or the local mental health support team, the school nurse, social care), and NEO keeps the learner's education going alongside.
 
-NEO staff are not clinicians and do not provide therapy or counselling. They notice, listen, keep the learner safe, and connect them to help.
+NEO staff are not clinicians and do not provide therapy or counselling. They notice, listen, keep the learner safe, and connect them to help. Some Nudge Education practitioners hold therapeutic qualifications, and additional 1:1 mentoring time can be commissioned for a learner, but Nudge Education Ltd is not a clinical service: a mentoring session may be therapeutic in approach — building a relationship, talking about what would help — and is never therapy, counselling or a clinical intervention, and is never described to families or commissioners as such. Where a learner needs clinical support, NEO's role is to help the family and commissioner secure it from the right service.
+
+Nudge Education trains core staff as Mental Health First Aiders through the Nudge Designated Safeguarding Lead, who is an accredited MHFA trainer; the accreditation lasts three years. NEO staff can take this course, and the introductory mental health awareness session, as part of NEO's CPD programme, and NEO aims to have at least one trained Mental Health First Aider available during live session hours.
 
 ## 5. When a learner is at risk
 
-Any indication that a learner may be at risk of harm, including self-harm, suicidal thoughts, disordered eating or abuse, is a safeguarding matter and is reported to the DSL the same day under the [[../03-service-delivery/child-protection-and-safeguarding-policy|Child Protection and Safeguarding Policy]]. The DSL is contactable throughout live session hours. Where a learner is in immediate danger during a session, the host keeps the learner on the call, the co-host contacts the DSL and the family, and emergency services are called if the learner cannot be reached or is not safe; the critical incident protocol applies. Staff do not ask safety-assessment questions; they stay with the learner and get the right adult. Smoothwall Monitor alerts on managed devices are triaged by the DSL under the online safety policy.
+Any indication that a learner may be at risk of harm, including self-harm, suicidal thoughts, disordered eating or abuse, is a safeguarding matter and is reported to the DSL the same day under the [[../03-service-delivery/child-protection-and-safeguarding-policy|Child Protection and Safeguarding Policy]]. The DSL is contactable throughout live session hours. Where a learner is in immediate danger during a session, the host keeps the learner on the call, the co-host contacts the DSL and the family, and emergency services are called if the learner cannot be reached or is not safe; the critical incident protocol applies. Staff do not ask safety-assessment questions; they stay with the learner and get the right adult. Smoothwall safeguarding alerts are reviewed and decided by the DSL under the online safety policy (Monitor on managed devices is not yet deployed; filtering is).
 
 ## 6. Families and commissioners
 

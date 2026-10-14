@@ -4,18 +4,18 @@ audience: internal
 groups: [all-staff, qualified-teachers, office-staff]
 provision: neo
 type: standalone-neo
-status: for-approval
+status: live
 version: v10.26
-review_date: 2027-10
-owner_role: Director NEO & Head of School
+review_date: 2026-12
+owner_role: Director of Operations & HR, with Director NEO & Head of School
 neo_addendum: false
 last_reviewed: 2026-10
 ---
-| **Date**        | October 2026                                                      |
+| **Date**        | 14 October 2026                                                      |
 |-----------------|-------------------------------------------------------------------|
-| **Review Date** | October 2027, with the Nudge Education Whistleblowing Policy (due December 2026) |
-| **Owner**       | Director, Nudge Education Online & Head of School                 |
-| **Approved by** | For approval by the Proprietor (CEO of Nudge Education Ltd) — NEO board, 8 October 2026 |
+| **Review Date** | December 2026, then annually, or sooner if practice or legislation changes |
+| **Owner**       | Director of Operations (Nudge Education Ltd) and HR, with the Director, NEO & Head of School; the Designated Safeguarding Lead (NEO) is involved at the point of any allegation and any referral to the LADO                 |
+| **Approved by** | Approved by the Director, NEO & Head of School on 14 October 2026 under authority delegated by the Proprietor (CEO of Nudge Education Ltd) on 13 October 2026; for noting at the NEO board on 3 December 2026 |
 | **Version**     | v10.26                                                            |
 
 *A fully online alternative provision for learners aged 11–18*
@@ -43,7 +43,7 @@ A person who raises a concern in good faith is protected under the Public Intere
 
 ## 5. What happens next
 
-The person receiving the concern acknowledges it within two working days, decides whether an investigation is needed and by whom, and tells the whistleblower what will happen and, within the limits of confidentiality, the outcome. Safeguarding concerns follow safeguarding timescales. The Head of School reports the number and nature of whistleblowing concerns to the NEO board termly, without names.
+The person receiving the concern acknowledges it within two working days, decides whether an investigation is needed and by whom, and tells the whistleblower what will happen and, within the limits of confidentiality, the outcome. Safeguarding concerns follow safeguarding timescales. Where a concern is, or contains, an allegation about an adult who works with children, the Designated Safeguarding Lead (NEO) is told at once and decides whether the local authority designated officer (LADO) threshold is met and makes any referral; if the matter is conduct only and stays internal, it is handled by Nudge Education HR under the Disciplinary and Investigation Policy, and the DSL is told the outcome in case anything in the investigation becomes reportable. The DSL does not conduct the investigation. The Head of School reports the number and nature of whistleblowing concerns to the NEO board termly, without names.
 
 ## 6. Related documents
 

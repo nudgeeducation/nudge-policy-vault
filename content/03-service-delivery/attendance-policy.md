@@ -356,7 +356,7 @@ Appendix 1 - DfE School Attendance Codes
 
 ## NEO Online Addendum
 
-> **Status:** This NEO online addendum was approved by the Director, NEO & Head of School on 6 October 2026 (reviewed with the Designated Safeguarding Lead) and is in force; presented for Proprietor ratification at the NEO board on 8 October 2026. The canonical Nudge Education Attendance Policy above continues to apply.
+> **Status:** This NEO online addendum was approved by the Director, NEO & Head of School on 6 October 2026 (reviewed with the Designated Safeguarding Lead) and is in force; listed at the NEO board on 8 October 2026; on 13 October 2026 the Proprietor delegated approval to the Director, NEO & Head of School, who confirmed it in force on 14 October 2026 (for noting at the NEO board on 3 December 2026). The canonical Nudge Education Attendance Policy above continues to apply.
 
 ### Scope of this addendum
 

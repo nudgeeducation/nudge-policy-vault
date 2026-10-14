@@ -885,7 +885,7 @@ Core documents used in this rewrite:
 
 ## NEO Online Addendum
 
-_This addendum applies the canonical Nudge Education policy above to the online provision context of Nudge Education Online (NEO). Updated to Keeping Children Safe in Education 2026, approved by the Director, NEO & Head of School on 16 July 2026 and reviewed and countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026; v10.26 is presented for Proprietor sign-off at the NEO board on 8 October 2026._
+_This addendum applies the canonical Nudge Education policy above to the online provision context of Nudge Education Online (NEO). Updated to Keeping Children Safe in Education 2026, approved by the Director, NEO & Head of School on 16 July 2026 and reviewed and countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026; v10.26 is listed at the NEO board on 8 October 2026; on 13 October 2026 the Proprietor delegated approval to the Director, NEO & Head of School, who confirmed it in force on 14 October 2026 (for noting at the NEO board on 3 December 2026)._
 
 NEO BY NUDGE EDUCATION
 
@@ -894,7 +894,7 @@ Nudge Education Online
 
 | Policy Owner | Designated Safeguarding Lead (DSL) — in post from 26 August 2026 |
 |---|---|
-| Approved | 16 July 2026 — Director, NEO & Head of School; countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026; for Proprietor sign-off at the NEO board 8 October 2026 |
+| Approved | 16 July 2026 — Director, NEO & Head of School; countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026; listed at the NEO board on 8 October 2026; on 13 October 2026 the Proprietor delegated approval to the Director, NEO & Head of School, who confirmed it in force on 14 October 2026 (for noting at the NEO board on 3 December 2026) |
 | Review Date | July 2027, or sooner if KCSIE or OEAS guidance changes |
 | Version | 10.26 |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
@@ -992,8 +992,9 @@ NEO's Digital Consent and AI Safety Parent Guide is shared with every family at 
 | Role | Responsibility |
 |---|---|
 | Proprietor | Named accountable person under OEAS framework; provides strategic leadership and oversight; ensures safeguarding is embedded across all online delivery; confirms safeguarding-related appointments; responds to DSL escalations; commissions annual independent safeguarding review once operations stabilise. |
-| Director, NEO & Head of School | Ensures safeguarding is operationally resourced; co-signs this policy alongside the DSL; escalates to the Proprietor; liaises with commissioners where placement safety is in question. |
-| Designated Safeguarding Lead (DSL) | Takes lead responsibility for safeguarding and child protection across NEO; oversees implementation in all online environments; maintains contact with local safeguarding partners, online safety regulators, and police where required; ensures staff are competent in digital safeguarding, incident reporting, and triage; reviews filtering and monitoring outcomes termly; coordinates Early Help assessments and multi-agency working. Owner of this policy. |
+| Director, NEO & Head of School | Ensures safeguarding is operationally resourced; co-signs this policy alongside the DSL; escalates to the Proprietor; liaises with commissioners where placement safety is in question. With the Assistant SENCo, identifies at Initial Assessment which learners need a second adult or other adjusted staffing, records this in the learner risk assessment (taking the DSL's recommendations) and provisions it with the educator team. |
+| Engagement and Operations Coordinator | First-line follow-up when a concern form is submitted: acknowledges it, tracks the full report and actions to closure, and makes routine contact with the family or commissioner where the DSL agrees that is appropriate. Holds no safeguarding judgement — that remains with the DSL. |
+| Designated Safeguarding Lead (DSL) | Takes lead responsibility for safeguarding and child protection across NEO; oversees implementation in all online environments; maintains contact with local safeguarding partners, online safety regulators, and police where required; ensures staff are competent in digital safeguarding, incident reporting, and triage; reviews filtering and monitoring outcomes termly; coordinates Early Help assessments and multi-agency working; makes every safeguarding judgement and decides referral and escalation. The DSL advises on, but does not write, learner risk assessments and does not decide staffing ratios (see the Head of School row); the DSL does not join or observe live sessions as a form of oversight — a learner about whom there is a live concern is withdrawn from the session and the concern is handled through the routes below. Owner of this policy. |
 | Deputy DSL | Deputises for the DSL in their absence; trained to equivalent level; escalation route when DSL unavailable. |
 | SENCo | Ensures SEND learners receive proportionate safeguarding responses; advises on communication needs and reasonable adjustments during disclosures; liaises with EHCP teams. |
 | Qualified subject-specialist teachers | Deliver live lessons; maintain professional boundaries; recognise and escalate concerns in line with this policy; undergo annual safeguarding training. |
@@ -1016,6 +1017,7 @@ DSL (core hours): details maintained in Document Control appendix and published 
 Deputy DSL: details maintained in Document Control appendix.
 Confidential safeguarding mailbox: safeguarding@nudgeeducation.online — a shared mailbox restricted to the DSL and Deputy DSLs, providing continuous cover when any individual is unavailable (KCSIE 2026 robust DSL cover arrangements).
 Anonymous reporting form: link maintained by the DSL; displayed in every NEO online classroom.
+NEO safeguarding concern form (on the NEO Today platform where learners join their lessons): any member of staff submits it; it writes to the restricted safeguarding record and alerts the DSL, the Head of School and the Engagement and Operations Coordinator. An incident in a session is flagged to the Engagement and Operations Coordinator at once and the full form follows within 24 hours; the Coordinator follows up in the first instance and the DSL decides any referral or escalation.
 Out of hours or emergency: call 999 (immediate risk) and notify the on-call safeguarding lead.
 ## 10. Recording Safeguarding Concerns
 All safeguarding concerns must be recorded using the NEO safeguarding log. Records must include:
@@ -1026,7 +1028,7 @@ Context: platform used, session type, and any relevant digital evidence
 Observed impact on the learner
 Immediate actions taken
 Who was informed or to whom the concern was escalated
-Staff must not store safeguarding notes on personal devices or send them via personal email. All records must be factual, dated, stored securely in compliance with UK GDPR and the ICO Children's Code, and reviewed termly by the DSL. Relevant screenshots, links, and session recording timestamps should be uploaded as supporting evidence. Patterns of recurring concern are flagged for early intervention.
+Staff must not store safeguarding notes on personal devices or send them via personal email. All records must be factual, dated, stored securely in compliance with UK GDPR and the ICO Children's Code, and reviewed termly by the DSL. Relevant screenshots, links, and transcript timestamps should be uploaded as supporting evidence. Patterns of recurring concern are flagged for early intervention.
 ## 11. Lesson Transcripts as Evidence
 Live lessons are not recorded: recording is switched off across NEO and learners cannot record. Lessons may be transcribed by the Google Workspace note-taking tool (Gemini), enabled only by the hosting educator, for safeguarding, quality assurance and training purposes. Where a safeguarding concern arises, the DSL may secure and disclose relevant transcripts as evidence to statutory agencies (for example MASH/Front Door, police) or the LADO for allegations about adults who work with children. A concern observed live is recorded contemporaneously in the NEO safeguarding log by the member of staff who observed it; the transcript supports that record and never replaces it.
 Access to transcripts is strictly controlled; staff must not store transcripts on personal devices or send them by personal email. Transcripts are retained for one school term unless a safeguarding reason requires longer, as set out in the NEO Privacy Notice for Learners, in compliance with UK GDPR, the Data Protection Act 2018 and the ICO Children's Code.
@@ -1038,6 +1040,7 @@ Out of hours: use the local Emergency Duty Service for urgent situations and rec
 Maintain a log of all referrals and their outcomes.
 Where a learner is also on the roll of a referring school or local authority, inform the relevant contact of all safeguarding concerns in a timely manner.
 Ensure contact details for relevant LADOs are maintained in Appendix A.
+Routine contact with families and commissioners about a concern is made by the Practitioner-Mentor or the Engagement and Operations Coordinator; the DSL contacts them directly where the threshold, or the DSL's judgement, requires it. The DSL is not expected to contact every family or commissioner for every concern raised.
 ## 13. Early Help and Multi-Agency Working
 The DSL coordinates Early Help to ensure learners receive support at the right time, distinguishing between universal and community-based early help and targeted early help delivered through Family Help, and making referrals to Family Help where the threshold is met (KCSIE 2026). NEO works in partnership with local safeguarding partners including Family Hubs, CAMHS, school nursing, education welfare, SEND services, youth justice, police public protection, and voluntary or community organisations.
 The DSL will:
@@ -1061,7 +1064,7 @@ Associated policy: NEO Safer Recruitment and Use of Volunteers Policy (in develo
 Where NEO runs activities outside core operating hours (for example, evening or weekend sessions), a safeguarding-competent lead is on call. If the DSL and Deputy DSL are both unavailable, a named senior member of staff trained to DSL standard provides cover.
 Staff must comply with the NEO Lone Working Guidance, including agreed check-ins and approved communication channels. For urgent concerns: ensure immediate safety, call 999 if required, notify the on-call safeguarding lead, record the concern immediately on the safeguarding log, and contact the Emergency Duty Service as needed.
 ## 16. Filtering and Monitoring
-NEO maintains proportionate, age-appropriate filtering and monitoring systems with leadership oversight. The DSL, in coordination with IT support, is responsible for reviewing risks termly. Actions taken are logged to improve safeguarding practice. All monitoring is compliant with UK GDPR, the Data Protection Act 2018, and the ICO Children's Code, and is conducted in the learners' best interests.
+NEO maintains proportionate, age-appropriate filtering and monitoring systems with leadership oversight, provided through Smoothwall. As at 14 October 2026, Smoothwall Cloud Filter is live on every NEO staff and learner account (it applies in any Chrome browser the user signs into with that account) and on NEO-managed Chromebooks; Smoothwall Monitor is not yet deployed and will be enabled on managed learner devices once the supplier's data processing agreement is countersigned and the DPIA entry is complete. Safeguarding alerts route to the DSL. The DSL, in coordination with IT support, is responsible for reviewing risks termly. Actions taken are logged to improve safeguarding practice. All monitoring is compliant with UK GDPR, the Data Protection Act 2018, and the ICO Children's Code, and is conducted in the learners' best interests.
 ## 17. Training
 ### 17.1 Staff and Practitioner Training
 All staff, practitioners, contractors, and volunteers receive safeguarding training at induction and at least annually thereafter. All staff read KCSIE Part One in full (the condensed Annex A version was withdrawn in KCSIE 2026). Training covers:
@@ -1082,7 +1085,7 @@ Education on staying safe online and recognising digital risks
 Information about lesson transcription, data privacy, and their rights under the ICO Children's Code
 Clear explanation of how to report concerns and access support within the online learning environment
 ## 18. Attendance and Engagement
-NEO distinguishes between absence and children missing from education. The DSL maintains oversight to ensure consistent risk assessment and prompt communication with families and commissioners. EBSNA patterns are monitored and escalated appropriately. Where learners are also registered with a referring school or local authority, attendance information is shared as part of the safeguarding partnership.
+NEO distinguishes between absence and children missing from education. The Head of School and the Engagement and Operations Coordinator maintain the attendance and engagement picture and make the routine contact with families and commissioners; the DSL is told the same day when contact fails and decides escalation under the NEO Children Missing Education Policy. EBSNA patterns are monitored and escalated appropriately. Where learners are also registered with a referring school or local authority, attendance information is shared as part of the safeguarding partnership.
 ## 19. Monitoring and Review
 This policy is reviewed annually by the DSL, the Director / Head of School, and the Proprietor, or sooner upon significant change in legislation, regulation, or operational model. Feedback from learners, staff, and parents informs updates. Review cadence may increase during the initial period, subject to review according to the growth rate of the organisation.
 
@@ -1112,13 +1115,13 @@ Recruitment, Selection and Sub-Contracting Policy (canonical, with NEO addendum)
 
 | Version | 10.26 |
 |---|---|
-| Approved | 16 July 2026 — Director, NEO & Head of School; countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026; for Proprietor sign-off at the NEO board 8 October 2026 |
+| Approved | 16 July 2026 — Director, NEO & Head of School; countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026; listed at the NEO board on 8 October 2026; on 13 October 2026 the Proprietor delegated approval to the Director, NEO & Head of School, who confirmed it in force on 14 October 2026 (for noting at the NEO board on 3 December 2026) |
 | Next Review | July 2027 |
 | Owner | Designated Safeguarding Lead (NEO), with the Director, Nudge Education Online & Head of School |
 | Approver | Proprietor |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 
-Updated to Keeping Children Safe in Education 2026 (in force 1 September 2026) on 16 July 2026. This addendum is in force. Reviewed and countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026 (v10.26). Presented for Proprietor sign-off, with the annual filtering and monitoring review, at the NEO board on 8 October 2026.
+Updated to Keeping Children Safe in Education 2026 (in force 1 September 2026) on 16 July 2026. This addendum is in force. Reviewed and countersigned by the Designated Safeguarding Lead (NEO) on 6 October 2026 (v10.26). Presented listed at the NEO board on 8 October 2026; on 13 October 2026 the Proprietor delegated approval to the Director, NEO & Head of School, who confirmed it in force on 14 October 2026 (for noting at the NEO board on 3 December 2026); the annual filtering and monitoring review goes to the NEO board.
 
 ---
 

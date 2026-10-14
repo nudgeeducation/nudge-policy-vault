@@ -4,18 +4,18 @@ audience: both
 groups: [all-staff, qualified-teachers, office-staff, parents-carers, commissioners]
 provision: neo
 type: standalone-neo
-status: for-approval
+status: live
 version: v10.26
-review_date: 2027-04
+review_date: 2026-12
 owner_role: Data Protection Officer
 neo_addendum: false
 last_reviewed: 2026-10
 ---
-| **Date**        | October 2026                                                      |
+| **Date**        | 14 October 2026                                                      |
 |-----------------|-------------------------------------------------------------------|
-| **Review Date** | April 2027, with the NEO addendum it points to                    |
-| **Owner**       | Data Protection Officer (function held by the Director, NEO & Head of School during the initial period, with the external data protection adviser) |
-| **Approved by** | For approval by the Proprietor (CEO of Nudge Education Ltd) — NEO board, 8 October 2026 |
+| **Review Date** | December 2026, then annually, or sooner if practice or legislation changes                    |
+| **Owner**       | Data Protection Officer (Nudge Education Ltd), with the external data protection adviser and the Director, NEO & Head of School |
+| **Approved by** | Approved by the Director, NEO & Head of School on 14 October 2026 under authority delegated by the Proprietor (CEO of Nudge Education Ltd) on 13 October 2026; for noting at the NEO board on 3 December 2026 |
 | **Version**     | v10.26                                                            |
 
 *A fully online alternative provision for learners aged 11–18*
@@ -32,6 +32,7 @@ Twenty NEO documents refer to the "NEO Data Protection, Confidentiality and Priv
 - **Recording and transcripts**: live lessons are not recorded. Transcripts, where a host enables them, are kept for one term and used for safeguarding and lesson reporting only.
 - **Sharing to safeguard**: the Data Protection Act 2018 and UK GDPR do not prevent sharing information to keep a child safe. Staff share with the DSL first; the DSL decides onward sharing.
 - **Breaches**: any suspected breach goes to the DPO function the same day; the 72-hour ICO clock starts when NEO becomes aware. Learners' and families' rights requests go to neo@nudgeeducation.online and are answered within one month.
+- **Where NEO stands today (14 October 2026)**: full-time learners learn on a NEO account and a NEO-managed Chromebook, where the protections in this policy apply in full. Learners on the Discovery Phase, part-time packages and tuition use their own devices, so protection is at account level only (see the NEO Remote Learning Policy). Learners who came to NEO from Nudge Education's existing online tuition are being moved onto NEO accounts during the 2026/27 year; until a learner has a NEO account, their sessions run on the practitioner's Nudge Education account and NEO has no account-level visibility of them. NEO is auditing those sessions, has identified the risk, and will update this page in December 2026 with the position then. NEO does not describe its data protection as complete where it is not.
 - **Shared surfaces**: learner and special-category data stay out of shared drives, chats and documents that are synced across the two Nudge tenants unless the DPIA covers it. Board papers carry counts, never names.
 
 ## Related documents

@@ -6,7 +6,7 @@ provision: neo
 type: standalone-neo
 status: live
 review_date: 2027-08
-owner_role: Data Protection Officer (function held by Director NEO & Head of School during the initial period)
+owner_role: Data Protection Officer (Nudge Education Ltd)
 neo_addendum: false
 last_reviewed: 2026-09
 version: 0.3
@@ -18,7 +18,7 @@ How we look after your information — for learners aged 13–18
 | **For**              | NEO learners aged 13–18                                                        |
 | **Status**           | Approved (v0.2, reviewed by Data Protection People Ltd); v0.3 amendments 30 Sep 2026 |
 | **Version**          | 0.3 — 30 September 2026                                                        |
-| **Owner**            | Data Protection Officer (function held by Director, NEO during initial period) |
+| **Owner**            | Data Protection Officer (Nudge Education Ltd), with the Director, NEO & Head of School |
 | **Where it goes**    | Before sign-up/sign-in; footer of NEO and Nudge websites                       |
 
 ## Your privacy at NEO
@@ -98,7 +98,7 @@ NEO is built with a strict AI policy. Here is what that means for you:
 
 ## Keeping you safe online
 
-To help keep you safe while you learn online, your NEO account (and any NEO-provided device) has safety filtering and monitoring, provided by a tool called **Smoothwall**. It flags signs that someone might be at risk of harm — like searches or messages that suggest someone is being hurt or bullied. A person always reviews anything that's flagged; the tools don't act on their own, and anything serious goes to our Designated Safeguarding Lead.
+To help keep you safe while you learn online, your NEO account (and any NEO-provided device) has safety filtering, provided by a tool called **Smoothwall** (made by a company called Qoria). It blocks harmful websites in any Chrome browser you sign into with your NEO account. Smoothwall holds your name, your NEO email address and which group you are in (for example, learner or staff), plus a log of the sites the filter checks. Safety monitoring — which flags signs that someone might be at risk of harm, like searches or messages that suggest someone is being hurt or bullied — is not switched on yet; when it is, it will only run on NEO Chromebooks, a person will always review anything that is flagged, the tools don't act on their own, and anything serious goes to our Designated Safeguarding Lead. We will tell you before monitoring starts.
 
 ## Who we share information with
 

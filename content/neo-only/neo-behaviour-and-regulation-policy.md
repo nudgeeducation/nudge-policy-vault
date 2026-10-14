@@ -23,7 +23,7 @@ Nudge Education Online
 |---|---|
 | Approved | April 2026 |
 | Review Date | 25 March 2027 (Spring 2 NEO board — curriculum and AI focus) |
-| Version | 04.26 (content confirmed 6 October 2026; for Proprietor ratification at the NEO board 8 October 2026) |
+| Version | 04.26 (content confirmed 6 October 2026; listed at the NEO board on 8 October 2026; on 13 October 2026 the Proprietor delegated approval to the Director, NEO & Head of School, who confirmed it in force on 14 October 2026 (for noting at the NEO board on 3 December 2026)) |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 | Proprietor | Proprietor, Nudge Education Ltd (CEO) |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
@@ -221,7 +221,7 @@ NEO Teaching and Learning Policy
 
 ### Document Control
 
-| Version | 04.26 (content confirmed 6 October 2026; for Proprietor ratification at the NEO board 8 October 2026) |
+| Version | 04.26 (content confirmed 6 October 2026; listed at the NEO board on 8 October 2026; on 13 October 2026 the Proprietor delegated approval to the Director, NEO & Head of School, who confirmed it in force on 14 October 2026 (for noting at the NEO board on 3 December 2026)) |
 |---|---|
 | Approved | April 2026 |
 | Next Review | April 2027 |

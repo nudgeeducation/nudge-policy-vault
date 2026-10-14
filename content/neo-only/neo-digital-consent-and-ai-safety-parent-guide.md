@@ -4,18 +4,18 @@ audience: external
 groups: [parents-carers, learners, all-staff]
 provision: neo
 type: standalone-neo
-status: for-approval
+status: live
 version: v10.26
-review_date: 2027-10
+review_date: 2026-12
 owner_role: Director NEO & Head of School
 neo_addendum: false
 last_reviewed: 2026-10
 ---
-| **Date**        | October 2026                                                      |
+| **Date**        | 14 October 2026                                                      |
 |-----------------|-------------------------------------------------------------------|
-| **Review Date** | October 2027, and whenever the tools NEO uses change              |
+| **Review Date** | December 2026, then annually, or sooner if practice or legislation changes              |
 | **Owner**       | Director, Nudge Education Online & Head of School, with the Designated Safeguarding Lead |
-| **Approved by** | For approval by the Proprietor (CEO of Nudge Education Ltd) — NEO board, 8 October 2026 |
+| **Approved by** | Approved by the Director, NEO & Head of School on 14 October 2026 under authority delegated by the Proprietor (CEO of Nudge Education Ltd) on 13 October 2026; for noting at the NEO board on 3 December 2026 |
 | **Version**     | v10.26                                                            |
 
 *Shared with every family at induction. Written for parents and carers; your child gets a shorter version.*
@@ -32,9 +32,13 @@ Live lessons are **not recorded**. Recording is switched off across NEO and lear
 
 ## Filtering and monitoring
 
-On a NEO Chromebook, web filtering and safeguarding monitoring (Smoothwall) are on all the time, wherever the device is. Filtering blocks harmful sites. Monitoring looks for signs that a child may be at risk, for example searches about self-harm or contact from a stranger, and alerts our Designated Safeguarding Lead, who decides what to do and will talk to you. It is there to keep your child safe, not to catch them out, and it is not used on your family's own devices. Monitoring data is held by the supplier for 15 months and then deleted.
+Every NEO account has web filtering (Smoothwall, made by Qoria). It works in any Chrome browser your child signs into with their NEO account, so it is on a NEO Chromebook all the time, wherever the device is, and it is also on in the NEO profile if your child signs into Chrome on your own device. Filtering blocks harmful sites. It does not look at anything outside the NEO account — other browsers, other profiles and your own family accounts are not touched.
 
-If your child is on a Discovery Phase, a part-time package or tuition and uses your own device, **NEO's filtering and monitoring do not apply**. Your child is protected by the managed NEO account, by how we run lessons (a teacher and a second adult in every session, no private messaging, the teacher decides who joins) and by what we teach about staying safe online. The filtering on your home broadband and your own parental controls matter in that case, and we will help you set them up if you ask. If you would prefer your child to have a NEO device, tell us.
+A NEO Chromebook is a managed school device: your child cannot open a private or guest window, add another account, or switch off the filtering. We tell children this plainly at induction so it is not a surprise.
+
+Safeguarding monitoring, which looks for signs that a child may be at risk (for example searches about self-harm or contact from a stranger) and alerts our Designated Safeguarding Lead, is not yet switched on. When it is, it will run only on NEO Chromebooks, never on your family's own devices; the DSL decides what to do with an alert and our Engagement and Operations Coordinator or your child's Practitioner-Mentor will talk to you. Monitoring data is held by the supplier for 15 months and then deleted. We will update this guide and tell you when monitoring starts.
+
+If your child is on a Discovery Phase, a part-time package or tuition and uses your own device, filtering applies only inside the NEO account, and there is no monitoring. Your child is also protected by the managed NEO account, by how we run lessons (a teacher and a second adult in every session, no private messaging, the teacher decides who joins) and by what we teach about staying safe online. The filtering on your home broadband and your own parental controls matter in that case, and we will help you set them up if you ask. If you would prefer your child to have a NEO device, tell us.
 
 ## The AI tools NEO uses
 

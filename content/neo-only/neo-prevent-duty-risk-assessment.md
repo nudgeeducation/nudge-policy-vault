@@ -4,18 +4,18 @@ audience: internal
 groups: [all-staff, qualified-teachers, dsl]
 provision: neo
 type: standalone-neo
-status: for-approval
+status: live
 version: v10.26
-review_date: 2027-10
-owner_role: Designated Safeguarding Lead & Head of School
+review_date: 2026-12
+owner_role: Designated Safeguarding Lead & Head of School; Nudge National DSL oversight
 neo_addendum: false
 last_reviewed: 2026-10
 ---
-| **Date**        | October 2026                                                      |
+| **Date**        | 14 October 2026                                                      |
 |-----------------|-------------------------------------------------------------------|
-| **Review Date** | October 2027, and after any incident or change in the local or national threat picture |
-| **Owner**       | Designated Safeguarding Lead, with the Director, NEO & Head of School |
-| **Approved by** | For approval by the Proprietor (CEO of Nudge Education Ltd) — NEO board, 8 October 2026 |
+| **Review Date** | December 2026, then annually, or sooner if practice or legislation changes |
+| **Owner**       | Designated Safeguarding Lead (NEO), with the Director, NEO & Head of School; oversight by the Nudge Education National Designated Safeguarding Lead |
+| **Approved by** | Approved by the Director, NEO & Head of School on 14 October 2026 under authority delegated by the Proprietor (CEO of Nudge Education Ltd) on 13 October 2026; for noting at the NEO board on 3 December 2026 |
 | **Version**     | v10.26                                                            |
 
 *A fully online alternative provision for learners aged 11–18*

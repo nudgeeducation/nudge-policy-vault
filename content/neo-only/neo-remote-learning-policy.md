@@ -4,18 +4,18 @@ audience: both
 groups: [all-staff, qualified-teachers, learners, parents-carers, commissioners]
 provision: neo
 type: standalone-neo
-status: for-approval
+status: live
 version: v10.26
-review_date: 2027-03
+review_date: 2026-12
 owner_role: Director NEO & Head of School
 neo_addendum: false
 last_reviewed: 2026-10
 ---
-| **Date**        | October 2026                                                      |
+| **Date**        | 14 October 2026                                                      |
 |-----------------|-------------------------------------------------------------------|
-| **Review Date** | 25 March 2027 (Spring 2 NEO board), then annually                 |
+| **Review Date** | December 2026, then annually, or sooner if practice or legislation changes                 |
 | **Owner**       | Director, Nudge Education Online & Head of School, with the Designated Safeguarding Lead |
-| **Approved by** | For approval by the Proprietor (CEO of Nudge Education Ltd) — NEO board, 8 October 2026 |
+| **Approved by** | Approved by the Director, NEO & Head of School on 14 October 2026 under authority delegated by the Proprietor (CEO of Nudge Education Ltd) on 13 October 2026; for noting at the NEO board on 3 December 2026 |
 | **Version**     | v10.26                                                            |
 
 *A fully online alternative provision for learners aged 11–18*
@@ -38,11 +38,11 @@ Before a first lesson the Practitioner-Mentor confirms with the family, under th
 
 ## 4. Devices, filtering and monitoring — and the gap
 
-Every full-time learner is issued a NEO-managed Chromebook. Managed devices are enrolled in NEO's Google Admin console (with a Chrome Enterprise Upgrade licence per device) and carry Smoothwall Cloud Filter and Smoothwall Monitor, so that filtering, monitoring and safeguarding alerts reach the device wherever it is used. NEO devices remain NEO property, are returned at the end of the placement, and are covered by the device terms in the [[neo-home-school-agreement|NEO — Home-School Agreement]].
+Every full-time learner is issued a NEO-managed Chromebook. Managed devices are enrolled in NEO's Google Admin console (with a Chrome Enterprise Upgrade licence per device) and carry Smoothwall Cloud Filter, so that filtering reaches the device wherever it is used; the browser is locked down (no incognito or guest mode, no additional profiles, no developer tools, sign-in restricted to NEO accounts). Smoothwall Monitor will be added to managed learner devices once the supplier's data processing agreement is countersigned and the DPIA entry is complete, so that safeguarding alerts reach the DSL from the device wherever it is. NEO devices remain NEO property, are returned at the end of the placement, and are covered by the device terms in the [[neo-home-school-agreement|NEO — Home-School Agreement]].
 
-Learners on the Discovery Phase, part-time packages and tuition use their own devices by default. **On a learner's own device NEO's filtering and monitoring do not apply.** Those learners are protected at browser level only: a NEO-managed learner account with a locked-down organisational unit (no external email, restricted Drive sharing, Meet joined only through the NEO account), educator-controlled Meet sessions with manual admission, no private messaging and a second adult in every session, and the online safety education in the RSHE and Cornerstones curriculum. NEO states this gap plainly to families, commissioners and the NEO board, and the board has accepted it knowingly with this policy as the mitigation. Where a commissioner or family wants a Discovery or part-time learner to have full filtering and monitoring, NEO issues a managed loan device on the terms in the Home-School Agreement. The gap and its mitigations are reviewed at every half-termly board and in the annual filtering and monitoring review under the [[neo-online-safety-and-acceptable-use-policy|NEO — Online Safety and Acceptable Use Policy]].
+Learners on the Discovery Phase, part-time packages and tuition use their own devices by default. **On a learner's own device, NEO's filtering applies only inside the Chrome profile signed into the NEO account, and NEO's monitoring does not apply at all.** Filtering is installed by policy on every NEO learner account, so it is active whenever the learner signs into Chrome with that account, but other browsers, other profiles and the rest of the device are untouched. Those learners are otherwise protected at account and session level: a NEO-managed learner account with a locked-down organisational unit (no external email, restricted Drive sharing, Meet joined only through the NEO account), educator-controlled Meet sessions with manual admission, no private messaging and a second adult in every session, and the online safety education in the RSHE and Cornerstones curriculum. NEO states this gap plainly to families, commissioners and the NEO board, and the board has accepted it knowingly with this policy as the mitigation. Where a commissioner or family wants a Discovery or part-time learner to have full filtering and monitoring, NEO issues a managed loan device on the terms in the Home-School Agreement. The gap and its mitigations are reviewed at every half-termly board and in the annual filtering and monitoring review under the [[neo-online-safety-and-acceptable-use-policy|NEO — Online Safety and Acceptable Use Policy]].
 
-Smoothwall Monitor is deployed only to NEO-managed learner devices and learner accounts, never to staff accounts or family devices; captured data is held by the supplier for 15 months and then deleted, and the processing is covered by the NEO platform DPIA.
+Smoothwall Monitor, when deployed, runs only on NEO-managed learner devices, never on staff accounts or family devices; captured data is held by the supplier for 15 months and then deleted. Smoothwall's processing (directory data, filtering logs and, later, monitoring captures) is recorded in the NEO platform DPIA; the supplier's data processing agreement is awaited at the date of this policy — see the Online Safety and Acceptable Use Policy, section 7.
 
 ## 5. Standards for every live session
 
@@ -61,7 +61,7 @@ If Google Workspace or a learner's connection fails during a session, the host t
 | **Role** | **Responsibility** |
 |---|---|
 | Director, NEO & Head of School | Owns this policy; defines the timetable; reports the device-coverage position to the board. |
-| Designated Safeguarding Lead | Owns the filtering and monitoring review with the named SLT lead; receives Smoothwall alerts; decides on loan devices on safeguarding grounds. |
+| Designated Safeguarding Lead | Owns the filtering and monitoring review with the named SLT lead; receives Smoothwall alerts and makes the safeguarding judgement on each (first-line follow-up by the Engagement and Operations Coordinator); decides on loan devices on safeguarding grounds. |
 | CTO / technical lead | Device enrolment, Google Admin and Smoothwall configuration; Meet settings; platform continuity. |
 | Qualified Educators and Practitioner-Mentors | Run sessions to the standards in section 5; raise concerns the same day. |
 | Parents and carers | Provide the home conditions in section 3; keep NEO devices for NEO use; tell NEO when circumstances change. |

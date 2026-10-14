@@ -23,7 +23,7 @@ Nudge Education Online
 |---|---|
 | Approved | April 2026 |
 | Review Date | 25 March 2027 (Spring 2 NEO board — curriculum and AI focus) |
-| Version | 04.26 (content confirmed 6 October 2026; for Proprietor ratification at the NEO board 8 October 2026) |
+| Version | 04.26 (content confirmed 6 October 2026; approved by the Proprietor (CEO of Nudge Education Ltd) with the Director, NEO & Head of School on 13 October 2026) |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
 | Proprietor | Proprietor, Nudge Education Ltd (CEO) |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
@@ -126,6 +126,12 @@ Transparency to learners and parents.
 Compliance with this policy, the NEO Online Safety and Acceptable Use Policy, and the NEO Data Protection, Confidentiality and Privacy Policy.
 Regular audit and impact monitoring, at least annually.
 A declared contribution when AI has materially shaped a document, email, or resource.
+### 7.1 Tools in use at NEO (October 2026)
+The AI tools NEO uses, and the terms on which each is used, are listed here so that staff, families and reviewers can see them in one place. Any addition goes through the review in section 5 first.
+- **Gemini in Google Workspace** (staff accounts only; switched off for learners): meeting note-taking and lesson transcription, enabled only by the host, under the transcription rules in the NEO Privacy Notice for Learners and the Online Safety and Acceptable Use Policy. Covered by the NEO platform DPIA.
+- **Claude (Anthropic)**: used by the NEO leadership team on individual accounts for drafting, structuring and reviewing documents, policy and system design, and operating NEO's administrative systems under instruction. Used only with the leadership team's own company-managed devices; staff who use it sign NEO's Claude terms of use, which sit inside this policy; no learner personal data or special-category data is entered; outputs that shape a document carry a declared contribution. Learner-facing use is prohibited (section 6).
+- **Smoothwall (Qoria) filtering and monitoring**: categorisation and alerting is automated, but every safeguarding alert is reviewed and decided by a person (the DSL) under the Online Safety and Acceptable Use Policy; no automated action is taken against a learner.
+- **NOOMA (the Nudge operational platform)**: any AI-assisted feature that touches learner data is subject to a DPIA entry and the amber review before it is switched on; none is live for NEO learners at the date of this policy.
 ## 8. Safeguarding Integration
 AI-related safeguarding concerns are treated as seriously as any other safeguarding issue:
 Staff must report concerns immediately to the Designated Safeguarding Lead (DSL).
@@ -246,7 +252,7 @@ NEO Digital Consent and AI Safety Parent Guide
 
 ### Document Control
 
-| Version | 04.26 (content confirmed 6 October 2026; for Proprietor ratification at the NEO board 8 October 2026) |
+| Version | 04.26 (content confirmed 6 October 2026; approved by the Proprietor (CEO of Nudge Education Ltd) with the Director, NEO & Head of School on 13 October 2026) |
 |---|---|
 | Approved | April 2026 |
 | Next Review | April 2027 |
