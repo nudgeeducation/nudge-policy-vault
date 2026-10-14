@@ -5,6 +5,7 @@ groups: [slt-directors, all-staff]
 provision: all
 type: meta
 status: live
+draft: true
 ---
 A running log of structural changes, policy additions, and version uplifts.
 

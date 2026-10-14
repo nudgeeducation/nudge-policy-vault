@@ -32,7 +32,6 @@ Genuinely online-specific policies (where Nudge Education has no parent equivale
 - [[../audience/commissioner-pack|Commissioner Pack]] — for LA commissioning officers
 - [[../audience/parents-carers-pack|Parents & Carers Pack]] — for families
 - [[tag-taxonomy|Tag Taxonomy]] — how policies are classified
-- [[change-log|Change Log]] — vault build history
 
 ## Tag taxonomy in brief
 
@@ -53,4 +52,4 @@ See [[tag-taxonomy|the full taxonomy]] for details.
 
 ## Status
 
-Vault built April 2026. See the [[change-log|change log]] for ongoing work.
+Vault built April 2026. The change log is maintained in the repository.
