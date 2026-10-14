@@ -24,7 +24,7 @@ Policies that are genuinely specific to **Nudge Education Online (NEO)** — the
 - [[neo-privacy-notice-learners|NEO — Privacy Notice for Learners]]
 - [[neo-terms-of-business-commissioned|NEO — Terms of Business (Commissioned Placements)]]
 - [[neo-terms-and-conditions-parents-carers|NEO — Terms and Conditions for Parents and Carers]]
-- [[neo-governor-code-of-conduct|NEO — Governor Code of Conduct]] — *board members; for adoption 8 October 2026*
+- [[neo-governor-code-of-conduct|NEO — Governor Code of Conduct]] — *board members; adopted 8 October 2026*
 - [[neo-attendance-and-admission-register-policy|NEO — Attendance and Admission Register Policy]] (OEAS 4.7)
 - [[neo-children-missing-education-policy|NEO — Children Missing Education Policy]]
 - [[neo-remote-learning-policy|NEO — Remote Learning Policy]] (full-time definition; devices; filtering and monitoring coverage) (OEAS 1.3, 4.8, 4.9)

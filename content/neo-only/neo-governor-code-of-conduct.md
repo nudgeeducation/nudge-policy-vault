@@ -12,7 +12,7 @@ neo_addendum: false
 last_reviewed: 2026-10
 related_policies: [child-protection-and-safeguarding-policy, neo-online-safety-and-acceptable-use-policy, neo-artificial-intelligence-policy, data-protection-and-information-security, managing-allegations-against-staff-policy, whistleblowing-policy, neo-appeals-and-complaints-policy]
 ---
-> **NEO by Nudge Education** · Version v10.26 · For adoption at the NEO board 8 October 2026 · Review October 2027
+> **NEO by Nudge Education** · Version v10.26 · Adopted by the NEO board on 8 October 2026 · Review October 2027
 
 | | |
 |---|---|
@@ -20,7 +20,7 @@ related_policies: [child-protection-and-safeguarding-policy, neo-online-safety-a
 | **Version** | v10.26 |
 | **Operating entity** | Nudge Education Ltd (Company Number 10192753) |
 | **Owner** | Proprietor / Chair of the NEO board |
-| **Approved** | For adoption at the NEO board, 8 October 2026 |
+| **Approved** | Adopted by the NEO board on 8 October 2026; individual signed copies held by the Head of School |
 | **Review** | Annually (October), or sooner if regulatory change requires it |
 | **Applies to** | All members of the NEO board, including the Proprietor's representative and any co-opted member |
 

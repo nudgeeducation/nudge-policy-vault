@@ -18,7 +18,8 @@ A running log of structural changes, policy additions, and version uplifts.
 - **Mental Health and Wellbeing §4**: Nudge Education is not a clinical service — mentoring may be therapeutic in approach but is never therapy or counselling, and is not sold as such; MHFA training available through the Nudge DSL (accredited trainer).
 - **Data Protection front door**: a dated "where NEO stands today" line — own-device learners protected at account level only; existing Nudge online learners being moved to NEO accounts through 2026/27; position to be updated December 2026.
 - **AI Policy §7.1**: tools in use listed — Gemini (staff only), Claude (leadership, individual accounts, company devices, terms of use, no learner data), Smoothwall (automated categorisation, human decision), NOOMA (no AI features live for NEO learners).
-- Not changed in this pass: retention periods (transcripts one term stands; safeguarding-record and referral-form periods await the external data protection adviser); the Governor Code of Conduct adoption line; the untracked Synthetic Identity policy and the two superseded drafts in the working tree.
+- **Governor Code of Conduct**: adopted by the NEO board on 8 October 2026 (status line updated; signed copies to follow by eSignature).
+- Not changed in this pass: retention periods (transcripts one term stands; safeguarding-record and referral-form periods await the external data protection adviser); the untracked Synthetic Identity policy and the two superseded drafts in the working tree.
 
 ## 2026-10-01 — Lesson recording withdrawn; transcription; DSL review of the safeguarding addendum
 
