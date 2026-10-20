@@ -4,21 +4,21 @@ audience: both
 groups: [all-staff, qualified-teachers, learners, parents-carers, commissioners]
 provision: neo
 type: standalone-neo
-status: live
-version: v09.26
+status: for-approval
+version: v10.26
 review_date: 2027-09
 owner_role: Director NEO & Head of School
 neo_addendum: false
-last_reviewed: 2026-09
+last_reviewed: 2026-10
 related_policies: [complaints-policy, neo-home-school-agreement, neo-terms-and-conditions-parents-carers, neo-appeals-procedure]
 source_file: NEO Policies/NEO - Appeals and Complaints Policy v09.26.docx
 ---
-| **Date**        | September 2026                |
+| **Date**        | October 2026                  |
 |-----------------|-------------------------------|
 | **Review Date** | September 2027                |
 | **Owner**       | Director NEO & Head of School |
-| **Approved by** | Diego Melo, Proprietor        |
-| **Version**     | v09.26                        |
+| **Approved by** | v09.26 approved by the Proprietor (September 2026). v10.26 (§5 appeals route only) for approval by the Director, NEO & Head of School under authority delegated by the Proprietor on 13 October 2026; for noting at the NEO board on 3 December 2026 |
+| **Version**     | v10.26                        |
 
 *A fully online school for learners aged 11–18*
 
@@ -72,14 +72,15 @@ Complaints about the Proprietor are raised in writing to the Designated Safeguar
 
 ## 5. Appeals
 
-Appeals concern examinations and assessment. The [[neo-appeals-procedure|NEO Appeals Procedure]] sets out the detail; in summary:
+Appeals concern examinations and assessment. NEO's learners sit public examinations as private candidates through an approved examination centre (Tutors & Exams), with which the family contracts directly; NEO advises and supports but cannot enter candidates, request access arrangements or request post-results services. The [[neo-appeals-procedure|NEO Appeals Procedure]] sets out the detail; in summary:
 
-- **Internally assessed work.** Candidates are told their centre-assessed marks before submission and may request a review in writing to the Exams Officer within five working days. The review is carried out by a second member of teaching staff independent of the original marking, with a written, reasoned outcome within ten working days and before the submission deadline.
-- **Entries, tiers and access arrangements.** A family who disagrees with a decision on examination entry, tier or access arrangements may appeal in writing to the Director NEO & Head of School within ten working days; a written response with reasons follows within ten working days.
-- **Post-results services.** After results are issued, clerical re-checks, reviews of marking or moderation, and access to scripts are available through the host examination centre, co-ordinated by the Exams Officer, with the candidate's written consent and within published deadlines.
-- **Awarding organisation and regulator.** Where concerns remain after a review of marking, NEO will submit a preliminary and, if necessary, a full appeal to the awarding organisation at the family's request; the final avenue is Ofqual's Exam Procedures Review Service.
+- **NEO's entry and tier advice.** A family who disagrees with NEO's advice on whether, when or at which tier to enter may appeal in writing to the Director NEO & Head of School within ten working days; a written response with reasons follows within ten working days, or sooner where a deadline is near.
+- **Internally assessed work.** Where NEO offers a route with internally marked work (subject to a separate NEA agreement with the centre), learners are told their marks before submission and may request a review in writing to the Exams Officer within five working days. The review is carried out by a second Qualified Educator independent of the original marking, with a written, reasoned outcome within ten working days and before the centre's submission deadline.
+- **Access arrangements.** Decided by the examination centre under JCQ regulations. A family who disagrees raises it with the centre's Access Arrangements Team; NEO's SENCo provides evidence of the learner's normal way of working at the family's request.
+- **Post-results services, awarding organisation and regulator.** Clerical re-checks, reviews of marking or moderation, access to scripts and appeals to the awarding organisation are requested by the family directly from the centre, within its deadlines and at the published fees. NEO advises within two working days whether a review appears worthwhile and helps the family make the request in time; the final avenue is Ofqual's Exam Procedures Review Service.
+- **Complaints about the centre** are made by the family to the centre under its own policy; NEO helps the family set them out and raises systemic concerns under the annual Service Level Agreement.
 
-No candidate is treated less favourably for appealing in good faith, and awarding organisation and JCQ deadlines are absolute — NEO's internal deadlines are set to protect them.
+No learner is treated less favourably for appealing in good faith, and centre, awarding organisation and JCQ deadlines are absolute — NEO's internal deadlines are set to protect them.
 
 ## 6. Complaints About Personal Information
 
@@ -94,17 +95,17 @@ A written log of all formal complaints and appeals, their handling and their out
 | **Role**                       | **Responsibility**                                                                                                    |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | Proprietor                     | Overall accountability; receives complaints about the Director NEO & Head of School; sighted on outcomes and themes.  |
-| Director NEO & Head of School  | Owns this policy; decides formal complaints and entry/tier/access-arrangement appeals; convenes review panels.      |
+| Director NEO & Head of School  | Owns this policy; decides formal complaints and appeals against NEO's entry and tier advice; convenes review panels.      |
 | Designated Safeguarding Lead   | Receives safeguarding concerns directly; determines the handling of complaints about the Proprietor.                  |
-| Exams Officer                  | First point of contact for all examination and assessment appeals; deadlines, records and post-results co-ordination. |
+| Exams Officer                  | First point of contact for all examination and assessment appeals; deadlines, records and consent; helps families make post-results and appeal requests to the centre in time. |
 | Practitioner-Mentors and staff | First port of call for informal concerns; early, honest resolution wherever possible.                                 |
 
 ## 9. Incorporated and Related Documents
 
 - Nudge Education [[../01-all-company/complaints-policy|Complaints Policy]] (including the NEO complaints procedure) — incorporated by reference
-- [[neo-appeals-procedure|NEO Appeals Procedure]] v08.26 — incorporated by reference
+- [[neo-appeals-procedure|NEO Appeals Procedure]] v10.26 — incorporated by reference
 - [[../03-service-delivery/child-protection-and-safeguarding-policy|Child Protection and Safeguarding Policy]] (NEO Online Addendum)
-- [[neo-examination-venues-policy|NEO — Examination Venues Policy]] v08.26 and [[neo-examination-contingency-plan|NEO — Examination Contingency Plan]] v08.26
+- [[neo-examination-venues-policy|NEO — Examination Venues Policy]] v10.26, [[neo-examination-contingency-plan|NEO — Examination Contingency Plan]] v10.26 and [[neo-guide-to-examinations|NEO — Guide to Examinations at NEO]] v10.26
 - [[../01-all-company/whistleblowing-policy|Whistleblowing Policy]] (serious concerns outside the scope of this policy)
 - JCQ General Regulations for Approved Centres and related JCQ publications (current editions)
 
@@ -120,3 +121,4 @@ This policy is reviewed annually by the Director NEO & Head of School, alongside
 |---|---|---|
 | v08.26 | August 2026 | First combined appeals and complaints policy. |
 | v09.26 | September 2026 | Complaints route re-aligned with the Nudge Education Complaints Policy v2.0: one formal outcome and one review replace Stage 1 / Stage 2; outcome and review each normally within 15 working days; 10 working days to request a review. NEO's review keeps a panel with an independent member. |
+| v10.26 | October 2026 | §5 Appeals, roles and §9 aligned with the re-issued Examination Venues Policy, Examination Contingency Plan and Appeals Procedure v10.26 (Tutors & Exams Referral Partner model). Complaints route unchanged. |

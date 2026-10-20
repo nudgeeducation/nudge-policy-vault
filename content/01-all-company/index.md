@@ -22,4 +22,5 @@ Whole-company policies that apply across every part of Nudge Education Ltd, incl
 - [[privacy-policy-staff|Privacy Policy — Staff]] — *internal + applicants*
 - [[privacy-policy-web-users|Privacy Policy — Web Users]] — *external*
 - [[sar-request-policy|SAR Request Policy]] — *internal*
+- [[synthetic-identity-avatars-and-ai-generated-media-policy|Synthetic Identity, Avatars and AI-Generated Media Policy]] — *both* · draft for approval
 - [[whistleblowing-policy|Whistleblowing Policy]] — *both*

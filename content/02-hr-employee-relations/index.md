@@ -10,6 +10,7 @@ Employment, conduct, leave, and disciplinary policies — applies to all Nudge E
 
 ## Policies in this category
 
+- [[alcohol-and-drugs-policy|Alcohol and Drugs Policy]] · NEO addendum included · *draft*
 - [[annual-leave-policy|Annual Leave Policy]]
 - [[disciplinary-and-investigation-policy|Disciplinary and Investigation Policy]] · NEO addendum included
 - [[extraordinary-leave-policy|Extraordinary Leave Policy]]

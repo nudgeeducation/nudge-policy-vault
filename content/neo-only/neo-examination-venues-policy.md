@@ -4,15 +4,15 @@ audience: both
 groups: [all-staff, qualified-teachers, learners, parents-carers, commissioners]
 provision: neo
 type: standalone-neo
-status: live
-version: v08.26
+status: for-approval
+version: v10.26
 review_date: 2027-08
 owner_role: Director NEO & Head of School
 neo_addendum: false
-last_reviewed: 2026-08
+last_reviewed: 2026-10
 source_file: NEO Policies/NEO - Examination Venues Policy v08.26.docx
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** v08.26 · **Owner:** Director NEO & Head of School
+> **Operated by:** Nudge Education Ltd · **Version:** v10.26 · **Owner:** Director NEO & Head of School
 
 NEO BY NUDGE EDUCATION
 
@@ -21,86 +21,101 @@ Nudge Education Online
 
 | Policy Owner | Director, Nudge Education Online & Head of School |
 |---|---|
-| Approved | August 2026 |
-| Review Date | August 2027 |
-| Version | 08.26 |
+| Approved | For approval by the Director, NEO & Head of School under authority delegated by the Proprietor (CEO of Nudge Education Ltd) on 13 October 2026; for noting at the NEO board on 3 December 2026 |
+| Review Date | August 2027, before each examination cycle, or sooner if the partner arrangement or JCQ regulations change |
+| Version | 10.26 (supersedes 08.26) |
 | Operating Company | Nudge Education Ltd (Company Number 10192753) |
-| Proprietor | Diego Melo |
 | Accreditation Route | Online Education Accreditation Scheme (OEAS) — accreditation in progress |
+
+> **What changed in v10.26.** The 08.26 version described NEO as the body that enters candidates and liaises with the host centre on their behalf. Under the Tutors & Exams Referral Partner model (Service Level Agreement 2026/27, effective 1 September 2026) that is not how it works: the family applies to and contracts with the examination centre directly, and NEO has no authority to enter, amend or withdraw a candidate, request an access arrangement or a post-results service, or receive candidate data. This version describes the arrangement accurately. See the [[neo-guide-to-examinations|Guide to Examinations at NEO]] for the family-facing and practitioner-facing version.
 
 ## 1. Purpose and Scope
 
-NEO (Nudge Education Online) is a fully online school operated by Nudge Education Ltd. NEO delivers all teaching online and does not operate its own examination venue. This policy sets out how NEO secures appropriate physical examination venues for its learners, the checks applied to those venues, and the process by which a venue is identified and confirmed for each candidate.
+NEO (Nudge Education Online) is a fully online school operated by Nudge Education Ltd. NEO delivers all teaching online, does not operate an examination venue, and holds no centre approval or registration with any awarding organisation. NEO's learners sit public examinations as **private candidates** at approved examination centres. This policy sets out how NEO secures access to appropriate venues for its learners, the checks it applies, what NEO does and does not do in the examination process, and where responsibility sits at each stage.
 
-This policy applies to all public examinations for which NEO enters candidates, including Pearson Edexcel International GCSEs, and to all staff involved in examination administration. It should be read alongside the [[neo-examination-contingency-plan|NEO Examination Contingency Plan]] and the [[neo-appeals-procedure|NEO Appeals Procedure]].
+It applies to all public examinations taken by NEO learners while on roll — principally Pearson Edexcel International GCSEs, and other awarding organisations' qualifications where a learner is continuing a specification already begun elsewhere — and to all staff who advise learners and families about examinations. It should be read with the [[neo-examination-contingency-plan|NEO Examination Contingency Plan]], the [[neo-appeals-procedure|NEO Appeals Procedure]] and the [[neo-guide-to-examinations|Guide to Examinations at NEO]].
 
 ## 2. Examination Centre Partnership
 
-NEO conducts all paper-based examinations through Tutors & Exams (tutorsandexams.uk), a specialist examination centre provider for private and external candidates, established in 2014. Tutors & Exams operates JCQ-compliant examination centres holding their own approvals with the principal awarding organisations, including Pearson Edexcel, at locations across England including Birmingham, Bolton, Coventry, Doncaster, High Wycombe, Mitcham, Newcastle upon Tyne, Romford, St Neots and Taunton, together with affiliate provision.
+NEO is an approved **Learning Partner (Referral Partner)** of Tutors & Exams Ltd (tutorsandexams.uk), a specialist examination centre provider for private, home-educated and distance-learning candidates, established in 2014. Tutors & Exams operates JCQ-approved examination centres holding their own approvals with the principal awarding organisations, including Pearson Edexcel. For 2026/27 its network comprises centres at Birmingham, Bolton, Coventry, Doncaster, High Wycombe, Mitcham, Newcastle, Romford, St Neots and Taunton, together with a remote invigilation service for eligible Pearson Edexcel International qualifications.
 
-A written agreement between Nudge Education Ltd and the examination centre partner is maintained and sets out, as a minimum:
+The relationship is recorded in an annual Service Level Agreement between Tutors & Exams Ltd and Nudge Education Ltd. The SLA is a record of each organisation's roles and responsibilities, not a contract for examination services. Under it:
 
-- the services provided: examination venue, secure receipt and storage of examination papers, invigilation and exam-day administration in accordance with the JCQ Instructions for Conducting Examinations;
-- arrangements for candidate registration, entry deadlines and fees;
-- delivery of agreed access arrangements on the day of the examination;
-- safeguarding expectations for NEO candidates while on the host centre's premises;
-- communication routes between the NEO Exams Officer and the host centre's examinations team, including escalation contacts; and
-- data protection responsibilities of each party in respect of candidate personal data.
+- the **family** (the candidate and/or bill payer) applies directly to Tutors & Exams, provides all candidate information directly, accepts Tutors & Exams' terms and conditions, pays Tutors & Exams directly and manages the entry directly with Tutors & Exams;
+- **Tutors & Exams** administers entries, awarding organisation registration, access arrangements, venues, invigilation, examination-day delivery, results, post-results services and certificates, and communicates directly with the family;
+- **NEO** provides teaching, curriculum delivery, academic advice (awarding organisation, specification, tier, series), learner preparation and learner support; gives eligible families NEO's referral code; points families to the current Tutors & Exams application, fees and deadlines; and encourages early application.
 
-## 3. Process for Locating and Allocating Examination Venues
+NEO does not submit entries, collect or hold examination fees, act as intermediary for examination administration, or receive candidate data, entries, Statements of Entry, access arrangement outcomes, attendance information, results or certificates from Tutors & Exams. Nothing in the SLA creates a partnership in law, agency or authority for NEO to bind Tutors & Exams, and NEO does not represent itself as a Tutors & Exams examination centre.
 
-Because NEO learners live across the UK, venues are allocated per candidate rather than per cohort. The process is:
+NEO's referral code gives eligible candidates a 12.5% discount on eligible published fees where the application is complete before the standard entry deadline. The code is confidential to NEO's families: it is given to each family individually by the Exams Officer and is never published on NEO's website, in public documents or on this policy site.
 
-1. **Identify.** At the point examination entries are planned (no later than the awarding organisation's entry deadline for the relevant series), the Exams Officer identifies the partner examination centre nearest to each candidate's home address.
-2. **Confirm capacity.** The Exams Officer confirms with the host centre that it can accommodate the candidate for the required specification(s) and series, including any access arrangements.
-3. **Agree with the family.** The proposed venue, dates and travel implications are agreed with the learner's family (and commissioner, where a place is commissioned) before entries are made. Examination entry fees are charged separately from tuition fees and are confirmed at this point.
-4. **Enter.** The candidate is entered for the examination in accordance with the host centre's procedures and awarding organisation deadlines.
-5. **Prepare.** The Exams Officer provides the candidate and family with a written summary: venue address, arrival times, identification requirements, permitted equipment and the host centre's exam-day regulations. The learner's Practitioner-Mentor supports exam readiness as part of pastoral care.
-6. **Results and post-results.** Results are received and communicated to the candidate, and any post-results services are co-ordinated by the Exams Officer with the host centre, as set out in the [[neo-appeals-procedure|NEO Appeals Procedure]].
+## 3. Process for Identifying a Venue and Supporting Entry
 
-Where no partner centre is within reasonable travelling distance of a candidate, the Exams Officer will identify an alternative JCQ-approved centre that accepts external candidates, apply the checks in section 4, and put a written agreement in place before entry.
+Because NEO learners live across the UK and abroad, venues are identified per learner rather than per cohort. The process is:
+
+1. **Plan.** During the learner's review cycle, and no later than one term before the relevant entry deadline, the Qualified Educator, Practitioner-Mentor and Exams Officer agree with the learner and family which qualifications, specification codes, tiers and examination series are appropriate. This academic advice is NEO's responsibility.
+2. **Identify a venue.** The Exams Officer helps the family identify the Tutors & Exams centre nearest to the learner's home, or whether remote invigilation is available and suitable for the subjects concerned. The family may attend a Tutors & Exams open day to see the centre before applying.
+3. **Prepare the family.** The Exams Officer gives the family the [[neo-guide-to-examinations|Guide to Examinations at NEO]], NEO's referral code, the correct specification and tier codes, the current Tutors & Exams deadlines, and — where access arrangements are needed — the evidence NEO can supply (section 5).
+4. **The family applies.** The family completes the Tutors & Exams application, selecting "learning partner", naming Nudge Education Online, entering the referral code, uploading identification and evidence, and paying Tutors & Exams directly. NEO confirms with the family that the application has been made and that the Statement of Entry matches the agreed subjects.
+5. **Prepare the learner.** The Practitioner-Mentor supports examination readiness as part of pastoral care; the Qualified Educator leads academic preparation, including internal mock papers.
+6. **Results.** Tutors & Exams issues results to the family. NEO asks every family to share results with the school, under the agreement given at enrolment, so that NEO can report outcomes to commissioners and the Proprietor and advise on next steps, including post-results services (see the [[neo-appeals-procedure|NEO Appeals Procedure]]).
+
+Where no Tutors & Exams centre is within reasonable travelling distance and remote invigilation is not available for the subject, the Exams Officer will help the family identify an alternative JCQ-approved centre that accepts private candidates, applying the checks in section 4. The family applies to that centre directly in the same way.
 
 ## 4. Venue Checks
 
-Before any centre is used for NEO candidates, the Exams Officer confirms and records that the centre:
+Before NEO recommends any centre to a family, the Exams Officer confirms and records that the centre:
 
-- is approved by the relevant awarding organisation (for Pearson Edexcel examinations, holds a current Edexcel centre number, which is recorded against each candidate's entry);
-- operates in accordance with the JCQ General Regulations for Approved Centres and the JCQ Instructions for Conducting Examinations, including secure storage of examination materials;
-- accepts external/transferred candidates and has a named examinations contact;
-- can deliver the candidate's approved access arrangements;
-- has appropriate premises, insurance and safeguarding arrangements for candidates under 18; and
+- is approved by the relevant awarding organisation for the qualifications concerned;
+- is a JCQ-approved centre operating under the JCQ General Regulations for Approved Centres and the Instructions for Conducting Examinations;
+- accepts private candidates and has a published examinations contact;
+- can deliver the candidate's access arrangements, where known;
+- has published safeguarding, complaints and data protection arrangements appropriate to candidates under 18; and
 - provides suitable facilities for candidates with disabilities or medical needs.
 
-These checks are refreshed annually and whenever a new venue or series is used.
+For Tutors & Exams these checks are satisfied by the annual SLA and are refreshed when the SLA is renewed. For any other centre they are made and recorded before the centre is recommended. A particular centre or venue is never guaranteed by NEO: the family relies on the joining instructions issued by the centre.
 
-## 5. Access Arrangements at Venues
+## 5. Access Arrangements
 
-Access arrangements (for example extra time, rest breaks, a reader, a scribe, or a separate room) are identified through NEO's SEND processes, evidenced and approved in accordance with the JCQ Access Arrangements and Reasonable Adjustments regulations, and communicated to the host centre in good time. The Exams Officer confirms with the host centre, in writing and before the examination date, exactly which arrangements will be in place. Responsibility for delivering the arrangements on the day rests with the host centre under the partnership agreement; responsibility for ensuring they have been applied for, evidenced and communicated rests with NEO. See also the [[../03-service-delivery/send-policy|SEND Policy]].
+Access arrangements (for example extra time, supervised rest breaks, a reader, a scribe, a word processor or a separate room) are requested by the family directly from the examination centre as part of the application, and are approved by the centre under the JCQ Access Arrangements and Reasonable Adjustments regulations. NEO cannot request, approve or confirm an access arrangement, and no member of staff represents that an arrangement is in place until the centre has confirmed it to the family.
+
+NEO's role is to make sure the family knows what is needed and has the evidence. The SENCo, with the Qualified Educators, identifies the learner's needs through NEO's SEND processes, ensures that the support used in lessons and assessments at NEO reflects the learner's normal way of working, and — at the family's request — provides written evidence of that normal way of working for the centre's Access Arrangements Team. Families are advised to raise access arrangement needs at the point of application, well before the centre's evidence deadline. See the [[neo-send-policy|SEND Policy]].
+
+Remote invigilation is not an access arrangement. It is a separately charged service with its own technical requirements and deadlines, and some arrangements cannot be delivered remotely; families are referred to the centre's remote invigilation team to check suitability before applying.
 
 ## 6. Safeguarding
 
-NEO candidates attend examination venues accompanied by a parent or carer, or with their explicit consent, in line with the arrangements agreed at entry. Any safeguarding concern arising at a venue is reported to NEO's Designated Safeguarding Lead and handled under the [[../03-service-delivery/child-protection-and-safeguarding-policy|Child Protection and Safeguarding Policy]]. All safeguarding decisions defer to the DSL.
+NEO learners attend examination venues with a parent or carer, or with the parent's or carer's explicit consent, in line with arrangements agreed with the family. Any safeguarding concern arising at a venue is reported to NEO's Designated Safeguarding Lead and handled under the [[../03-service-delivery/child-protection-and-safeguarding-policy|Child Protection and Safeguarding Policy]]. Where a concern is directly relevant to a candidate attending Tutors & Exams, examination delivery, another candidate, the centre's personnel or the safety of a venue, the DSL notifies the centre's safeguarding function (safeguarding@tutorsandexams.uk), sharing only the information necessary for the concern. Immediate risk of harm is acted on at once, including contacting the emergency services, without waiting for the centre. All safeguarding decisions defer to the DSL.
 
-## 7. Roles and Responsibilities
+## 7. Data Protection
+
+The family provides the candidate's personal data (including photographic identification and a photograph for the desk card) directly to the examination centre, which is an independent data controller for that data under its own privacy notice and retention schedule. NEO does not transfer candidate data to the centre and does not receive candidate data from it. Evidence NEO supplies for access arrangements is given to the family, or sent to the centre at the family's documented request, and a copy is retained on the learner's SEND record. Results shared by families are held on the learner's record under the [[neo-data-protection-confidentiality-and-privacy-policy|Data Protection, Confidentiality and Privacy Policy]]. NEO may ask Tutors & Exams for the number of applications made using its referral code; this is a count only and contains no personal data.
+
+## 8. Roles and Responsibilities
 
 | Role | Responsibility |
 |---|---|
-| Head of Centre (Proprietor) | Overall accountability for the delivery of Pearson qualifications and for the partnership agreements with examination centres. |
-| Director NEO & Head of School | Oversight of this policy, partner relationships and its operation in practice. |
-| Exams Officer | Candidate administration; venue identification, checks and allocation; entries; access arrangements liaison; exam-day communications; results and post-results co-ordination. |
-| SENCo | Identification and evidencing of access arrangements; liaison with the Exams Officer. |
-| Designated Safeguarding Lead | Safeguarding oversight for candidates attending venues; point of escalation for any concern. |
-| Practitioner-Mentors | Pastoral preparation of learners for the examination experience; on-the-day family liaison where agreed. |
+| Proprietor | Overall accountability; approves the annual SLA with the examination centre partner. |
+| Director NEO & Head of School | Owns this policy; signs the SLA on the Proprietor's behalf; oversees the partner relationship and its operation in practice. |
+| Exams Officer | Keeps the referral code, deadlines and partner information current; gives families the Guide and the code; helps identify venues; confirms applications have been made; maintains the examinations log and the count of applications; NEO's point of contact with the partner. |
+| SENCo | Identifies learner needs; ensures normal way of working is embedded; provides evidence for access arrangements at the family's request. |
+| Qualified Educators | Academic advice on specification, tier and series; examination preparation and internal mocks. |
+| Practitioner-Mentors | Pastoral preparation; first point of contact for families; route examination-administration questions to the centre and academic questions to the Qualified Educator or Exams Officer. |
+| Designated Safeguarding Lead | Safeguarding oversight for candidates attending venues; liaison with the centre's safeguarding function. |
 
-## 8. Related Policies and Documents
+## 9. Related Policies and Documents
 
+- [[neo-guide-to-examinations|NEO — Guide to Examinations at NEO]]
 - [[neo-examination-contingency-plan|NEO — Examination Contingency Plan]]
-- [[neo-appeals-procedure|NEO — Appeals Procedure]] (with the [[../01-all-company/complaints-policy|Complaints Policy]])
+- [[neo-appeals-procedure|NEO — Appeals Procedure]] (with the [[neo-appeals-and-complaints-policy|NEO — Appeals and Complaints Policy]])
+- [[neo-terms-and-conditions-parents-carers|Terms and Conditions for Parents and Carers]] §9 and [[neo-terms-of-business-commissioned|Terms of Business (Commissioned Placements)]] Schedule 3
+- [[neo-home-school-agreement|Home-School Agreement]]
 - [[../03-service-delivery/child-protection-and-safeguarding-policy|Child Protection and Safeguarding Policy]]
-- [[../03-service-delivery/send-policy|SEND Policy]]
-- [[../01-all-company/data-protection-and-information-security|Data Protection and Information Security]]
+- [[neo-send-policy|SEND Policy]]
+- [[neo-data-protection-confidentiality-and-privacy-policy|Data Protection, Confidentiality and Privacy Policy]]
+- Tutors & Exams Referral Partner Annual Service Level Agreement 2026/27 (held by the Director NEO & Head of School)
 - JCQ General Regulations for Approved Centres; JCQ Instructions for Conducting Examinations; JCQ Access Arrangements and Reasonable Adjustments (current editions)
 
-## 9. Review
+## 10. Review
 
-This policy is reviewed annually by the Director NEO & Head of School, and additionally whenever the examination centre partnership, JCQ regulations or awarding organisation requirements change.
+This policy is reviewed annually by the Director NEO & Head of School before each examination cycle, and whenever the examination centre partnership, its SLA, JCQ regulations or awarding organisation requirements change.
