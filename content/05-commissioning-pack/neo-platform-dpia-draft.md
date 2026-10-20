@@ -5,6 +5,7 @@ groups: [slt-directors]
 provision: neo
 type: core
 status: draft
+draft: true
 version: 0.1-draft
 owner_role: Data Protection Officer
 neo_addendum: false
