@@ -5,18 +5,18 @@ groups: [commissioners, parents-carers]
 provision: all
 type: core
 status: live
-version: Aug 2026
+version: Oct 2026
 owner_role: Data Protection Officer
 neo_addendum: false
 source_file: 1. All Company/Privacy Policy Web Users - Dec 2025.pdf
 ---
-> **Operated by:** Nudge Education Ltd · **Version:** Aug 2026 · **Owner:** Data Protection Officer
+> **Operated by:** Nudge Education Ltd · **Version:** Oct 2026 · **Owner:** Data Protection Officer
 
-Privacy Policy: Web users Last updated: 6 August 2026
+Privacy Policy: Web users Last updated: 20 October 2026
 
 Date of next review: 6 December 2026
 
-Version: v2.3 Classification: Public Author: Data Protection Lead
+Version: v2.4 Classification: Public Author: Data Protection Lead
 
 Who we are
 Nudge Education Limited ("Nudge", "we", "us", "our"), company no. 10192753, Sirius
@@ -53,7 +53,9 @@ set these until you consent via the banner (PECR).
 Cookies
 - Strictly necessary cookies run without consent.
 - All other cookies (analytics/marketing/social) run only with your consent via our
-cookie banner. You can change choices anytime via "Cookie Settings".
+cookie banner. You can change choices anytime via the "Cookie choices" link in the
+site footer. Full details of the cookies we use are in our [Cookie Policy](#cookie-policy)
+below.
 
 Sharing
 We use vetted service providers (processors) for hosting, analytics, security and CRM;
@@ -84,7 +86,7 @@ we'd welcome the chance to resolve concerns first.
 Changes
 We update this notice as our processing changes and will post updates here (and notify
 you by email where appropriate).
-Cookie Policy
+## Cookie Policy
 What are cookies?
 Cookies are small text files stored on your device when you visit a website. They help the
 site function, keep it secure, remember your choices, and (with your permission) help us
@@ -155,7 +157,8 @@ Cookies on the NEO site family (added August 2026)
 Our NEO sites (nudgeeducation.online and its subdomains, including curriculum, courses,
 next, support and policies.nudgeeducation.online) use a single optional analytics tool:
 Google Analytics 4, loaded through Google Tag Manager. Nothing is set until you choose
-"Accept analytics" on the cookie banner; if you choose "No thanks", no analytics load at all.
+"Accept analytics" on the cookie banner; if you choose "Decline analytics", no analytics load at
+all. Both choices are presented identically on the banner.
 
 - Cookies set (only after consent): `_ga` and `_ga_*` (Google Analytics; used to
 distinguish visitors; expire after up to 2 years).
@@ -183,8 +186,9 @@ Email privacy@nudgeeducation.co.uk
 
 | Field | Value |
 |---|---|
-| Version | Aug 2026 |
+| Version | Oct 2026 |
 | Owner | Data Protection Officer |
 | Status | live |
 | Source file | `1. All Company/Privacy Policy Web Users - Dec 2025.pdf` |
 | Change note (Aug 2026) | v2.3: NEO site family analytics (consent-first GA4 via Tag Manager) and Cookie choices withdrawal link — signed off August 2026 |
+| Change note (Oct 2026) | v2.4: Cookie Policy made directly linkable from the Cookies section, the site footer and the banner; banner choices presented equally (Independent DPO review, 20 October 2026) |
